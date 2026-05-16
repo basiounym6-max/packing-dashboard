@@ -1,0 +1,75 @@
+body {
+
+  padding: 15px;
+
+  box-shadow: 0 0 15px rgba(0,255,255,0.3);
+}
+
+.chart-card h3 {
+  text-align: center;
+  margin-top: 0;
+
+  color: white;
+}
+
+.small-card {
+  width: 260px;
+  height: 320px;
+}
+
+.medium-card {
+  width: 350px;
+  height: 320px;
+}
+
+.large-card {
+  width: 500px;
+  height: 320px;
+}
+
+/* TABLE */
+.table-section {
+  margin: 20px;
+}
+
+table {
+  width: 100%;
+
+  border-collapse: collapse;
+
+  background: #0e0030;
+
+  border: 1px solid #ff00ff;
+}
+
+th {
+  background: #19004d;
+  color: white;
+
+  padding: 12px;
+
+  border: 1px solid #00d9ff;
+}
+
+
+td {
+  padding: 10px;
+
+  text-align: center;
+
+  border: 1px solid #2d006f;
+}
+
+tr:hover {
+  background: rgba(255,255,255,0.05);
+}
+
+.pass {
+  color: #00ff88;
+  font-weight: bold;
+}
+
+.reject {
+  color: #ff4d4d;
+  font-weight: bold;
+}

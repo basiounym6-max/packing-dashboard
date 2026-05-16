@@ -1,0 +1,2402 @@
+Job_Number,Date,QC_Name,Inspection_Status,Inspection_By,Category,Month,Year
+ RRL-24,13-Mar-24,Fady,Pass,M.Basiuony,Passed,Mar,2024
+RMK-1252 ,14-Mar-24,A.Lotfy,Pass,Ehab Sadar,Passed,Mar,2024
+RMK-646,14-Mar-24,Fady,Pass,M.Basiuony,Passed,Mar,2024
+ RMK-1096,16-Mar-24,Fady,Pass,M.Basiuony,Passed,Mar,2024
+RMK-1125,16-Mar-24,Fady,Pass,M.Basiuony,Passed,Mar,2024
+RHG-6,18-Mar-24,Fady,Pass,M.Basiuony,Passed,Mar,2024
+RMK-841 ,18-Mar-24,Fady,Pass,M.Basiuony,Passed,Mar,2024
+RZS-9,18-Mar-24,Fady,Pass,M.Basiuony,Passed,Mar,2024
+RMK-1153,18-Mar-24,Fady,Pass,M.Basiuony,Passed,Mar,2024
+RSD-11,20-Mar-24,Fady,Pass,M.Basiuony,Passed,Mar,2024
+RHG-21,20-Mar-24,Fady,Pass,M.Basiuony,Passed,Mar,2024
+UMA-37 ,20-Mar-24,A.Lotfy,Pass,Ehab Sadar,Passed,Mar,2024
+ RMK-1174,20-Mar-24,A.Lotfy,Pass,Ehab Sadar,Passed,Mar,2024
+RMK-73 ,23-Mar-24,Hatem,Pass,Ehab Sadar,Passed,Mar,2024
+RMS-215,23-Mar-24,Hatem,Pass,Ehab Sadar,Passed,Mar,2024
+RNG-83 ,23-Mar-24,Hatem,Pass,Ehab Sadar,Passed,Mar,2024
+RMK-1297 ,23-Mar-24,Hatem,Pass,Ehab Sadar,Passed,Mar,2024
+FSL-127 ,24-Mar-24,Hatem,Pass,M.Basiuony,Passed,Mar,2024
+RMK-704 ,24-Mar-24,Fady,Pass,M.Basiuony,Passed,Mar,2024
+RZS-15 ,24-Mar-24,Fady,Pass,M.Basiuony,Passed,Mar,2024
+RMK-57,24-Mar-24,Hatem,Reject,Ehab Sadar,Press Issue,Mar,2024
+RMK-67 ,25-Mar-24,Hatem,Pass,M.Basiuony,Passed,Mar,2024
+RMS-118 ,25-Mar-24,Fady,Pass,M.Basiuony,Passed,Mar,2024
+RMS-219 ,25-Mar-24,Fady,Pass,M.Basiuony,Passed,Mar,2024
+RNG-25 ,25-Mar-24,Fady,Pass,M.Basiuony,Passed,Mar,2024
+UMA-12,25-Mar-24,Hatem,Pass,M.Basiuony,Passed,Mar,2024
+RMK-78 ,25-Mar-24,Fady,Pass,M.Basiuony,Passed,Mar,2024
+RHG-44 ,25-Mar-24,Hatem,Pass,Ehab Sadar,Passed,Mar,2024
+RHG-54 ,25-Mar-24,Fady,Pass,Ehab Sadar,Passed,Mar,2024
+RMK-135 ,25-Mar-24,Fady,Pass,Ehab Sadar,Passed,Mar,2024
+RMS-220 ,25-Mar-24,Hatem,Pass,Ehab Sadar,Passed,Mar,2024
+RQN-7 ,25-Mar-24,Hatem,Pass,Ehab Sadar,Passed,Mar,2024
+RTA-5 ,25-Mar-24,Hatem,Pass,Ehab Sadar,Passed,Mar,2024
+RDM-2 ,27-Mar-24,Hatem,Pass,M.Basiuony,Passed,Mar,2024
+RMS-26 ,27-Mar-24,Fady,Pass,M.Basiuony,Passed,Mar,2024
+RMK-353 ,27-Mar-24,Hatem,Pass,M.Basiuony,Passed,Mar,2024
+FSL-140 ,26-Mar-24,Hatem,Pass,Ehab Sadar,Passed,Mar,2024
+RSD-5 ,27-Mar-24,Hatem,Pass,M.Basiuony,Passed,Mar,2024
+RMK-787 ,27-Mar-24,Hatem,Pass,M.Basiuony,Passed,Mar,2024
+RSZ-46 ,27-Mar-24,Fady,Pass,M.Basiuony,Passed,Mar,2024
+RMS-11 ,27-Mar-24,Hatem,Pass,M.Basiuony,Passed,Mar,2024
+RMK-1310 ,27-Mar-24,A.Lotfy,Pass,M.Basiuony,Passed,Mar,2024
+FSL-77 ,27-Mar-24,Fady,Pass,M.Basiuony,Passed,Mar,2024
+UMA-16 ,27-Mar-24,Hatem,Pass,M.Basiuony,Passed,Mar,2024
+RMK-50 ,27-Mar-24,Hatem,Pass,Ehab Sadar,Passed,Mar,2024
+UMA-59 ,28-Mar-24,Fady,Pass,Ehab Sadar,Passed,Mar,2024
+RPR-2 ,28-Mar-24,Hatem,Pass,Ehab Sadar,Passed,Mar,2024
+RMK-1286,28-Mar-24,A.Lotfy,Pass,M.Basiuony,Passed,Mar,2024
+RNG-63 ,30-Mar-24,Fady,Pass,M.Basiuony,Passed,Mar,2024
+RMK-1235 ,30-Mar-24,A.Lotfy,Pass,M.Basiuony,Passed,Mar,2024
+RMS-210 ,30-Mar-24,Hatem,Pass,M.Basiuony,Passed,Mar,2024
+RMK-1281 ,30-Mar-24,A.Lotfy,Pass,M.Basiuony,Passed,Mar,2024
+RTA-7 ,30-Mar-24,Fady,Pass,M.Basiuony,Passed,Mar,2024
+FSL-86 ,30-Mar-24,Fady,Pass,M.Basiuony,Passed,Mar,2024
+RMK-341 ,30-Mar-24,Hatem,Pass,M.Basiuony,Passed,Mar,2024
+RMK-1315,30-Mar-24,A.Lotfy,Pass,M.Basiuony,Passed,Mar,2024
+RMK-160,31-Mar-24,Fady,Reject,M.Basiuony,Mismatch Back cover,Mar,2024
+UMA-40 ,31-Mar-24,Hatem,Pass,M.Basiuony,Passed,Mar,2024
+RMK-15 ,31-Mar-24,Fady,Pass,Ehab Sadar,Passed,Mar,2024
+RMK-1182 ,31-Mar-24,Hatem,Pass,Ehab Sadar,Passed,Mar,2024
+RMK-1296,01-Apr-24,A.Lotfy,Pass,Ehab Sadar,Passed,Apr,2024
+RMK-1283,01-Apr-24,A.Lotfy,Pass,Ehab Sadar,Passed,Apr,2024
+RMK-1295,01-Apr-24,A.Lotfy,Pass,Ehab Sadar,Passed,Apr,2024
+RMK-943,01-Apr-24,Fady,Pass,Ehab Sadar,Passed,Apr,2024
+RMK-1287,02-Apr-24,A.Lotfy,Pass,Ehab Sadar,Passed,Apr,2024
+RMK-1277,02-Apr-24,A.Lotfy,Pass,Ehab Sadar,Passed,Apr,2024
+RMK-1288 ,02-Apr-24,A.Lotfy,Pass,Ehab Sadar,Passed,Apr,2024
+RMK-1298 ,02-Apr-24,A.Lotfy,Pass,M.Basiuony,Passed,Apr,2024
+RMK-1151 ,03-Apr-24,Fady,Pass,M.Basiuony,Passed,Apr,2024
+RMK-1184 ,03-Apr-24,A.Lotfy,Pass,M.Basiuony,Passed,Apr,2024
+RMK-1166 ,04-Apr-24,A.Lotfy,Pass,M.elsayed,Passed,Apr,2024
+UMA-29 ,04-Apr-24,Fady,Pass,M.elsayed,Passed,Apr,2024
+RMK-367,05-Apr-24,Fady,Reject,Ehab Sadar,Touch unstable,Apr,2024
+RMK-1301 ,04-Apr-24,A.Lotfy,Pass,M.elsayed,Passed,Apr,2024
+RMS-136 ,06-Apr-24,Fady,Pass,M.Basiuony,Passed,Apr,2024
+RMK-1059,06-Apr-24,Hatem,Reject,M.Basiuony,Grade Upgrade,Apr,2024
+UMA-15 ,06-Apr-24,Hatem,Pass,M.Basiuony,Passed,Apr,2024
+RMK-706 ,07-Apr-24,Fady,Pass,M.Basiuony,Passed,Apr,2024
+UMA-46 ,07-Apr-24,Hatem,Pass,M.Basiuony,Passed,Apr,2024
+RMK-755 ,07-Apr-24,Hatem,Pass,M.Basiuony,Passed,Apr,2024
+RMK-778 ,07-Apr-24,Hatem,Pass,M.Basiuony,Passed,Apr,2024
+UMA-68 ,07-Apr-24,Fady,Pass,M.Basiuony,Passed,Apr,2024
+RMK-906 ,07-Apr-24,Hatem,Pass,M.elsayed,Passed,Apr,2024
+RMK-1373 ,07-Apr-24,M.Samir,Pass,M.Basiuony,Passed,Apr,2024
+RMK-1332 ,07-Apr-24,Hatem,Pass,M.Basiuony,Passed,Apr,2024
+RHG-23 ,08-Apr-24,Fady,Pass,M.Basiuony,Passed,Apr,2024
+RMS-149 ,08-Apr-24,Hatem,Pass,M.Basiuony,Passed,Apr,2024
+RMS-93 ,09-Apr-24,Fady,Pass,M.Basiuony,Passed,Apr,2024
+UMA-51 ,08-Apr-24,Hatem,Pass,M.elsayed,Passed,Apr,2024
+RMK-1344 ,09-Apr-24,M.Samir,Pass,M.Basiuony,Passed,Apr,2024
+RMK-898 ,08-Apr-24,Hatem,Pass,M.elsayed,Passed,Apr,2024
+RRL-1 ,09-Apr-24,Hatem,Pass,M.Basiuony,Passed,Apr,2024
+RMK-1337 ,09-Apr-24,Hatem,Pass,M.Basiuony,Passed,Apr,2024
+RMK-749 ,09-Apr-24,Hatem,Pass,M.Basiuony,Passed,Apr,2024
+RMK-1052 ,15-Apr-24,Fady,Pass,Ehab Sadar,Passed,Apr,2024
+RMK-1330 ,15-Apr-24,Fady,Pass,Ehab Sadar,Passed,Apr,2024
+RMK-842,16-Apr-24,Fady,Pass,Ehab Sadar,Passed,Apr,2024
+ RMK-1314,16-Apr-24,A.Lotfy,Pass,Ehab Sadar,Passed,Apr,2024
+RMK-698,17-Apr-24,Hatem,Reject,Ehab Sadar,Grade Downgrade,Apr,2024
+RMK-1341 ,17-Apr-24,Fady,Pass,Ehab Sadar,Passed,Apr,2024
+RMK-1347 ,17-Apr-24,Fady,Pass,Ehab Sadar,Passed,Apr,2024
+RMK-1304 ,17-Apr-24,Hatem,Pass,Ehab Sadar,Passed,Apr,2024
+UMA-20 ,17-Apr-24,Hatem,Pass,Ehab Sadar,Passed,Apr,2024
+RMK-1349 ,17-Apr-24,Hatem,Pass,Ehab Sadar,Passed,Apr,2024
+RMK-1363 ,17-Apr-24,A.Lotfy,Pass,M.elsayed,Passed,Apr,2024
+RMK-1367 ,17-Apr-24,A.Lotfy,Pass,M.elsayed,Passed,Apr,2024
+RMK-1384,18-Apr-24,Fady,Pass,M.elsayed,Passed,Apr,2024
+RMK-1379 ,18-Apr-24,Fady,Pass,M.elsayed,Passed,Apr,2024
+RMK-1350 ,45400,Fady,Pass,Ehab Sadar,Passed,Apr,2024
+RMK-1370 ,45400,A.Lotfy,Pass,Ehab Sadar,Passed,Apr,2024
+RMK-1383 ,45400,Hatem,Pass,M.elsayed,Passed,Apr,2024
+RMK-1368 ,45400,Hatem,Pass,M.elsayed,Passed,Apr,2024
+RMK-1360 ,45400,Fady,Pass,M.elsayed,Passed,Apr,2024
+RMK-1374 ,45400,M.Samir,Pass,Ehab Sadar,Passed,Apr,2024
+RMK-1159 ,45400,Fady,Pass,Ehab Sadar,Passed,Apr,2024
+RMK-1256 ,45404,Hatem,Pass,M.elsayed,Passed,Apr,2024
+RMK-1345 ,45404,Hatem,Pass,M.elsayed,Passed,Apr,2024
+RMK-1389 ,45404,Hatem,Pass,M.elsayed,Passed,Apr,2024
+RMK-1364 ,45404,Hatem,Pass,M.Basiuony,Passed,Apr,2024
+RMK-1394 ,45404,A.Lotfy,Pass,Ehab Sadar,Passed,Apr,2024
+RMK-1354 ,45404,M.Samir,Pass,Ehab Sadar,Passed,Apr,2024
+RMK-1372 ,45404,Fady,Pass,Ehab Sadar,Passed,Apr,2024
+RMK-1234,45404,Hatem,Reject,M.Basiuony,Screws Issue,Apr,2024
+RMK-1352,45404,Hossam,Pass,Ehab Sadar,Passed,Apr,2024
+RMK-1291,45404,Hatem,Reject,Ehab Sadar,Grade Downgrade,Apr,2024
+RMK-1239 ,45405,Fady,Pass,Ehab Sadar,Passed,Apr,2024
+RMK-1257 ,45406,Hatem,Pass,Ehab Sadar,Passed,Apr,2024
+RMK-1396 ,45406,Fady,Pass,Ehab Sadar,Passed,Apr,2024
+RMK-1230,45406,A.Lotfy,Reject,M.Basiuony,Screws Issue,Apr,2024
+RMK-1317,45406,Fady,Reject,Ehab Sadar,Screws Issue,Apr,2024
+RMK-1420 ,45406,Hatem,Pass,Ehab Sadar,Passed,Apr,2024
+RMK-1308 ,45406,Fady,Pass,M.Basiuony,Passed,Apr,2024
+RMK-1203,45406,Hatem,Reject,M.elsayed,Press Issue,Apr,2024
+RMK-1241 ,45406,Hatem,Pass,Ehab Sadar,Passed,Apr,2024
+RMK-1263 ,45407,Fady,Pass,M.elsayed,Passed,Apr,2024
+RMK-1302 ,45407,Fady,Pass,Ehab Sadar,Passed,Apr,2024
+RMK-1259 ,45409,Fady,Pass,M.elsayed,Passed,Apr,2024
+RMK-1211 ,45409,Fady,Pass,Ehab Sadar,Passed,Apr,2024
+RMK-1220 ,45409,Fady,Pass,Ehab Sadar,Passed,Apr,2024
+RMK-1236 ,45409,A.Lotfy,Pass,Ehab Sadar,Passed,Apr,2024
+RMK-1181 ,45410,Fady,Pass,M.elsayed,Passed,Apr,2024
+RMK-1267,45410,A.Lotfy,Reject,M.elsayed,Grade Upgrade,Apr,2024
+RMK-1187,45410,Hatem,Reject,M.Basiuony,Data error,Apr,2024
+RMK-1269 ,45410,Fady,Pass,Ehab Sadar,Passed,Apr,2024
+RMK-1292,45410,Hatem,Pass,Ehab Sadar,Passed,Apr,2024
+RMK-1190  ,45410,Fady,Pass,M.Basiuony,Passed,Apr,2024
+RMK-1255 ,45410,A.Lotfy,Pass,M.Basiuony,Passed,Apr,2024
+RMK-1178 ,45532,A.Lotfy,Pass,M.elsayed,Passed,Apr,2024
+RMK-869,45411,Fady,Pass,Ehab Sadar,Passed,Apr,2024
+RMK-319,45411,Fady,Pass,Ehab Sadar,Passed,Apr,2024
+RMK-451,45411,Hossam,Reject,M.Basiuony,Press Issue,Apr,2024
+RMK-649,45411,Fady,Pass,Ehab Sadar,Passed,Apr,2024
+RMK-651,45411,Fady,Pass,Ehab Sadar,Passed,Apr,2024
+RMK-728,45411,Fady,Pass,Ehab Sadar,Passed,Apr,2024
+RMK-280,45411,Fady,Pass,M.elsayed,Passed,Apr,2024
+RMK-314,45411,Fady,Pass,Ehab Sadar,Passed,Apr,2024
+RMS-135,45411,Fady,Pass,Ehab Sadar,Passed,Apr,2024
+RMK-202,45411,Fady,Pass,Ehab Sadar,Passed,Apr,2024
+RMS-146,45411,Fady,Pass,Ehab Sadar,Passed,Apr,2024
+RMS-64,45411,Fady,Pass,M.elsayed,Passed,Apr,2024
+RMS-72,45411,Fady,Pass,Ehab Sadar,Passed,Apr,2024
+RNG-76,45411,Fady,Reject,M.Basiuony,Press Issue,Apr,2024
+RHG-13,45411,Fady,Pass,Ehab Sadar,Passed,Apr,2024
+RMK-1124,45411,Fady,Reject,M.elsayed,Shipping Issue,Apr,2024
+RMK-1066,45411,Fady,Pass,Ehab Sadar,Passed,Apr,2024
+RMK-1010,45411,Fady,Pass,Ehab Sadar,Passed,Apr,2024
+RMK-1212,45419,Fady,Reject,Ehab Sadar,Screws Issue,Apr,2024
+RMK-1160 ,45411,Fady,Pass,Ehab Sadar,Passed,Apr,2024
+RMK-1415 ,45411,M.Samir,Pass,Ehab Sadar,Passed,Apr,2024
+RMK-1402 ,45411,M.Samir,Pass,Ehab Sadar,Passed,Apr,2024
+RMK-1405 ,45411,M.Samir,Pass,Ehab Sadar,Passed,Apr,2024
+RMK-1404 ,45411,M.Samir,Pass,M.Basiuony,Passed,Apr,2024
+RMK-1400 ,45411,M.Samir,Pass,M.Basiuony,Passed,Apr,2024
+RMK-1406 ,45411,M.Samir,Pass,M.Basiuony,Passed,Apr,2024
+RMK-1410 ,45411,M.Samir,Pass,Ehab Sadar,Passed,Apr,2024
+RMK-1399 ,45411,M.Samir,Pass,Ehab Sadar,Passed,Apr,2024
+RMK-1412 ,45411,M.Samir,Pass,M.Basiuony,Passed,Apr,2024
+RMK-1409 ,45411,M.Samir,Pass,M.Basiuony,Passed,Apr,2024
+RMK-1411 ,45411,M.Samir,Pass,Ehab Sadar,Passed,Apr,2024
+RMK-1401 ,45411,M.Samir,Pass,Ehab Sadar,Passed,Apr,2024
+RMK-1397 ,45411,M.Samir,Pass,Ehab Sadar,Passed,Apr,2024
+RMK-1196,45411,Hossam,Reject,M.elsayed,Screws Issue,Apr,2024
+RMK-1408 ,45411,Hossam,Pass,Ehab Sadar,Passed,Apr,2024
+UMA-61,45411,Hatem,Pass,Ehab Sadar,Passed,Apr,2024
+RMK-1186,45411,Hatem,Pass,Ehab Sadar,Passed,Apr,2024
+RMK-1201,45411,Hatem,Reject,M.elsayed,Screws Issue,Apr,2024
+RNG-123,45411,Hatem,Reject,M.Basiuony,Screen Issue,Apr,2024
+RMK-754,45411,Hatem,Pass,M.elsayed,Passed,Apr,2024
+UMA-54,45412,Hatem,Pass,Ehab Sadar,Passed,Apr,2024
+RMK-1289,45412,A.Lotfy,Pass,Ehab Sadar,Passed,Apr,2024
+RMK-1426,45412,Fady,Pass,M.elsayed,Passed,Apr,2024
+RMK-1446,45412,Hatem,Reject,Ehab Sadar,Screws Issue,Apr,2024
+UMA-43,45412,Hatem,Reject,Ehab Sadar,Screws Issue,Apr,2024
+RMK-1245 ,45412,Hossam,Pass,Ehab Sadar,Passed,Apr,2024
+RMK-1264,45413,A.Lotfy,Reject,Ehab Sadar,Screen Issue,May,2024
+RMK-1247,45413,A.Lotfy,Pass,Ehab Sadar,Passed,May,2024
+RMK-1414,45413,Hossam,Pass,Ehab Sadar,Passed,May,2024
+RMK-1176,45413,Hatem,Reject,Ehab Sadar,Press Issue,May,2024
+RMK-1192,45413,Hatem,Pass,M.elsayed,Passed,May,2024
+RMK-1214,45413,Fady,Pass,M.elsayed,Passed,May,2024
+RMK-1037,45413,Hatem,Pass,M.elsayed,Passed,May,2024
+RMK-1027,45413,Fady,Pass,Ehab Sadar,Passed,May,2024
+RMK-1195,45413,Hossam,Pass,M.elsayed,Passed,May,2024
+UMA-70,45413,A.Lotfy,Pass,Ehab Sadar,Passed,May,2024
+RMK-1428 ,45416,A.Lotfy,Pass,Ehab Sadar,Passed,May,2024
+UMA-64 ,45416,Hatem,Pass,Ehab Sadar,Passed,May,2024
+RMK-1026 ,45416,Hatem,Pass,Ehab Sadar,Passed,May,2024
+RMK-1416,45417,A.Lotfy,Reject,M.Basiuony,Screws Issue,May,2024
+RMK-1443 ,45419,A.Lotfy,Pass,Ehab Sadar,Passed,May,2024
+RMK-1228 ,45419,Fady,Pass,Ehab Sadar,Passed,May,2024
+RMK-984 ,45419,A.Lotfy,Pass,Ehab Sadar,Passed,May,2024
+RMK-1191 ,45419,A.Lotfy,Pass,Ehab Sadar,Passed,May,2024
+RMK-1172 ,45419,Hatem,Pass,M.elsayed,Passed,May,2024
+RMK-1266 ,45420,Fady,Pass,M.elsayed,Passed,May,2024
+RMK-1273 ,45420,Hatem,Reject,M.elsayed,Grade Downgrade,May,2024
+RMK-1447 ,45420,Fady,Pass,M.elsayed,Passed,May,2024
+RMK-245 ,45420,Hatem,Pass,M.elsayed,Passed,May,2024
+RMK-818,45420,Hatem,Pass,M.elsayed,Passed,May,2024
+RMK-1299 ,45421,Fady,Pass,M.elsayed,Passed,May,2024
+RMK-1226 ,45421,Fady,Pass,Ehab Sadar,Passed,May,2024
+RMK-1290 ,45421,Fady,Pass,Ehab Sadar,Passed,May,2024
+RMK-1238 ,45424,Fady,Pass,M.elsayed,Passed,May,2024
+RMK-1320 ,45424,Fady,Pass,Ehab Sadar,Passed,May,2024
+RMK-592 ,45425,Fady,Pass,Ehab Sadar,Passed,May,2024
+RMK-1430 ,45425,Hossam,Pass,M.Basiuony,Passed,May,2024
+RMK-1213  ,45427,Hossam,Pass,M.Basiuony,Passed,May,2024
+ RMK-1240,45427,Hatem,Reject,M.Basiuony,Press Issue,May,2024
+RMK-1293 ,45427,Fady,Pass,M.elsayed,Passed,May,2024
+RMK-1407 ,45427,Hossam,Pass,M.elsayed,Passed,May,2024
+RMK-1424 ,45427,Fady,Pass,M.elsayed,Passed,May,2024
+UMA-27 ,45427,Fady,Pass,M.Basiuony,Passed,May,2024
+RMK-1194 ,45427,Hossam,Pass,M.elsayed,Passed,May,2024
+RMK-1316 ,45427,Hossam,Pass,M.elsayed,Passed,May,2024
+RMS-105 ,45428,A.Lotfy,Pass,M.elsayed,Passed,May,2024
+RMK-1015 ,45428,A.Lotfy,Pass,M.Basiuony,Passed,May,2024
+RMK-1210,45428,Hossam,Reject,M.elsayed,Shipping Issue,May,2024
+RMK-1063 ,45430,Fady,Pass,M.Basiuony,Passed,May,2024
+RMK-1274 ,45430,A.Lotfy,Pass,M.Basiuony,Passed,May,2024
+RNG-72,45430,A.Lotfy,Reject,Ehab Sadar,Battery drain Issue,May,2024
+RMK-1078,45431,Hatem,Reject,Ehab Sadar,Data error,May,2024
+RMK-1133 ,45431,Hatem,Pass,Ehab Sadar,Passed,May,2024
+PST-1 ,45432,Fady,Pass,M.Basiuony,Passed,May,2024
+RMK-630 ,45432,Hatem,Pass,M.elsayed,Passed,May,2024
+UMA-69 ,45432,Hatem,Pass,M.Basiuony,Passed,May,2024
+UMA-33 ,45432,Hatem,Pass,M.Basiuony,Passed,May,2024
+UMA-38 ,45433,Hossam,Pass,Ehab Sadar,Passed,May,2024
+RMS-192 ,45434,Fady,Pass,M.Basiuony,Passed,May,2024
+UMA-35,45434,Hossam,Pass,Ehab Sadar,Passed,May,2024
+RMK-1152 ,45435,A.Lotfy,Pass,Ehab Sadar,Passed,May,2024
+RMK-1450 ,45435,A.Lotfy,Pass,Ehab Sadar,Passed,May,2024
+RMK-1362 ,45435,Hatem,Pass,Ehab Sadar,Passed,May,2024
+RMK-937 ,45435,Hatem,Pass,Ehab Sadar,Passed,May,2024
+UMA-72 ,45435,Hatem,Pass,Ehab Sadar,Passed,May,2024
+RMK-1161 ,45437,Fady,Pass,M.elsayed,Passed,May,2024
+RMK-1445 ,45437,Hossam,Pass,Ehab Sadar,Passed,May,2024
+RMK-1448 ,45437,Hossam,Pass,Ehab Sadar,Passed,May,2024
+RMK-1275 ,45438,Hossam,Pass,Ehab Sadar,Passed,May,2024
+RMK-802 ,45438,Hatem,Pass,Ehab Sadar,Passed,May,2024
+RMK-840 ,45438,Hossam,Pass,Ehab Sadar,Passed,May,2024
+RMK-1258 ,45438,Fady,Pass,Ehab Sadar,Passed,May,2024
+RMS-48 ,45438,Hossam,Pass,Ehab Sadar,Passed,May,2024
+UMA-47,45438,Fady,Reject,Ehab Sadar,Press Issue,May,2024
+UMA-31 ,45438,Hossam,Pass,M.Basiuony,Passed,May,2024
+RMK-1307 ,45438,Fady,Pass,M.Basiuony,Passed,May,2024
+RMK-1338 ,45438,M.Samir,Pass,M.Basiuony,Passed,May,2024
+RMK-1346 ,45438,A.Lotfy,Pass,M.Basiuony,Passed,May,2024
+UMA-66 ,45439,Fady,Pass,Ehab Sadar,Passed,May,2024
+RMK-1183,45439,Hatem,Reject,M.Basiuony,Data error,May,2024
+RMS-115 ,45439,Fady,Pass,Ehab Sadar,Passed,May,2024
+UMA-60 ,45439,Hatem,Pass,M.Basiuony,Passed,May,2024
+RMK-1391 ,45439,A.Lotfy,Pass,Ehab Sadar,Passed,May,2024
+RMK-1173 ,45439,Fady,Pass,Ehab Sadar,Passed,May,2024
+RMK-1198 ,45439,Hatem,Pass,Ehab Sadar,Passed,May,2024
+RMK-1381 ,45439,Hossam,Pass,Ehab Sadar,Passed,May,2024
+RMK-1371 ,45439,Hossam,Pass,M.Basiuony,Passed,May,2024
+RMK-1357 ,45439,M.Samir,Pass,Ehab Sadar,Passed,May,2024
+RMK-1348 ,45439,Hatem,Pass,Ehab Sadar,Passed,May,2024
+RMS-157 ,45439,Fady,Pass,Ehab Sadar,Passed,May,2024
+RMK-1385 ,45439,M.Samir,Pass,M.Basiuony,Passed,May,2024
+UMA-52 ,45439,Fady,Pass,Ehab Sadar,Passed,May,2024
+UMA-39 ,45439,Hatem,Pass,Ehab Sadar,Passed,May,2024
+RMK-1388 ,45440,Fady,Pass,Ehab Sadar,Passed,May,2024
+RMK-845,45440,Hossam,Reject,Ehab Sadar,Press Issue,May,2024
+RMK-1285 ,45440,Hossam,Reject,Ehab Sadar,Screen Issue,May,2024
+RMK-1339 ,45440,Fady,Pass,Ehab Sadar,Passed,May,2024
+RMK-1392 ,45440,Fady,Pass,Ehab Sadar,Passed,May,2024
+RMK-1138 ,45440,Fady,Pass,Ehab Sadar,Passed,May,2024
+RMK-1175 ,45440,A.Lotfy,Pass,M.elsayed,Passed,May,2024
+RMK-1179 ,45440,Fady,Pass,Ehab Sadar,Passed,May,2024
+RMK-1270 ,45440,Fady,Pass,Ehab Sadar,Passed,May,2024
+RMK-1366 ,45440,Fady,Pass,M.Basiuony,Passed,May,2024
+RMK-1393 ,45440,Hossam,Pass,Ehab Sadar,Passed,May,2024
+RNG-71 ,45441,Hossam,Pass,M.Basiuony,Passed,May,2024
+RMK-1147 ,45441,Hossam,Pass,M.Basiuony,Passed,May,2024
+UMA-50 ,45441,A.Lotfy,Pass,M.Basiuony,Passed,May,2024
+RMK-1387 ,45441,Hossam,Pass,Ehab Sadar,Passed,May,2024
+RMK-1418 ,45441,A.Lotfy,Pass,Ehab Sadar,Passed,May,2024
+RMK-1200 ,45441,A.Lotfy,Pass,M.elsayed,Passed,May,2024
+RMK-1336 ,45441,Hatem,Pass,Ehab Sadar,Passed,May,2024
+RMK-1380 ,45441,Fady,Pass,Ehab Sadar,Passed,May,2024
+UMA-41 ,45441,M.Samir,Pass,Ehab Sadar,Passed,May,2024
+UMA-34 ,45441,M.Samir,Pass,Ehab Sadar,Passed,May,2024
+RMK-1309 ,45442,Hossam,Pass,M.Basiuony,Passed,May,2024
+UMA-28 ,45442,Hatem,Pass,Ehab Sadar,Passed,May,2024
+RMK-1353 ,45442,Hatem,Pass,Ehab Sadar,Passed,May,2024
+RMK-867 ,45442,M.Samir,Pass,Ehab Sadar,Passed,May,2024
+UMA-53 ,45442,M.Samir,Pass,Ehab Sadar,Passed,May,2024
+RMK-1312 ,45444,Fady,Pass,M.elsayed,Passed,Jun,2024
+RMK-662 ,45444,Fady,Reject,Ehab Sadar,Press Issue,Jun,2024
+RMK-1460,45444,Fady,Pass,M.elsayed,Passed,Jun,2024
+RMK-1458 ,45444,Fady,Pass,Ehab Sadar,Passed,Jun,2024
+UMA-71 ,45444,Fady,Pass,Ehab Sadar,Passed,Jun,2024
+RMK-1340 ,45445,A.Lotfy,Pass,M.elsayed,Passed,Jun,2024
+RMK-1334 ,45445,A.Lotfy,Pass,Ehab Sadar,Passed,Jun,2024
+RMK-1313 ,45445,Hossam,Pass,M.elsayed,Passed,Jun,2024
+RMK-1377 ,45445,Hossam,Pass,Ehab Sadar,Passed,Jun,2024
+RMK-1378 ,45445,Fady,Pass,Ehab Sadar,Passed,Jun,2024
+RMK-1382 ,45445,Fady,Pass,Ehab Sadar,Passed,Jun,2024
+RMK-1390 ,45445,Fady,Pass,M.elsayed,Passed,Jun,2024
+RMK-1369 ,45445,Fady,Pass,M.Basiuony,Passed,Jun,2024
+RMK-1355 ,45445,Hossam,Pass,M.Basiuony,Passed,Jun,2024
+RMK-1356 ,45445,Fady,Pass,Ehab Sadar,Passed,Jun,2024
+RMK-1248 ,45445,A.Lotfy,Pass,Ehab Sadar,Passed,Jun,2024
+RMK-1080 ,45445,Fady,Pass,Ehab Sadar,Passed,Jun,2024
+"UMA-57	",45445,Hatem,Pass,Ehab Sadar,Passed,Jun,2024
+RMK-1335,45445,Hatem,Pass,Ehab Sadar,Passed,Jun,2024
+RMK-1167,45445,Hatem,Pass,M.Basiuony,Passed,Jun,2024
+RMK-1250,45445,A.Lotfy,Pass,M.elsayed,Passed,Jun,2024
+"FSL-164	",45446,Hossam,Pass,M.Basiuony,Passed,Jun,2024
+RMK-1488,45446,M.Samir,Pass,M.Basiuony,Passed,Jun,2024
+RMK-1487,45446,Hatem,Pass,M.Basiuony,Passed,Jun,2024
+RMK-1331,45446,Hatem,Reject,M.elsayed,Cleaning Issue,Jun,2024
+RMK-1439,45446,Fady,Pass,M.Basiuony,Passed,Jun,2024
+RMK-1442,45446,Hossam,Pass,Ehab Sadar,Passed,Jun,2024
+"UMA-67	",45446,Fady,Pass,Ehab Sadar,Passed,Jun,2024
+RMK-1177,45446,Hatem,Pass,M.elsayed,Passed,Jun,2024
+RMK-1156,45446,Fady,Pass,Ehab Sadar,Passed,Jun,2024
+"UMA-30	",45446,Fady,Pass,Ehab Sadar,Passed,Jun,2024
+"UMA-32	",45446,A.Lotfy,Pass,Ehab Sadar,Passed,Jun,2024
+"UMA-44	",45446,Fady,Reject,M.elsayed,Press Issue,Jun,2024
+RMK-1243,45446,Hossam,Pass,M.elsayed,Passed,Jun,2024
+"UMA-55	",45446,Fady,Pass,Ehab Sadar,Passed,Jun,2024
+"RSD-22	",45446,Fady,Pass,Ehab Sadar,Passed,Jun,2024
+RMK-166,45446,Fady,Reject,M.Basiuony,Press Issue,Jun,2024
+RMK-221,45446,A.Lotfy,Pass,Ehab Sadar,Passed,Jun,2024
+RMK-524,45446,Hossam,Pass,Ehab Sadar,Passed,Jun,2024
+"UMA-13	",45446,Fady,Pass,Ehab Sadar,Passed,Jun,2024
+RMK-1154,45446,A.Lotfy,Pass,Ehab Sadar,Passed,Jun,2024
+"UMA-17	",45446,Fady,Pass,Ehab Sadar,Passed,Jun,2024
+RMK-1076,45446,Hossam,Pass,Ehab Sadar,Passed,Jun,2024
+RMK-1134,45446,Fady,Pass,Ehab Sadar,Passed,Jun,2024
+RMK-1185,45447,Fady,Pass,M.Basiuony,Passed,Jun,2024
+RMS-153,45447,Hossam,Reject,Ehab Sadar,Press Issue,Jun,2024
+RMK-648,45447,Hossam,Pass,M.elsayed,Passed,Jun,2024
+RMK-1327,45447,Hatem,Pass,M.elsayed,Passed,Jun,2024
+RMK-1051,45447,Hossam,Pass,M.elsayed,Passed,Jun,2024
+RMK-1171,45447,Hatem,Pass,Ehab Sadar,Passed,Jun,2024
+RMK-1476,45447,Fady,Pass,M.Basiuony,Passed,Jun,2024
+RMK-1413,45447,Hatem,Pass,Ehab Sadar,Passed,Jun,2024
+RMK-1478,45447,Fady,Reject,M.Basiuony,Screws Issue,Jun,2024
+"UMA-49	",45447,Hatem,Pass,Ehab Sadar,Passed,Jun,2024
+RMK-819,45447,Hossam,Pass,Ehab Sadar,Passed,Jun,2024
+"UMA-58	",45448,A.Lotfy,Pass,Ehab Sadar,Passed,Jun,2024
+RMK-718,45448,M.Samir,Pass,Ehab Sadar,Passed,Jun,2024
+RMK-1029,45449,M.Samir,Pass,Ehab Sadar,Passed,Jun,2024
+RMK-1271,45449,M.Samir,Pass,Ehab Sadar,Passed,Jun,2024
+RMK-1276,45449,Fady,Pass,Ehab Sadar,Passed,Jun,2024
+RMK-1485,45449,Hossam,Reject,M.Basiuony,Cleaning Issue,Jun,2024
+RMK-1395,45449,Fady,Pass,Ehab Sadar,Passed,Jun,2024
+RMK-487,45449,M.Samir,Pass,Ehab Sadar,Passed,Jun,2024
+RMK-297,45449,M.Samir,Pass,Ehab Sadar,Passed,Jun,2024
+RMK-1489,45449,Hossam,Pass,M.Basiuony,Passed,Jun,2024
+RMK-1365,45449,Fady,Pass,Ehab Sadar,Passed,Jun,2024
+RMK-801,45449,M.Samir,Pass,Ehab Sadar,Passed,Jun,2024
+RMK-696,45449,M.Samir,Pass,Ehab Sadar,Passed,Jun,2024
+RMK-1359,45449,Fady,Pass,M.Basiuony,Passed,Jun,2024
+RMK-1435,45451,Hossam,Pass,M.Basiuony,Passed,Jun,2024
+RMK-1486,45451,Hatem,Pass,M.Basiuony,Passed,Jun,2024
+RMK-1009,45451,Hatem,Pass,Ehab Sadar,Passed,Jun,2024
+"RMK-575	",45451,Hatem,Pass,Ehab Sadar,Passed,Jun,2024
+"RMK-863	",45451,Hatem,Pass,Ehab Sadar,Passed,Jun,2024
+RMK-1094,45451,Hatem,Pass,Ehab Sadar,Passed,Jun,2024
+RMK-1440,45451,Hatem,Pass,M.Basiuony,Passed,Jun,2024
+RMK-1471,45452,A.Lotfy,Pass,Ehab Sadar,Passed,Jun,2024
+"UMA-18	",45452,Fady,Pass,Ehab Sadar,Passed,Jun,2024
+RMK-1449,45452,Hossam,Reject,M.elsayed,Cleaning Issue,Jun,2024
+RMK-1467,45452,Hossam,Pass,M.Basiuony,Passed,Jun,2024
+RMK-1465,45452,Hossam,Pass,Ehab Sadar,Passed,Jun,2024
+RMK-1451,45452,A.Lotfy,Pass,M.elsayed,Passed,Jun,2024
+RMK-1474,45452,Hossam,Pass,Ehab Sadar,Passed,Jun,2024
+UMA-63,45452,A.Lotfy,Pass,Ehab Sadar,Passed,Jun,2024
+RMK-1144,45452,A.Lotfy,Pass,Ehab Sadar,Passed,Jun,2024
+RMK-1197,45452,Hossam,Pass,M.elsayed,Passed,Jun,2024
+"RMK-890	",45453,Hossam,Pass,Ehab Sadar,Passed,Jun,2024
+"UMA-23	",45453,Hossam,Pass,Ehab Sadar,Passed,Jun,2024
+RMK-1444,45453,Fady,Pass,Ehab Sadar,Passed,Jun,2024
+RMK-1463,45453,A.Lotfy,Pass,Ehab Sadar,Passed,Jun,2024
+RMK-1189,45453,Hossam,Pass,M.Basiuony,Passed,Jun,2024
+RMK-1254,45453,Hossam,Pass,M.elsayed,Passed,Jun,2024
+RMK-1492,45453,Fady,Pass,M.Basiuony,Passed,Jun,2024
+RMK-1493,45454,Fady,Pass,M.Basiuony,Passed,Jun,2024
+"RMS-1	",45454,Fady,Pass,M.Basiuony,Passed,Jun,2024
+"RMS-100	",45454,Fady,Pass,Ehab Sadar,Passed,Jun,2024
+"RNG-133	",45454,Hatem,Pass,Ehab Sadar,Passed,Jun,2024
+"RMK-595	",45454,Hossam,Pass,Ehab Sadar,Passed,Jun,2024
+"RMK-740	",45454,Hatem,Pass,Ehab Sadar,Passed,Jun,2024
+RMK-1050,45454,Hatem,Pass,M.Basiuony,Passed,Jun,2024
+RMK-1358,45454,Hatem,Pass,M.Basiuony,Passed,Jun,2024
+RMK-1480,45454,Fady,Pass,Ehab Sadar,Passed,Jun,2024
+"UMA-9	",45454,A.Lotfy,Pass,Ehab Sadar,Passed,Jun,2024
+RMK-1386,45455,Fady,Pass,Ehab Sadar,Passed,Jun,2024
+RMK-1470,45455,Fady,Pass,M.Basiuony,Passed,Jun,2024
+RMK-1472,45455,Fady,Pass,M.Basiuony,Passed,Jun,2024
+RMK-1479,45455,Fady,Pass,M.Basiuony,Passed,Jun,2024
+RMK-1468,45455,Hatem,Reject,M.Basiuony,Screen Issue,Jun,2024
+RMK-1477,45455,Fady,Pass,M.Basiuony,Passed,Jun,2024
+"UMA-75	",45455,A.Lotfy,Pass,Ehab Sadar,Passed,Jun,2024
+"UMA-24	",45455,Fady,Pass,Ehab Sadar,Passed,Jun,2024
+RMK-1462,45455,Hatem,Pass,M.Basiuony,Passed,Jun,2024
+RMK-1079,45456,A.Lotfy,Pass,Ehab Sadar,Passed,Jun,2024
+RMK-1473,45456,A.Lotfy,Pass,Ehab Sadar,Passed,Jun,2024
+"RMK-596	",45456,A.Lotfy,Pass,Ehab Sadar,Passed,Jun,2024
+RMK-1466,45456,Fady,Pass,M.Basiuony,Passed,Jun,2024
+RMK-1464,45456,Fady,Pass,Ehab Sadar,Passed,Jun,2024
+RMK-1145,45456,Fady,Pass,Ehab Sadar,Passed,Jun,2024
+"RMK-438	",45456,A.Lotfy,Pass,Ehab Sadar,Passed,Jun,2024
+"RMK-710	",45456,A.Lotfy,Pass,Ehab Sadar,Passed,Jun,2024
+"RMK-903	",45456,M.Samir,Pass,M.Basiuony,Passed,Jun,2024
+RMK-1246,45456,A.Lotfy,Pass,Ehab Sadar,Passed,Jun,2024
+RMK-1268,45456,A.Lotfy,Pass,Ehab Sadar,Passed,Jun,2024
+RMK-1375,45456,Hossam,Pass,M.Basiuony,Passed,Jun,2024
+RMK-1417,45456,Hossam,Pass,Ehab Sadar,Passed,Jun,2024
+"UMA-14	",45456,Hossam,Pass,Ehab Sadar,Passed,Jun,2024
+"UMA-65	",45462,Hatem,Pass,Ehab Sadar,Passed,Jun,2024
+RMK-1054,45462,Hatem,Pass,M.Basiuony,Passed,Jun,2024
+RMK-1131,45463,M.Samir,Pass,Ehab Sadar,Passed,Jun,2024
+RMK-1202,45463,Hossam,Pass,Ehab Sadar,Passed,Jun,2024
+RMK-1361,45463,M.Samir,Pass,Ehab Sadar,Passed,Jun,2024
+"OHR-2	",45466,Hossam,Pass,Ehab Sadar,Passed,Jun,2024
+RMK-1300,45466,Hatem,Pass,Ehab Sadar,Passed,Jun,2024
+"RMK-249	",45466,Hatem,Pass,M.Basiuony,Passed,Jun,2024
+RMK-1499,45466,A.Lotfy,Pass,M.Basiuony,Passed,Jun,2024
+RMK-1139,45467,Fady,Pass,M.Basiuony,Passed,Jun,2024
+RMK-1135,45468,Fady,Pass,Ehab Sadar,Passed,Jun,2024
+"RMK-741	",45468,Hossam,Pass,Ehab Sadar,Passed,Jun,2024
+"UMA-3	",45468,Hossam,Pass,Ehab Sadar,Passed,Jun,2024
+RMK-1496,45468,A.Lotfy,Reject,M.elsayed,Press Issue,Jun,2024
+RMK-1294,45469,Fady,Pass,M.Basiuony,Passed,Jun,2024
+"OHR-1	",45469,Fady,Pass,M.Basiuony,Passed,Jun,2024
+RMK-1503,45469,A.Lotfy,Pass,M.Basiuony,Passed,Jun,2024
+RMK-1507,45469,Fady,Pass,M.Basiuony,Passed,Jun,2024
+RMK-1508,45469,Fady,Pass,M.Basiuony,Passed,Jun,2024
+RMK-1007,45470,A.Lotfy,Reject,M.Basiuony,Buttons Issue,Jun,2024
+RMK-1343,45470,A.Lotfy,Pass,Ehab Sadar,Passed,Jun,2024
+RMK-1342,45472,Hossam,Pass,M.Basiuony,Passed,Jun,2024
+"UMA-76	",45472,Hatem,Pass,M.elsayed,Passed,Jun,2024
+RMK-1506,45473,Fady,Pass,M.elsayed,Passed,Jun,2024
+RMK-1199,45473,Hossam,Pass,M.elsayed,Passed,Jun,2024
+RMK-1505,45473,Hossam,Pass,M.elsayed,Passed,Jun,2024
+"FSL-27	",45474,Fady,Pass,Ehab Sadar,Passed,Jul,2024
+RMK-1180,45474,Hossam,Pass,Ehab Sadar,Passed,Jul,2024
+"RMK-675	",45474,Hossam,Pass,M.elsayed,Passed,Jul,2024
+RMK-1509,45475,Fady,Pass,M.Basiuony,Passed,Jul,2024
+RMK-1527,45475,Fady,Pass,M.Basiuony,Passed,Jul,2024
+RMK-1528,45475,Fady,Pass,M.Basiuony,Passed,Jul,2024
+"RMS-7	",45475,Hossam,Pass,M.elsayed,Passed,Jul,2024
+RMK-1510,45475,Hatem,Pass,M.elsayed,Passed,Jul,2024
+RMK-1433,45475,Hatem,Reject,Ehab Sadar,Press Issue,Jul,2024
+RMK-1456,45475,Hatem,Pass,M.Basiuony,Passed,Jul,2024
+RMK-1533,45475,Fady,Pass,M.Basiuony,Passed,Jul,2024
+RMK-1204,45475,M.Samir,Pass,M.elsayed,Passed,Jul,2024
+RMK-1491,45475,M.Samir,Pass,M.Basiuony,Passed,Jul,2024
+RMK-1516,45476,Fady,Reject,M.Basiuony,Screen Issue,Jul,2024
+"RMK-807	",45476,Hossam,Pass,M.elsayed,Passed,Jul,2024
+RMK-1519,45476,Hatem,Pass,Ehab Sadar,Passed,Jul,2024
+RMK-1536,45476,Hatem,Pass,Ehab Sadar,Passed,Jul,2024
+RMK-1526,45476,A.Lotfy,Pass,M.Basiuony,Passed,Jul,2024
+RMK-1523,45477,Hossam,Pass,Ehab Sadar,Passed,Jul,2024
+"UMA-6	",45477,Hossam,Pass,M.Basiuony,Passed,Jul,2024
+RMK-1530,45477,Hossam,Pass,M.Basiuony,Passed,Jul,2024
+RMK-1305,45479,Fady,Pass,Ehab Sadar,Passed,Jul,2024
+RMK-1518,45479,A.Lotfy,Pass,Ehab Sadar,Passed,Jul,2024
+RMK-1520,45479,A.Lotfy,Pass,Ehab Sadar,Passed,Jul,2024
+RMK-1529,45480,Fady,Pass,Ehab Sadar,Passed,Jul,2024
+RMK-1511,45480,Hossam,Pass,Ehab Sadar,Passed,Jul,2024
+RMK-1540,45480,Hossam,Pass,Ehab Sadar,Passed,Jul,2024
+RMK-1513,45481,Fady,Pass,Ehab Sadar,Passed,Jul,2024
+RMK-1537 ,45481,Hossam,Pass,Ehab Sadar,Passed,Jul,2024
+"FSL-23	",45482,Hatem,Pass,M.Basiuony,Passed,Jul,2024
+RMK-1457,45482,M.Samir,Pass,M.Basiuony,Passed,Jul,2024
+RMK-1539,45483,Hatem,Pass,Ehab Sadar,Passed,Jul,2024
+RMK-1548,45483,Fady,Pass,Ehab Sadar,Passed,Jul,2024
+RMK-1550,45483,Hatem,Pass,Ehab Sadar,Passed,Jul,2024
+RMK-1551,45483,Hatem,Pass,Ehab Sadar,Passed,Jul,2024
+RMK-1554,45484,Fady,Pass,Ehab Sadar,Passed,Jul,2024
+RMK-1549,45484,Fady,Pass,Ehab Sadar,Passed,Jul,2024
+RMK-1541,45484,Fady,Pass,Ehab Sadar,Passed,Jul,2024
+RMK-1546,45484,Fady,Pass,Ehab Sadar,Passed,Jul,2024
+RMK-1547,45484,A.Lotfy,Pass,Ehab Sadar,Passed,Jul,2024
+RMK-1566,45488,Fady,Pass,Ehab Sadar,Passed,Jul,2024
+RMK-1542,45488,Fady,Pass,Ehab Sadar,Passed,Jul,2024
+OSB-2,45488,Fady,Pass,M.Basiuony,Passed,Jul,2024
+RMK-1535,45488,Fady,Reject,Ehab Sadar,Press Issue,Jul,2024
+RMK-1545,45488,Fady,Pass,Ehab Sadar,Passed,Jul,2024
+RMK-1557,45489,A.Lotfy,Pass,M.Basiuony,Passed,Jul,2024
+RMK-1553,45489,Fady,Pass,Ehab Sadar,Passed,Jul,2024
+RMK-1544,45489,Fady,Pass,Ehab Sadar,Passed,Jul,2024
+RMK-1567,45489,Hossam,Pass,M.Basiuony,Passed,Jul,2024
+RMK-1170,45490,Fady,Pass,M.Basiuony,Passed,Jul,2024
+"UMA-74	",45490,Fady,Pass,M.Basiuony,Passed,Jul,2024
+RMK-1561,45490,Fady,Pass,Ehab Sadar,Passed,Jul,2024
+RMK-1495,45490,Fady,Pass,M.Basiuony,Passed,Jul,2024
+RMK-1512,45490,Hatem,Pass,M.Basiuony,Passed,Jul,2024
+"OHL-1	",45490,Fady,Pass,Ehab Sadar,Passed,Jul,2024
+"UMA-73	",45491,A.Lotfy,Pass,Ehab Sadar,Passed,Jul,2024
+RMK-1497 ,45491,A.Lotfy,Pass,Ehab Sadar,Passed,Jul,2024
+RMK-1233 ,45493,Fady,Pass,Ehab Sadar,Passed,Jul,2024
+RMS-94 ,45493,Hossam,Pass,Ehab Sadar,Passed,Jul,2024
+RMK-1322 ,45493,Fady,Pass,M.elsayed,Passed,Jul,2024
+RMK-1021 ,45493,Hossam,Pass,M.elsayed,Passed,Jul,2024
+RMK-1469,45493,Fady,Pass,M.Basiuony,Passed,Jul,2024
+RMK-1552,45494,A.Lotfy,Pass,M.elsayed,Passed,Jul,2024
+RMK-1574,45494,Fady,Pass,M.elsayed,Passed,Jul,2024
+RMK-1162,45495,A.Lotfy,Pass,M.Basiuony,Passed,Jul,2024
+RMK-1556,45495,Fady,Reject,M.elsayed,Screws Issue,Jul,2024
+RMK-1475,45495,Hossam,Pass,M.elsayed,Passed,Jul,2024
+RMK-1583,45495,Hossam,Pass,M.elsayed,Passed,Jul,2024
+OMH-2,45500,A.Lotfy,Pass,M.Basiuony,Passed,Jul,2024
+RMK-1142,45500,Hatem,Reject,Ehab Sadar,Screws Issue,Jul,2024
+RMK-1565,45500,Hatem,Pass,M.Basiuony,Passed,Jul,2024
+UMA-45,45501,Hossam,Pass,Ehab Sadar,Passed,Jul,2024
+RMK-1582,45501,A.Lotfy,Pass,M.Basiuony,Passed,Jul,2024
+RMK-1579,45502,Hossam,Pass,Ehab Sadar,Passed,Jul,2024
+RMK-1586,45502,Hatem,Pass,Ehab Sadar,Passed,Jul,2024
+RMK-1560,45502,Hatem,Pass,M.Basiuony,Passed,Jul,2024
+RMK-1588,45502,Hatem,Pass,Ehab Sadar,Passed,Jul,2024
+RMK-1280,45502,Hossam,Pass,M.Basiuony,Passed,Jul,2024
+RMK-1531,45502,Hatem,Pass,Ehab Sadar,Passed,Jul,2024
+RMK-1272,45502,Hatem,Pass,Ehab Sadar,Passed,Jul,2024
+RMK-1558,45503,Hossam,Pass,M.elsayed,Passed,Jul,2024
+RMK-1321 ,45503,A.Lotfy,Pass,Ehab Sadar,Passed,Jul,2024
+RNG-77,45503,A.Lotfy,Reject,Ehab Sadar,Press Issue,Jul,2024
+RMK-1578,45504,Hatem,Pass,M.elsayed,Passed,Jul,2024
+RMK-1454,45504,Hatem,Pass,M.elsayed,Passed,Jul,2024
+RMK-1603,45504,M.Samir,Pass,Ehab Sadar,Passed,Jul,2024
+RMS-216,45505,A.Lotfy,Pass,Ehab Sadar,Passed,Aug,2024
+RMK-1581,45505,Hatem,Pass,Ehab Sadar,Passed,Aug,2024
+OMH-3,45505,A.Lotfy,Pass,Ehab Sadar,Passed,Aug,2024
+RMK-1577,45507,M.Samir,Pass,Ehab Sadar,Passed,Aug,2024
+RMK-1593,45507,Hatem,Pass,Ehab Sadar,Passed,Aug,2024
+RMK-1600,45507,Hatem,Pass,Ehab Sadar,Passed,Aug,2024
+OMH-1,45507,Fady,Pass,Ehab Sadar,Passed,Aug,2024
+RMK-1279,45508,Fady,Pass,Ehab Sadar,Passed,Aug,2024
+RMK-1601,45508,M.Samir,Pass,M.elsayed,Passed,Aug,2024
+RMK-1049,45508,M.Samir,Pass,M.Basiuony,Passed,Aug,2024
+RMK-1590,45508,Fady,Pass,M.Basiuony,Passed,Aug,2024
+RMK-1608,45509,Fady,Pass,M.Basiuony,Passed,Aug,2024
+RMK-1617,45509,Fady,Pass,M.elsayed,Passed,Aug,2024
+RMK-1619,45509,Fady,Pass,Ehab Sadar,Passed,Aug,2024
+UMA-48,45509,Fady,Pass,M.Basiuony,Passed,Aug,2024
+RMK-1606,45509,Fady,Pass,M.elsayed,Passed,Aug,2024
+RMK-1573,45509,Hatem,Pass,Ehab Sadar,Passed,Aug,2024
+RMK-1231,45510,Hatem,Pass,Ehab Sadar,Passed,Aug,2024
+RMK-1585,45510,Hatem,Pass,Ehab Sadar,Passed,Aug,2024
+RMK-1265,45510,Hatem,Pass,M.Basiuony,Passed,Aug,2024
+RMK-1576,45510,Hatem,Pass,M.Basiuony,Passed,Aug,2024
+RMK-1592,45511,A.Lotfy,Pass,M.elsayed,Passed,Aug,2024
+UMA-62,45511,Hatem,Pass,M.elsayed,Passed,Aug,2024
+RMK-1555,45511,A.Lotfy,Pass,M.elsayed,Passed,Aug,2024
+OHL-2,45511,A.Lotfy,Pass,M.Basiuony,Passed,Aug,2024
+RMK-1164,45511,M.Samir,Pass,M.elsayed,Passed,Aug,2024
+"RMK-540	",45512,A.Lotfy,Pass,M.elsayed,Passed,Aug,2024
+"RMK-764	",45512,A.Lotfy,Pass,M.elsayed,Passed,Aug,2024
+RMK-1595,45512,Fady,Pass,M.Basiuony,Passed,Aug,2024
+RMK-1224,45512,Fady,Reject,M.Basiuony,Cleaning Issue,Aug,2024
+RMK-1501,45512,A.Lotfy,Pass,M.Basiuony,Passed,Aug,2024
+RMK-1618,45512,M.Samir,Pass,M.Basiuony,Passed,Aug,2024
+RMK-1614,45512,Fady,Pass,M.Basiuony,Passed,Aug,2024
+RMK-1306,45512,A.Lotfy,Pass,M.Basiuony,Passed,Aug,2024
+RMK-1229,45512,Hatem,Pass,M.Basiuony,Passed,Aug,2024
+RMK-1260,45512,M.Samir,Pass,M.Basiuony,Passed,Aug,2024
+RMK-1605,45512,M.Samir,Pass,M.Basiuony,Passed,Aug,2024
+OMH-4,45516,Fady,Reject,M.elsayed,Press Issue,Aug,2024
+RMK-1611,45516,Fady,Pass,Ehab Sadar,Passed,Aug,2024
+RMK-1604,45516,Hatem,Pass,M.Basiuony,Passed,Aug,2024
+RMK-1319,45516,M.Samir,Pass,Ehab Sadar,Passed,Aug,2024
+RMK-1636,45516,Fady,Pass,Ehab Sadar,Passed,Aug,2024
+RMK-1653,45516,Fady,Pass,M.Basiuony,Passed,Aug,2024
+RMK-1671,45516,Fady,Pass,M.Basiuony,Passed,Aug,2024
+RMK-1672,45516,Fady,Pass,M.Basiuony,Passed,Aug,2024
+RMK-1651,45516,Fady,Pass,Ehab Sadar,Passed,Aug,2024
+RMK-1677,45516,Fady,Pass,M.Basiuony,Passed,Aug,2024
+RMK-1324,45516,Hossam,Pass,M.elsayed,Passed,Aug,2024
+RMK-1629,45517,Fady,Pass,M.elsayed,Passed,Aug,2024
+RMK-1679,45517,A.Lotfy,Pass,Ehab Sadar,Passed,Aug,2024
+RMK-1678,45517,Hossam,Pass,Ehab Sadar,Passed,Aug,2024
+RMK-1676,45517,A.Lotfy,Pass,M.elsayed,Passed,Aug,2024
+RMK-1641,45517,M.Samir,Pass,M.elsayed,Passed,Aug,2024
+RMK-1665,45517,M.Samir,Pass,M.Basiuony,Passed,Aug,2024
+RMK-1504,45517,Fady,Pass,M.Basiuony,Passed,Aug,2024
+RMK-1658,45517,M.Samir,Pass,Ehab Sadar,Passed,Aug,2024
+RMK-1664,45517,A.Lotfy,Pass,M.Basiuony,Passed,Aug,2024
+RMK-1662,45517,Hatem,Pass,Ehab Sadar,Passed,Aug,2024
+RMK-1650,45517,Hatem,Pass,Ehab Sadar,Passed,Aug,2024
+RMK-1673,45517,Hatem,Pass,M.Basiuony,Passed,Aug,2024
+RMK-1675,45517,Hossam,Pass,M.Basiuony,Passed,Aug,2024
+RMK-1635,45517,Fady,Pass,Ehab Sadar,Passed,Aug,2024
+RMK-1648,45517,Fady,Pass,Ehab Sadar,Passed,Aug,2024
+RMK-610,45517,Hossam,Pass,Ehab Sadar,Passed,Aug,2024
+RMK-1438,45517,Hossam,Pass,M.elsayed,Passed,Aug,2024
+RMK-1652,45517,A.Lotfy,Pass,M.elsayed,Passed,Aug,2024
+RMK-1642,45517,A.Lotfy,Pass,M.elsayed,Passed,Aug,2024
+RMK-1681,45517,Hatem,Pass,M.Basiuony,Passed,Aug,2024
+UMA-77,45517,Hatem,Pass,M.Basiuony,Passed,Aug,2024
+RMK-1655,45517,Hossam,Pass,M.elsayed,Passed,Aug,2024
+RMK-1682,45518,Hatem,Pass,M.elsayed,Passed,Aug,2024
+RMK-1684,45518,Hossam,Pass,M.Basiuony,Passed,Aug,2024
+RMK-1596,45518,Fady,Pass,Ehab Sadar,Passed,Aug,2024
+RMK-1638,45518,A.Lotfy,Pass,M.elsayed,Passed,Aug,2024
+RMK-285,45518,Hossam,Pass,Ehab Sadar,Passed,Aug,2024
+RMK-1637,45518,Hossam,Reject,Ehab Sadar,Uncompleted QC Comment,Aug,2024
+RMK-1639,45518,Hossam,Pass,Ehab Sadar,Passed,Aug,2024
+RMK-1640,45518,Hossam,Pass,Ehab Sadar,Passed,Aug,2024
+RMK-1643,45518,Hossam,Pass,Ehab Sadar,Passed,Aug,2024
+RMK-1645,45518,Hatem,Reject,M.elsayed,Press Issue,Aug,2024
+RMK-1646,45518,A.Lotfy,Pass,M.elsayed,Passed,Aug,2024
+RMK-1647,45518,A.Lotfy,Pass,M.elsayed,Passed,Aug,2024
+RMK-1659,45518,Fady,Pass,M.elsayed,Passed,Aug,2024
+RMK-1663,45518,Hatem,Pass,Ehab Sadar,Passed,Aug,2024
+RMK-1666,45518,Fady,Pass,M.elsayed,Passed,Aug,2024
+RMK-1669,45518,A.Lotfy,Pass,Ehab Sadar,Passed,Aug,2024
+RMK-1674,45518,Fady,Pass,M.elsayed,Passed,Aug,2024
+RMK-1612,45518,M.Samir,Pass,Ehab Sadar,Passed,Aug,2024
+RMK-1656,45518,M.Samir,Pass,M.elsayed,Passed,Aug,2024
+RMK-1680,45519,Fady,Pass,Ehab Sadar,Passed,Aug,2024
+RMK-1670,45519,Hatem,Pass,Ehab Sadar,Passed,Aug,2024
+RMK-1660,45521,Hossam,Pass,Ehab Sadar,Passed,Aug,2024
+RMK-1657,45521,Hossam,Pass,Ehab Sadar,Passed,Aug,2024
+RMK-1621,45522,Hossam,Pass,M.elsayed,Passed,Aug,2024
+RMK-1686,45522,Fady,Pass,M.Basiuony,Passed,Aug,2024
+RMK-1570,45522,Fady,Pass,M.elsayed,Passed,Aug,2024
+RMK-1654,45524,M.Samir,Pass,M.Basiuony,Passed,Aug,2024
+RMK-1584,45524,Fady,Pass,M.Basiuony,Passed,Aug,2024
+RMK-1616,45524,Fady,Pass,M.Basiuony,Passed,Aug,2024
+RMK-1644,45524,M.Samir,Pass,M.Basiuony,Passed,Aug,2024
+RMK-1661,45524,M.Samir,Pass,M.Basiuony,Passed,Aug,2024
+RMK-1668,45524,M.Samir,Pass,M.Basiuony,Passed,Aug,2024
+RMK-1667,45524,Hossam,Pass,M.Basiuony,Passed,Aug,2024
+RMK-1515,45525,A.Lotfy,Pass,Ehab Sadar,Passed,Aug,2024
+RMK-1693,45525,Fady,Pass,Ehab Sadar,Passed,Aug,2024
+FSL-51,45526,Hatem,Pass,M.Basiuony,Passed,Aug,2024
+RMK-1064,45526,Fady,Pass,Ehab Sadar,Passed,Aug,2024
+RMK-1071,45526,A.Lotfy,Pass,Ehab Sadar,Passed,Aug,2024
+RMK-1524,45526,Hatem,Pass,Ehab Sadar,Passed,Aug,2024
+RMK-1689,45526,A.Lotfy,Pass,Ehab Sadar,Passed,Aug,2024
+RMK-1628,45526,A.Lotfy,Reject,Ehab Sadar,Grade Upgrade,Aug,2024
+RMK-1221,45526,Hatem,Pass,M.Basiuony,Passed,Aug,2024
+RMK-1572,45526,A.Lotfy,Pass,Ehab Sadar,Passed,Aug,2024
+RMK-1227,45526,Fady,Pass,M.Basiuony,Passed,Aug,2024
+RMK-1587,45526,Fady,Pass,M.Basiuony,Passed,Aug,2024
+RMK-1571,45526,Fady,Pass,M.Basiuony,Passed,Aug,2024
+RMK-1455,45526,A.Lotfy,Pass,Ehab Sadar,Passed,Aug,2024
+RMK-1223,45526,Fady,Reject,Ehab Sadar,Uncompleted QC Comment,Aug,2024
+RMK-1206,45528,Hossam,Reject,M.Basiuony,Cleaning Issue,Aug,2024
+RMK-1543,45531,Fady,Pass,Ehab Sadar,Passed,Aug,2024
+RMK-1701,45532,Hatem,Pass,M.Basiuony,Passed,Aug,2024
+RMK-252,45532,Hatem,Reject,M.Basiuony,Uncompleted QC Comment,Aug,2024
+RMK-1622,45533,Hatem,Pass,M.elsayed,Passed,Aug,2024
+RMK-1575,45533,Hatem,Pass,M.elsayed,Passed,Aug,2024
+RMK-1630,45533,Fady,Pass,M.elsayed,Passed,Aug,2024
+RMK-777,45533,Hatem,Pass,M.Basiuony,Passed,Aug,2024
+RMK-1569,45533,A.Lotfy,Pass,M.Basiuony,Passed,Aug,2024
+RMK-1691,45533,M.Samir,Pass,Ehab Sadar,Passed,Aug,2024
+RMK-1205,45536,Fady,Pass,Ehab Sadar,Passed,Sep,2024
+RMK-1419 ,45537,A.Lotfy,Pass,Ehab Sadar,Passed,Sep,2024
+RMK-1217,45537,A.Lotfy,Pass,Ehab Sadar,Passed,Sep,2024
+RMK-1711,45537,Hossam,Pass,M.elsayed,Passed,Sep,2024
+RMK-1613,45537,Hatem,Pass,Ehab Sadar,Passed,Sep,2024
+RMK-1626 ,45538,A.Lotfy,Pass,Ehab Sadar,Passed,Sep,2024
+OHL-3 ,45538,A.Lotfy,Pass,Ehab Sadar,Passed,Sep,2024
+RMK-1623 ,45538,Fady,Pass,Ehab Sadar,Passed,Sep,2024
+RMK-1494,45538,Fady,Pass,M.elsayed,Passed,Sep,2024
+RMK-1490,45538,Fady,Pass,M.elsayed,Passed,Sep,2024
+RMK-1696,45538,Fady,Pass,M.elsayed,Passed,Sep,2024
+RMK-1700 ,45540,M.Samir,Pass,Ehab Sadar,Passed,Sep,2024
+RMK-1703 ,45540,Hatem,Pass,Ehab Sadar,Passed,Sep,2024
+RNG-28 ,45542,Hossam,Pass,Ehab Sadar,Passed,Sep,2024
+RMK-1708 ,45542,Hossam,Pass,Ehab Sadar,Passed,Sep,2024
+RMK-1169,45543,A.Lotfy,Pass,M.elsayed,Passed,Sep,2024
+RMK-1282 ,45543,A.Lotfy,Pass,Ehab Sadar,Passed,Sep,2024
+RMK-1706 ,45544,Fady,Pass,Ehab Sadar,Passed,Sep,2024
+RMK-1157,45546,Fady,Pass,M.Basiuony,Passed,Sep,2024
+RMK-1710,45546,A.Lotfy,Reject,Ehab Sadar,Screen Issue,Sep,2024
+UMA-10,45546,Hossam,Pass,M.elsayed,Passed,Sep,2024
+RMK-1717,45546,Fady,Pass,M.Basiuony,Passed,Sep,2024
+RMK-1702,45547,A.Lotfy,Pass,M.Basiuony,Passed,Sep,2024
+OHL-5,45547,Fady,Pass,M.elsayed,Passed,Sep,2024
+RMK-1699,45550,Hossam,Pass,M.Basiuony,Passed,Sep,2024
+RMK-1249,45550,Fady,Pass,M.elsayed,Passed,Sep,2024
+RMK-1311,45550,A.Lotfy,Pass,M.elsayed,Passed,Sep,2024
+RMK-1695,45551,Fady,Pass,M.Basiuony,Passed,Sep,2024
+RMK-1441,45551,A.Lotfy,Pass,M.Basiuony,Passed,Sep,2024
+RMS-114,45551,Hatem,Pass,M.Basiuony,Passed,Sep,2024
+RMK-1219,45551,Hossam,Pass,M.Basiuony,Passed,Sep,2024
+RMK-1303,45551,Fady,Pass,M.Basiuony,Passed,Sep,2024
+RMK-1225,45551,Hossam,Pass,M.Basiuony,Passed,Sep,2024
+RMK-1752,45551,Fady,Reject,M.Basiuony,Cleaning Issue,Sep,2024
+RMK-1775,45552,Fady,Pass,M.Basiuony,Passed,Sep,2024
+RMK-1722,45552,A.Lotfy,Pass,M.Basiuony,Passed,Sep,2024
+RMK-1215,45552,Hatem,Pass,M.elsayed,Passed,Sep,2024
+RMK-1776,45552,Fady,Pass,M.Basiuony,Passed,Sep,2024
+RMK-584,45552,Hatem,Pass,M.elsayed,Passed,Sep,2024
+RMK-1209,45552,Fady,Pass,M.elsayed,Passed,Sep,2024
+RMK-1739,45552,A.Lotfy,Pass,M.elsayed,Passed,Sep,2024
+RMK-1766,45552,Hossam,Pass,M.elsayed,Passed,Sep,2024
+RMK-1730,45552,M.Samir,Pass,M.Basiuony,Passed,Sep,2024
+RMK-1735,45552,M.Samir,Pass,M.Basiuony,Passed,Sep,2024
+RMK-1741,45552,M.Samir,Pass,M.Basiuony,Passed,Sep,2024
+RMK-1721,45553,Fady,Reject,M.Basiuony,Cleaning Issue,Sep,2024
+RMK-1723,45553,Hatem,Pass,M.elsayed,Passed,Sep,2024
+RMK-1720,45553,Hatem,Pass,M.elsayed,Passed,Sep,2024
+RMK-1763,45553,Fady,Pass,M.Basiuony,Passed,Sep,2024
+RMK-1764,45553,Fady,Pass,M.elsayed,Passed,Sep,2024
+RMK-1767,45553,Hossam,Pass,M.Basiuony,Passed,Sep,2024
+RMK-1743,45553,Hossam,Pass,Ehab Sadar,Passed,Sep,2024
+RMK-1736,45553,Hossam,Pass,M.Basiuony,Passed,Sep,2024
+RMK-1726,45553,Fady,Pass,M.Basiuony,Passed,Sep,2024
+RMK-624,45553,Hossam,Pass,M.elsayed,Passed,Sep,2024
+RMK-1732,45553,Hossam,Pass,M.elsayed,Passed,Sep,2024
+RMK-1737,45553,M.Samir,Pass,Ehab Sadar,Passed,Sep,2024
+RMK-1745,45553,M.Samir,Pass,M.elsayed,Passed,Sep,2024
+RMK-1718,45553,A.Lotfy,Pass,M.elsayed,Passed,Sep,2024
+RMK-1738,45553,A.Lotfy,Pass,Ehab Sadar,Passed,Sep,2024
+RMK-1727,45553,M.Samir,Pass,M.elsayed,Passed,Sep,2024
+RMK-1761,45553,M.Samir,Pass,M.Basiuony,Passed,Sep,2024
+RMK-1765,45553,M.Samir,Pass,M.Basiuony,Passed,Sep,2024
+RMK-1772,45554,Hossam,Pass,M.elsayed,Passed,Sep,2024
+RMK-1724,45554,Hatem,Pass,M.elsayed,Passed,Sep,2024
+RMK-1770,45554,Hatem,Pass,M.elsayed,Passed,Sep,2024
+RMK-1769,45554,Fady,Pass,Ehab Sadar,Passed,Sep,2024
+RMK-1734,45554,Fady,Pass,Ehab Sadar,Passed,Sep,2024
+RMK-1747,45554,Hatem,Pass,M.Basiuony,Passed,Sep,2024
+RMK-783,45554,Fady,Pass,M.elsayed,Passed,Sep,2024
+RMK-825,45554,Hossam,Pass,Ehab Sadar,Passed,Sep,2024
+RMK-1627,45556,A.Lotfy,Pass,Ehab Sadar,Passed,Sep,2024
+RMK-14,45556,A.Lotfy,Pass,M.elsayed,Passed,Sep,2024
+"RMK-492	",45556,Hossam,Pass,M.elsayed,Passed,Sep,2024
+RMK-1768,45557,A.Lotfy,Pass,M.Basiuony,Passed,Sep,2024
+RMK-1589,45557,A.Lotfy,Pass,M.Basiuony,Passed,Sep,2024
+RMK-1740,45557,A.Lotfy,Pass,M.Basiuony,Passed,Sep,2024
+RMK-1773,45557,A.Lotfy,Reject,M.Basiuony,Buttons Issue,Sep,2024
+RMK-1746,45557,A.Lotfy,Pass,Ehab Sadar,Passed,Sep,2024
+RMK-1218,45557,M.Samir,Pass,M.Basiuony,Passed,Sep,2024
+RMK-1222,45557,Hatem,Pass,Ehab Sadar,Passed,Sep,2024
+RMK-1284,45557,Hatem,Pass,M.Basiuony,Passed,Sep,2024
+RMK-1725,45557,Hossam,Pass,Ehab Sadar,Passed,Sep,2024
+RMK-1774,45558,A.Lotfy,Pass,M.Basiuony,Passed,Sep,2024
+RMK-1744,45558,A.Lotfy,Pass,Ehab Sadar,Passed,Sep,2024
+RMK-1771,45558,A.Lotfy,Pass,M.Basiuony,Passed,Sep,2024
+RMK-902,45558,Fady,Reject,M.Basiuony,Cleaning Issue,Sep,2024
+RMK-1751,45558,Fady,Pass,Ehab Sadar,Passed,Sep,2024
+RMK-1756,45558,A.Lotfy,Pass,M.Basiuony,Passed,Sep,2024
+RMK-1749,45558,A.Lotfy,Pass,M.Basiuony,Passed,Sep,2024
+RMK-1750,45558,A.Lotfy,Pass,Ehab Sadar,Passed,Sep,2024
+RMK-1793,45559,Hossam,Reject,Ehab Sadar,Uncompleted QC Comment,Sep,2024
+RMK-1799,45559,Hossam,Pass,Ehab Sadar,Passed,Sep,2024
+RMK-1786,45559,Hossam,Pass,Ehab Sadar,Passed,Sep,2024
+RSZ-13,45559,Hossam,Pass,M.Basiuony,Passed,Sep,2024
+RMK-1729,45559,Hossam,Pass,M.Basiuony,Passed,Sep,2024
+RMK-1728,45559,Hossam,Reject,M.Basiuony,Cleaning Issue,Sep,2024
+RMK-1795,45559,Hossam,Reject,M.Basiuony,Received devices Issue,Sep,2024
+RMK-1789,45560,Hatem,Pass,Ehab Sadar,Passed,Sep,2024
+RMK-1683,45560,Hossam,Pass,M.Basiuony,Passed,Sep,2024
+RMK-1779,45560,A.Lotfy,Pass,Ehab Sadar,Passed,Sep,2024
+RMK-1784,45560,A.Lotfy,Pass,Ehab Sadar,Passed,Sep,2024
+RMK-1758,45560,A.Lotfy,Pass,M.Basiuony,Passed,Sep,2024
+RMK-1731,45560,Hossam,Pass,Ehab Sadar,Passed,Sep,2024
+RMK-1757,45560,A.Lotfy,Pass,Ehab Sadar,Passed,Sep,2024
+RMK-1787,45560,Hossam,Pass,Ehab Sadar,Passed,Sep,2024
+RMK-1788,45560,Hossam,Pass,Ehab Sadar,Passed,Sep,2024
+RMK-1733,45560,Hossam,Pass,M.Basiuony,Passed,Sep,2024
+RMK-1802,45560,Hatem,Pass,M.Basiuony,Passed,Sep,2024
+RMK-1800,45560,Hossam,Pass,Ehab Sadar,Passed,Sep,2024
+RMK-1762,45560,A.Lotfy,Pass,M.Basiuony,Passed,Sep,2024
+RMK-1760,45560,Hatem,Pass,Ehab Sadar,Passed,Sep,2024
+RMK-1742,45560,Hossam,Pass,M.Basiuony,Passed,Sep,2024
+RMK-1853,45560,Fady,Pass,Ehab Sadar,Passed,Sep,2024
+RMK-1836,45561,Fady,Pass,Ehab Sadar,Passed,Sep,2024
+RMK-1817,45561,Hatem,Pass,Ehab Sadar,Passed,Sep,2024
+RMK-1825,45561,A.Lotfy,Pass,Ehab Sadar,Passed,Sep,2024
+RMK-1846,45561,Fady,Pass,Ehab Sadar,Passed,Sep,2024
+RMK-1833,45561,Hatem,Pass,Ehab Sadar,Passed,Sep,2024
+RMK-1839,45561,Hatem,Pass,Ehab Sadar,Passed,Sep,2024
+RMK-1797,45561,A.Lotfy,Pass,Ehab Sadar,Passed,Sep,2024
+RMK-1857,45561,Fady,Pass,Ehab Sadar,Passed,Sep,2024
+RMK-1748,45561,A.Lotfy,Pass,Ehab Sadar,Passed,Sep,2024
+RMK-1754,45561,Hatem,Pass,Ehab Sadar,Passed,Sep,2024
+RMK-1804,45561,Hatem,Pass,Ehab Sadar,Passed,Sep,2024
+RMK-1827,45561,M.Samir,Pass,Ehab Sadar,Passed,Sep,2024
+RMK-1821,45561,M.Samir,Pass,Ehab Sadar,Passed,Sep,2024
+RMK-1753,45561,Hatem,Pass,Ehab Sadar,Passed,Sep,2024
+RMK-1832,45561,M.Samir,Pass,Ehab Sadar,Passed,Sep,2024
+RMK-1791,45561,Fady,Pass,Ehab Sadar,Passed,Sep,2024
+RMK-1841,45561,Fady,Pass,Ehab Sadar,Passed,Sep,2024
+RMK-1844,45561,Hatem,Pass,Ehab Sadar,Passed,Sep,2024
+RMK-1834,45561,Fady,Pass,M.Basiuony,Passed,Sep,2024
+RMK-1849,45561,Hatem,Reject,M.Basiuony,Received devices Issue,Sep,2024
+RMK-1858,45563,Fady,Reject,M.Basiuony,Uncompleted QC Comment,Sep,2024
+RMK-1859,45563,Fady,Pass,M.Basiuony,Passed,Sep,2024
+RMK-1820,45563,Fady,Pass,M.Basiuony,Passed,Sep,2024
+RMK-1830,45563,Fady,Pass,M.Basiuony,Passed,Sep,2024
+RMK-1759,45563,Fady,Pass,M.Basiuony,Passed,Sep,2024
+RMK-1785,45563,Hossam,Pass,Ehab Sadar,Passed,Sep,2024
+RMK-1848,45563,M.Samir,Pass,M.Basiuony,Passed,Sep,2024
+RMK-1823,45563,Hossam,Pass,M.Basiuony,Passed,Sep,2024
+RMK-1755,45564,A.Lotfy,Pass,Ehab Sadar,Passed,Sep,2024
+RMK-1790,45564,A.Lotfy,Pass,M.Basiuony,Passed,Sep,2024
+RMK-1807,45564,A.Lotfy,Pass,M.Basiuony,Passed,Sep,2024
+RMK-1803,45564,A.Lotfy,Pass,Ehab Sadar,Passed,Sep,2024
+RMK-1813,45564,Fady,Pass,M.Basiuony,Passed,Sep,2024
+RMK-1847,45564,Fady,Pass,Ehab Sadar,Passed,Sep,2024
+RMK-1861,45564,M.Samir,Pass,Ehab Sadar,Passed,Sep,2024
+RMK-1872,45564,Fady,Pass,Ehab Sadar,Passed,Sep,2024
+RMK-1875,45564,Fady,Pass,Ehab Sadar,Passed,Sep,2024
+RMK-1864,45564,Fady,Pass,Ehab Sadar,Passed,Sep,2024
+RMK-1855,45564,Hatem,Pass,M.Basiuony,Passed,Sep,2024
+RMK-1870,45564,Hossam,Pass,M.Basiuony,Passed,Sep,2024
+RMK-1868,45565,A.Lotfy,Pass,Ehab Sadar,Passed,Sep,2024
+RMK-1854,45565,Hatem,Pass,Ehab Sadar,Passed,Sep,2024
+RMK-1831,45565,Fady,Pass,M.Basiuony,Passed,Sep,2024
+RMK-1792,45565,Hossam,Pass,M.Basiuony,Passed,Sep,2024
+RMK-1816,45565,Hatem,Pass,Ehab Sadar,Passed,Sep,2024
+RMK-1829,45565,A.Lotfy,Pass,M.Basiuony,Passed,Sep,2024
+RMK-1863,45565,Hossam,Pass,Ehab Sadar,Passed,Sep,2024
+OMH-5,45565,Fady,Pass,Ehab Sadar,Passed,Sep,2024
+RMK-1796,45565,Fady,Pass,Ehab Sadar,Passed,Sep,2024
+RMK-1879,45565,Hatem,Pass,Ehab Sadar,Passed,Sep,2024
+RMK-1783,45565,Fady,Pass,Ehab Sadar,Passed,Sep,2024
+RMK-1806,45565,Hossam,Pass,M.Basiuony,Passed,Sep,2024
+RMK-1798,45566,Fady,Pass,Ehab Sadar,Passed,Oct,2024
+RMK-1794,45566,Hatem,Pass,Ehab Sadar,Passed,Oct,2024
+OHR-3,45566,A.Lotfy,Pass,M.Basiuony,Passed,Oct,2024
+RMK-1840,45566,Hatem,Pass,M.Basiuony,Passed,Oct,2024
+RMK-1810,45566,Fady,Pass,Ehab Sadar,Passed,Oct,2024
+RMK-1824,45566,Hatem,Pass,Ehab Sadar,Passed,Oct,2024
+RMK-1874,45566,Fady,Pass,Ehab Sadar,Passed,Oct,2024
+RMK-1826,45566,Fady,Pass,Ehab Sadar,Passed,Oct,2024
+RMK-1852,45566,M.Samir,Pass,Ehab Sadar,Passed,Oct,2024
+RMK-1842,45567,Fady,Pass,M.Basiuony,Passed,Oct,2024
+RMK-1856,45567,M.Samir,Pass,M.Basiuony,Passed,Oct,2024
+RMK-1871,45567,M.Samir,Reject,M.Basiuony,Cleaning Issue,Oct,2024
+RMK-1878,45567,M.Samir,Pass,Ehab Sadar,Passed,Oct,2024
+RMK-1862,45568,Fady,Pass,M.Basiuony,Passed,Oct,2024
+RMK-1869,45568,Fady,Pass,M.Basiuony,Passed,Oct,2024
+RMK-1866,45568,Fady,Pass,M.Basiuony,Passed,Oct,2024
+RMK-1805,45568,Hatem,Pass,M.Basiuony,Passed,Oct,2024
+RMK-1919,45568,M.Samir,Reject,M.Basiuony,Label printing Issue,Oct,2024
+RMK-1891,45568,Fady,Reject,M.Basiuony,Cleaning Issue,Oct,2024
+RMK-1707,45570,Fady,Pass,Ehab Sadar,Passed,Oct,2024
+RMK-1890,45570,Fady,Pass,Ehab Sadar,Passed,Oct,2024
+RMK-1900,45570,Fady,Pass,Ehab Sadar,Passed,Oct,2024
+RMK-1905,45570,Fady,Pass,M.Basiuony,Passed,Oct,2024
+RMK-1828,45570,A.Lotfy,Pass,M.Basiuony,Passed,Oct,2024
+RMK-1873,45570,Hossam,Pass,Ehab Sadar,Passed,Oct,2024
+RMK-1888,45570,Hossam,Pass,Ehab Sadar,Passed,Oct,2024
+RMK-1889,45570,Fady,Pass,M.Basiuony,Passed,Oct,2024
+RMK-1904,45570,Fady,Reject,M.Basiuony,Screws Issue,Oct,2024
+RMK-1909,45570,Hossam,Pass,Ehab Sadar,Passed,Oct,2024
+RMK-1881,45570,Fady,Reject,M.Basiuony,Cleaning Issue,Oct,2024
+RMK-1845,45570,M.Samir,Pass,Ehab Sadar,Passed,Oct,2024
+RMK-1883,45570,A.Lotfy,Pass,M.Basiuony,Passed,Oct,2024
+RMK-1835,45570,M.Samir,Reject,M.Basiuony,Screen Issue,Oct,2024
+RMK-1850,45570,M.Samir,Pass,Ehab Sadar,Passed,Oct,2024
+RMK-1865,45570,M.Samir,Pass,Ehab Sadar,Passed,Oct,2024
+RMK-1877,45570,M.Samir,Pass,M.Basiuony,Passed,Oct,2024
+RMK-1902,45570,M.Samir,Pass,Ehab Sadar,Passed,Oct,2024
+RMK-1908,45570,Hossam,Pass,Ehab Sadar,Passed,Oct,2024
+RMK-1917,45571,Fady,Pass,M.Basiuony,Passed,Oct,2024
+RRL-18,45571,A.Lotfy,Pass,Ehab Sadar,Passed,Oct,2024
+RMK-1521,45572,Hossam,Pass,Ehab Sadar,Passed,Oct,2024
+RMK-1811,45572,Hossam,Pass,Ehab Sadar,Passed,Oct,2024
+RMK-1907,45572,Fady,Reject,M.Basiuony,Cleaning Issue,Oct,2024
+RMK-1910,45572,Fady,Pass,Ehab Sadar,Passed,Oct,2024
+RMK-1915,45572,Fady,Pass,M.Basiuony,Passed,Oct,2024
+RMK-1906,45572,Hossam,Pass,M.Basiuony,Passed,Oct,2024
+RMK-1897,45572,Fady,Pass,Ehab Sadar,Passed,Oct,2024
+RMK-836,45572,A.Lotfy,Pass,M.Basiuony,Passed,Oct,2024
+RMK-1899,45572,Hossam,Pass,M.Basiuony,Passed,Oct,2024
+RMK-1837,45572,A.Lotfy,Pass,Ehab Sadar,Passed,Oct,2024
+RMK-1911,45573,Fady,Pass,Ehab Sadar,Passed,Oct,2024
+RMK-1801,45573,Hossam,Reject,M.Basiuony,Cleaning Issue,Oct,2024
+RMK-1898,45573,Hossam,Pass,Ehab Sadar,Passed,Oct,2024
+RMK-1913,45573,Fady,Pass,Ehab Sadar,Passed,Oct,2024
+RMK-1885,45573,Hossam,Pass,M.Basiuony,Passed,Oct,2024
+RMK-1903,45573,Hossam,Pass,M.Basiuony,Passed,Oct,2024
+RMK-1884,45574,Fady,Pass,M.Basiuony,Passed,Oct,2024
+RMK-1920,45574,Fady,Pass,Ehab Sadar,Passed,Oct,2024
+RMK-1615,45574,A.Lotfy,Pass,Ehab Sadar,Passed,Oct,2024
+RMK-1896,45574,A.Lotfy,Pass,M.Basiuony,Passed,Oct,2024
+RMK-1851,45574,M.Samir,Pass,Ehab Sadar,Passed,Oct,2024
+RMK-1165,45574,Hossam,Pass,Ehab Sadar,Passed,Oct,2024
+RMK-1867,45574,M.Samir,Pass,Ehab Sadar,Passed,Oct,2024
+RMK-1886,45574,M.Samir,Pass,M.Basiuony,Passed,Oct,2024
+RMK-1912,45574,M.Samir,Pass,Ehab Sadar,Passed,Oct,2024
+RMK-1901,45574,M.Samir,Pass,M.Basiuony,Passed,Oct,2024
+RMK-1895,45574,M.Samir,Pass,Ehab Sadar,Passed,Oct,2024
+RMK-1818,45574,M.Samir,Pass,Ehab Sadar,Passed,Oct,2024
+RMK-1914,45574,M.Samir,Pass,Ehab Sadar,Passed,Oct,2024
+RMK-1876,45575,Fady,Pass,Ehab Sadar,Passed,Oct,2024
+RMK-1887,45575,Fady,Pass,Ehab Sadar,Passed,Oct,2024
+RMK-1880,45575,M.Samir,Pass,M.Basiuony,Passed,Oct,2024
+RMK-1697,45575,A.Lotfy,Pass,M.Basiuony,Passed,Oct,2024
+RMK-1916,45575,A.Lotfy,Pass,M.Basiuony,Passed,Oct,2024
+RMK-1921,45575,Fady,Pass,M.Basiuony,Passed,Oct,2024
+OSB-4,45576,Hossam,Pass,M.Basiuony,Passed,Oct,2024
+RMK-2035,45576,Hossam,Pass,Ehab Sadar,Passed,Oct,2024
+RMK-1927,45577,Hossam,Pass,M.Basiuony,Passed,Oct,2024
+RMK-1892,45577,A.Lotfy,Pass,M.Basiuony,Passed,Oct,2024
+RMK-1925,45578,A.Lotfy,Pass,M.Basiuony,Passed,Oct,2024
+RMK-1922,45578,Hossam,Pass,Ehab Sadar,Passed,Oct,2024
+RMK-1838,45578,Hossam,Reject,M.Basiuony,Cleaning Issue,Oct,2024
+RMK-1782,45578,Hatem,Pass,Ehab Sadar,Passed,Oct,2024
+OHL-6,45578,A.Lotfy,Pass,M.Basiuony,Passed,Oct,2024
+RMK-1843,45578,A.Lotfy,Pass,Ehab Sadar,Passed,Oct,2024
+RMK-1781,45579,A.Lotfy,Reject,M.Basiuony,Grade Downgrade,Oct,2024
+RMK-1704,45579,A.Lotfy,Pass,M.Basiuony,Passed,Oct,2024
+RMK-1923,45579,A.Lotfy,Pass,M.Basiuony,Passed,Oct,2024
+RMK-1633,45579,A.Lotfy,Pass,Ehab Sadar,Passed,Oct,2024
+RMK-1607,45579,A.Lotfy,Pass,Ehab Sadar,Passed,Oct,2024
+RMK-1926,45579,Hossam,Pass,M.Basiuony,Passed,Oct,2024
+RMK-1333,45579,A.Lotfy,Pass,M.Basiuony,Passed,Oct,2024
+RMK-1929,45579,Hossam,Reject,M.Basiuony,Cleaning Issue,Oct,2024
+RMK-1822,45580,A.Lotfy,Pass,M.Basiuony,Passed,Oct,2024
+RMK-1893,45580,M.Samir,Pass,M.Basiuony,Passed,Oct,2024
+RMK-1924,45580,M.Samir,Pass,M.Basiuony,Passed,Oct,2024
+RMK-1931,45581,A.Lotfy,Pass,M.Basiuony,Passed,Oct,2024
+RMK-1932,45581,M.Samir,Pass,M.Basiuony,Passed,Oct,2024
+RMK-1698,45582,A.Lotfy,Pass,M.Basiuony,Passed,Oct,2024
+RMK-1634,45582,Hatem,Reject,M.Basiuony,Label printing Issue,Oct,2024
+RMK-1815,45582,Hossam,Pass,M.Basiuony,Passed,Oct,2024
+OSB-1,45582,Hatem,Pass,Ehab Sadar,Passed,Oct,2024
+RMK-1933,45582,Hossam,Pass,Ehab Sadar,Passed,Oct,2024
+RMK-257,45582,Hossam,Pass,Ehab Sadar,Passed,Oct,2024
+OHL-7,45584,A.Lotfy,Pass,Ehab Sadar,Passed,Oct,2024
+RMK-1894,45584,A.Lotfy,Pass,Ehab Sadar,Passed,Oct,2024
+RMK-1808,45584,A.Lotfy,Pass,Ehab Sadar,Passed,Oct,2024
+RMK-1882,45585,Hossam,Reject,Ehab Sadar,Camera Issue,Oct,2024
+RMK-1935,45585,Fady,Pass,M.Basiuony,Passed,Oct,2024
+RMK-1937,45585,Hossam,Pass,M.Basiuony,Passed,Oct,2024
+RMK-1938,45585,M.Samir,Pass,M.Basiuony,Passed,Oct,2024
+RMK-1949,45586,Fady,Reject,M.Basiuony,Cleaning Issue,Oct,2024
+RMK-1522,45586,Hossam,Pass,Ehab Sadar,Passed,Oct,2024
+RMK-1532,45586,Hossam,Pass,Ehab Sadar,Passed,Oct,2024
+RMK-1812,45586,Hatem,Pass,Ehab Sadar,Passed,Oct,2024
+UHO-1,45586,A.Lotfy,Pass,M.Basiuony,Passed,Oct,2024
+RMK-1942,45586,Hatem,Pass,M.Basiuony,Passed,Oct,2024
+RMK-1941,45586,Hossam,Pass,Ehab Sadar,Passed,Oct,2024
+RMK-1948,45586,A.Lotfy,Pass,Ehab Sadar,Passed,Oct,2024
+RMK-1936,45586,Hatem,Pass,Ehab Sadar,Passed,Oct,2024
+RMK-1950,45586,Hatem,Pass,M.Basiuony,Passed,Oct,2024
+RMK-1947,45586,Hatem,Pass,M.Basiuony,Passed,Oct,2024
+RMK-1952,45586,A.Lotfy,Pass,Ehab Sadar,Passed,Oct,2024
+RMK-1943,45586,M.Samir,Reject,M.Basiuony,Cleaning Issue,Oct,2024
+ORC-1,45586,Fady,Pass,M.Basiuony,Passed,Oct,2024
+RMK-1963,45587,A.Lotfy,Pass,Ehab Sadar,Passed,Oct,2024
+RMK-1960,45587,Hossam,Pass,Ehab Sadar,Passed,Oct,2024
+RMK-1939,45587,A.Lotfy,Pass,Ehab Sadar,Passed,Oct,2024
+RMK-1951,45587,Hossam,Pass,Ehab Sadar,Passed,Oct,2024
+RMK-1954,45587,Hossam,Pass,Ehab Sadar,Passed,Oct,2024
+RMK-1956,45587,M.Samir,Pass,M.Basiuony,Passed,Oct,2024
+RMK-1962,45587,Fady,Pass,M.Basiuony,Passed,Oct,2024
+RMK-1961,45587,Hatem,Reject,Ehab Sadar,Cleaning Issue,Oct,2024
+RMK-1968,45587,Fady,Pass,Ehab Sadar,Passed,Oct,2024
+RMK-1967,45587,Fady,Pass,M.Basiuony,Passed,Oct,2024
+RMK-1966,45587,Fady,Pass,Ehab Sadar,Passed,Oct,2024
+RMK-1964,45587,Fady,Reject,Ehab Sadar,Mismatch simtray,Oct,2024
+RMK-1959,45588,A.Lotfy,Pass,Ehab Sadar,Passed,Oct,2024
+RMK-1958,45588,Fady,Pass,M.Basiuony,Passed,Oct,2024
+RMK-1957,45588,Hossam,Pass,Ehab Sadar,Passed,Oct,2024
+RMK-1955,45588,Hossam,Pass,Ehab Sadar,Passed,Oct,2024
+RMK-1965,45588,Hatem,Pass,Ehab Sadar,Passed,Oct,2024
+RMK-1977,45589,Hossam,Pass,M.Basiuony,Passed,Oct,2024
+RMK-1974,45589,Hatem,Pass,M.Basiuony,Passed,Oct,2024
+RMK-1973,45589,Hatem,Pass,Ehab Sadar,Passed,Oct,2024
+RMK-1972,45589,Hatem,Pass,M.Basiuony,Passed,Oct,2024
+RMK-1980,45589,Hossam,Pass,M.Basiuony,Passed,Oct,2024
+RMK-1953,45589,M.Samir,Pass,M.Basiuony,Passed,Oct,2024
+RMK-1978,45589,Hossam,Pass,M.Basiuony,Passed,Oct,2024
+RMK-1976,45589,Hossam,Reject,M.Basiuony,Cleaning Issue,Oct,2024
+RMK-312,45589,Hossam,Pass,Ehab Sadar,Passed,Oct,2024
+RMK-1981,45591,Fady,Pass,M.Basiuony,Passed,Oct,2024
+RMK-1982,45591,Fady,Reject,M.Basiuony,Cleaning Issue,Oct,2024
+ORC-2,45591,Hatem,Reject,M.Basiuony,Received devices Issue,Oct,2024
+RMK-1944,45592,M.Samir,Pass,M.Basiuony,Passed,Oct,2024
+RMK-1970,45593,Fady,Pass,M.Basiuony,Passed,Oct,2024
+RMK-920,45593,A.Lotfy,Pass,M.Basiuony,Passed,Oct,2024
+RMK-1940,45593,M.Samir,Pass,M.Basiuony,Passed,Oct,2024
+RMK-1971,45593,M.Samir,Pass,M.Basiuony,Passed,Oct,2024
+RMK-1985,45595,Fady,Pass,M.Basiuony,Passed,Oct,2024
+RMK-1986,45595,A.Lotfy,Pass,Ehab Sadar,Passed,Oct,2024
+OHR-4,45595,Hossam,Pass,Ehab Sadar,Passed,Oct,2024
+RMK-1945,45595,M.Samir,Pass,Ehab Sadar,Passed,Oct,2024
+RMK-1934,45595,A.Lotfy,Pass,Ehab Sadar,Passed,Oct,2024
+RMK-1351,45595,Hatem,Pass,Ehab Sadar,Passed,Oct,2024
+RMK-1930,45595,Hatem,Pass,Ehab Sadar,Passed,Oct,2024
+RMK-1946,45596,A.Lotfy,Pass,Ehab Sadar,Passed,Oct,2024
+OSB-3,45596,Fady,Pass,Ehab Sadar,Passed,Oct,2024
+RMK-1991,45596,A.Lotfy,Pass,M.Basiuony,Passed,Oct,2024
+RMK-1928,45599,Fady,Pass,Ehab Sadar,Passed,Nov,2024
+RMK-1559,45599,Hossam,Pass,M.Basiuony,Passed,Nov,2024
+RMK-1969,45601,Hatem,Pass,M.Basiuony,Passed,Nov,2024
+RMK-1687,45606,Hatem,Pass,M.Basiuony,Passed,Nov,2024
+RSD-45,45608,Hatem,Pass,M.Basiuony,Passed,Nov,2024
+RMK-1563,45608,Fady,Pass,M.Basiuony,Passed,Nov,2024
+UMA-19,45608,Hossam,Pass,Ehab Sadar,Passed,Nov,2024
+RNG-50,45608,Hossam,Pass,M.Basiuony,Passed,Nov,2024
+RMK-2037,45608,Fady,Pass,Ehab Sadar,Passed,Nov,2024
+RMK-1988,45608,M.Samir,Pass,Ehab Sadar,Passed,Nov,2024
+RMK-1992,45608,A.Lotfy,Pass,Ehab Sadar,Passed,Nov,2024
+RMK-1993,45608,A.Lotfy,Pass,Ehab Sadar,Passed,Nov,2024
+RMK-1994,45608,Hossam,Pass,Ehab Sadar,Passed,Nov,2024
+RMK-2006,45608,Hossam,Pass,M.Basiuony,Passed,Nov,2024
+RMK-1996,45608,M.Samir,Pass,Ehab Sadar,Passed,Nov,2024
+RMK-1999,45608,Hatem,Pass,M.Basiuony,Passed,Nov,2024
+RMK-2001,45608,Hatem,Pass,M.Basiuony,Passed,Nov,2024
+RMK-2003,45608,Hatem,Pass,Ehab Sadar,Passed,Nov,2024
+RMK-2004,45608,A.Lotfy,Pass,M.Basiuony,Passed,Nov,2024
+RMK-2027,45608,Fady,Pass,M.Basiuony,Passed,Nov,2024
+RMK-2009,45608,Hossam,Pass,Ehab Sadar,Passed,Nov,2024
+RMK-2011,45608,Fady,Pass,M.Basiuony,Passed,Nov,2024
+RMK-2028,45608,Hatem,Pass,M.Basiuony,Passed,Nov,2024
+RMK-2029,45608,Fady,Pass,M.Basiuony,Passed,Nov,2024
+RMK-2012,45608,Fady,Pass,Ehab Sadar,Passed,Nov,2024
+RMK-2030,45608,Hossam,Pass,M.Basiuony,Passed,Nov,2024
+RMK-2031,45608,A.Lotfy,Pass,M.Basiuony,Passed,Nov,2024
+RMK-2014,45608,Hatem,Pass,Ehab Sadar,Passed,Nov,2024
+RMK-2020,45608,M.Samir,Pass,Ehab Sadar,Passed,Nov,2024
+RMK-2021,45608,M.Samir,Pass,M.Basiuony,Passed,Nov,2024
+RMK-2022,45608,M.Samir,Pass,M.Basiuony,Passed,Nov,2024
+RMK-2023,45608,M.Samir,Pass,M.Basiuony,Passed,Nov,2024
+RMK-2025,45608,M.Samir,Pass,M.Basiuony,Passed,Nov,2024
+RMK-2032,45608,Fady,Pass,M.Basiuony,Passed,Nov,2024
+RMK-1987,45608,M.Samir,Pass,Ehab Sadar,Passed,Nov,2024
+RMK-1989,45608,Hatem,Pass,Ehab Sadar,Passed,Nov,2024
+RMK-1990,45608,Fady,Pass,Ehab Sadar,Passed,Nov,2024
+RMK-1995,45608,Hossam,Pass,Ehab Sadar,Passed,Nov,2024
+RMK-1997,45608,Hatem,Pass,Ehab Sadar,Passed,Nov,2024
+RMK-1998,45608,Fady,Pass,Ehab Sadar,Passed,Nov,2024
+RMK-2000,45608,A.Lotfy,Pass,Ehab Sadar,Passed,Nov,2024
+RMK-2002,45608,M.Samir,Pass,Ehab Sadar,Passed,Nov,2024
+RMK-2005,45608,Hossam,Pass,Ehab Sadar,Passed,Nov,2024
+RMK-2007,45608,Fady,Pass,Ehab Sadar,Passed,Nov,2024
+RMK-2024,45608,Hossam,Pass,Ehab Sadar,Passed,Nov,2024
+RMK-2008,45608,A.Lotfy,Pass,Ehab Sadar,Passed,Nov,2024
+RMK-2010,45608,M.Samir,Pass,Ehab Sadar,Passed,Nov,2024
+RMK-2013,45608,Hatem,Pass,Ehab Sadar,Passed,Nov,2024
+RMK-2015,45608,Hossam,Pass,Ehab Sadar,Passed,Nov,2024
+RMK-2026,45608,Hatem,Pass,Ehab Sadar,Passed,Nov,2024
+RMK-2016,45608,A.Lotfy,Pass,Ehab Sadar,Passed,Nov,2024
+RMK-2017,45608,Hatem,Pass,Ehab Sadar,Passed,Nov,2024
+RMK-2018,45608,A.Lotfy,Pass,Ehab Sadar,Passed,Nov,2024
+RMK-2019,45608,Fady,Pass,Ehab Sadar,Passed,Nov,2024
+RMK-1983,45608,A.Lotfy,Pass,Ehab Sadar,Passed,Nov,2024
+RMK-1984,45608,A.Lotfy,Pass,Ehab Sadar,Passed,Nov,2024
+RMK-1979,45608,M.Samir,Pass,Ehab Sadar,Passed,Nov,2024
+RMK-1975,45608,M.Samir,Pass,Ehab Sadar,Passed,Nov,2024
+RMK-2036,45610,Hatem,Pass,Ehab Sadar,Passed,Nov,2024
+RMK-2038,45613,A.Lotfy,Reject,M.Basiuony,Uncompleted QC Comment,Nov,2024
+RMK-2033,45613,Hatem,Pass,M.Basiuony,Passed,Nov,2024
+UHO-2,45613,Fady,Pass,M.Basiuony,Passed,Nov,2024
+RMK-2048,45614,Fady,Pass,M.Basiuony,Passed,Nov,2024
+RMK-2047,45614,Fady,Pass,M.Basiuony,Passed,Nov,2024
+RMK-2050,45614,Fady,Pass,M.Basiuony,Passed,Nov,2024
+RMK-2052,45614,Fady,Pass,M.Basiuony,Passed,Nov,2024
+RMK-2044,45614,Hossam,Pass,Ehab Sadar,Passed,Nov,2024
+RMK-2054,45614,Hossam,Pass,M.Basiuony,Passed,Nov,2024
+RMK-2045,45614,A.Lotfy,Pass,Ehab Sadar,Passed,Nov,2024
+RMK-2049,45614,Hossam,Pass,Ehab Sadar,Passed,Nov,2024
+RMK-2053,45614,A.Lotfy,Pass,Ehab Sadar,Passed,Nov,2024
+RMK-2040,45615,A.Lotfy,Pass,Ehab Sadar,Passed,Nov,2024
+RMK-2034,45615,A.Lotfy,Pass,Ehab Sadar,Passed,Nov,2024
+RMK-2043,45615,Hossam,Pass,M.Basiuony,Passed,Nov,2024
+UHO-4,45615,Hatem,Pass,M.Basiuony,Passed,Nov,2024
+RMK-2042,45616,Fady,Pass,M.Basiuony,Passed,Nov,2024
+OSB-5,45616,Fady,Pass,M.Basiuony,Passed,Nov,2024
+RMK-2056,45620,Hossam,Pass,Ehab Sadar,Passed,Nov,2024
+RMK-2058,45621,A.Lotfy,Pass,Ehab Sadar,Passed,Nov,2024
+RMK-1597,45621,A.Lotfy,Pass,Ehab Sadar,Passed,Nov,2024
+RMK-2051,45622,Fady,Pass,Ehab Sadar,Passed,Nov,2024
+RMK-1918,45622,A.Lotfy,Pass,Ehab Sadar,Passed,Nov,2024
+RMK-2057,45622,Hatem,Pass,Ehab Sadar,Passed,Nov,2024
+RMK-2059,45622,Hossam,Pass,Ehab Sadar,Passed,Nov,2024
+UHO-6,45622,Fady,Pass,M.Basiuony,Passed,Nov,2024
+RMK-2078,45623,Fady,Pass,Ehab Sadar,Passed,Nov,2024
+RMK-2064,45624,Hossam,Pass,Ehab Sadar,Passed,Nov,2024
+RMK-2067,45624,Hossam,Pass,Ehab Sadar,Passed,Nov,2024
+RMK-2070,45624,A.Lotfy,Pass,M.Basiuony,Passed,Nov,2024
+RMK-2076,45624,Fady,Pass,M.Basiuony,Passed,Nov,2024
+RMK-2079,45624,Fady,Pass,Ehab Sadar,Passed,Nov,2024
+OSB-6,45624,A.Lotfy,Reject,M.Basiuony,Screws Issue,Nov,2024
+ORC-4,45624,Fady,Pass,Ehab Sadar,Passed,Nov,2024
+RMK-2039,45624,M.Samir,Pass,Ehab Sadar,Passed,Nov,2024
+RMK-2071,45624,M.Samir,Pass,Ehab Sadar,Passed,Nov,2024
+RMK-2074,45624,Hossam,Pass,Ehab Sadar,Passed,Nov,2024
+RMK-2073,45624,M.Samir,Pass,Ehab Sadar,Passed,Nov,2024
+RMK-2072,45624,M.Samir,Pass,Ehab Sadar,Passed,Nov,2024
+UHO-8,45624,Hatem,Pass,Ehab Sadar,Passed,Nov,2024
+UHO-7,45624,A.Lotfy,Pass,Ehab Sadar,Passed,Nov,2024
+RMK-2068,45626,A.Lotfy,Pass,Ehab Sadar,Passed,Nov,2024
+UHO-5 ,45626,A.Lotfy,Pass,Ehab Sadar,Passed,Nov,2024
+RMK-1140,45627,A.Lotfy,Pass,M.Basiuony,Passed,Dec,2024
+RNG-116,45627,Hossam,Pass,M.Basiuony,Passed,Dec,2024
+RMK-2081,45628,Fady,Pass,Ehab Sadar,Passed,Dec,2024
+RMK-2085,45628,Hossam,Pass,Ehab Sadar,Passed,Dec,2024
+RMK-2084,45628,A.Lotfy,Pass,M.Basiuony,Passed,Dec,2024
+RMK-2065,45628,Hossam,Pass,M.Basiuony,Passed,Dec,2024
+RMK-2069,45629,Hatem,Pass,M.Basiuony,Passed,Dec,2024
+RMK-2063,45629,Hossam,Reject,M.Basiuony,Cleaning Issue,Dec,2024
+RMK-2075,45630,Hossam,Pass,M.Basiuony,Passed,Dec,2024
+RMK-2083,45630,A.Lotfy,Pass,M.Basiuony,Passed,Dec,2024
+RMK-2094,45630,Hatem,Pass,Ehab Sadar,Passed,Dec,2024
+OHL-10,45630,Hatem,Pass,Ehab Sadar,Passed,Dec,2024
+RMK-2093,45630,A.Lotfy,Pass,Ehab Sadar,Passed,Dec,2024
+RMK-2077,45633,Hossam,Pass,M.Basiuony,Passed,Dec,2024
+RMK-2060,45634,M.Samir,Pass,M.Basiuony,Passed,Dec,2024
+RMK-2082,45634,A.Lotfy,Pass,M.Basiuony,Passed,Dec,2024
+RMK-2091,45634,Hossam,Pass,M.Basiuony,Passed,Dec,2024
+RMK-2086,45634,Hatem,Pass,M.Basiuony,Passed,Dec,2024
+RMK-2090,45634,Hatem,Pass,M.Basiuony,Passed,Dec,2024
+OHL-9,45634,Fady,Pass,M.Basiuony,Passed,Dec,2024
+RMK-2099,45634,M.Samir,Pass,M.Basiuony,Passed,Dec,2024
+RMK-2098,45634,Fady,Pass,M.Basiuony,Passed,Dec,2024
+ UHO-3,45634,Hossam,Pass,M.Basiuony,Passed,Dec,2024
+RMK-2097,45634,Hossam,Pass,M.Basiuony,Passed,Dec,2024
+RMK-2088,45636,Hossam,Reject,Ehab Sadar,Grade Upgrade,Dec,2024
+RMK-2041,45636,Hatem,Pass,Ehab Sadar,Passed,Dec,2024
+ORC-5,45636,A.Lotfy,Pass,Ehab Sadar,Passed,Dec,2024
+RMK-2046,45636,A.Lotfy,Pass,Ehab Sadar,Passed,Dec,2024
+UHO-11,45636,Hossam,Pass,M.Basiuony,Passed,Dec,2024
+RMK-2055,45636,Hossam,Pass,Ehab Sadar,Passed,Dec,2024
+RMK-2089,45638,Fady,Pass,Ehab Sadar,Passed,Dec,2024
+RMK-2101,45638,Hatem,Reject,Ehab Sadar,Press Issue,Dec,2024
+RMK-2080,45638,A.Lotfy,Pass,Ehab Sadar,Passed,Dec,2024
+RMK-2104,45638,A.Lotfy,Pass,Ehab Sadar,Passed,Dec,2024
+RMK-2106,45638,Hatem,Pass,Ehab Sadar,Passed,Dec,2024
+RMK-2100,45641,Hossam,Pass,Ehab Sadar,Passed,Dec,2024
+RMK-2109,45641,Hossam,Pass,Ehab Sadar,Passed,Dec,2024
+UHO-10,45641,Hossam,Pass,Ehab Sadar,Passed,Dec,2024
+UHO-13,45641,Fady,Pass,Ehab Sadar,Passed,Dec,2024
+RMK-2107,45642,Hossam,Pass,Ehab Sadar,Passed,Dec,2024
+RMK-2108,45642,Fady,Pass,Ehab Sadar,Passed,Dec,2024
+RMK-2110,45642,A.Lotfy,Pass,Ehab Sadar,Passed,Dec,2024
+RMK-2114,45643,A.Lotfy,Pass,Ehab Sadar,Passed,Dec,2024
+RMK-2115,45643,Hossam,Pass,Ehab Sadar,Passed,Dec,2024
+RMK-2123,45643,Fady,Pass,Ehab Sadar,Passed,Dec,2024
+RMK-2127,45643,Hossam,Pass,Ehab Sadar,Passed,Dec,2024
+RMK-2130,45643,A.Lotfy,Pass,Ehab Sadar,Passed,Dec,2024
+RMK-2131,45643,Hatem,Pass,Ehab Sadar,Passed,Dec,2024
+RMK-2132,45643,Hatem,Pass,M.Basiuony,Passed,Dec,2024
+RMK-2062,45643,A.Lotfy,Pass,Ehab Sadar,Passed,Dec,2024
+RMK-2111,45643,A.Lotfy,Pass,Ehab Sadar,Passed,Dec,2024
+CTS-1,45643,Fady,Pass,Ehab Sadar,Passed,Dec,2024
+RMK-2126,45643,Fady,Pass,Ehab Sadar,Passed,Dec,2024
+RMK-2092,45644,Hatem,Pass,Ehab Sadar,Passed,Dec,2024
+RMK-2117,45644,Fady,Pass,Ehab Sadar,Passed,Dec,2024
+RMK-2128,45644,Fady,Pass,Ehab Sadar,Passed,Dec,2024
+RMK-2125,45644,M.Samir,Pass,Ehab Sadar,Passed,Dec,2024
+RMK-2122,45644,Hossam,Pass,Ehab Sadar,Passed,Dec,2024
+RMK-2121,45644,M.Samir,Pass,Ehab Sadar,Passed,Dec,2024
+RMK-2118,45644,M.Samir,Pass,Ehab Sadar,Passed,Dec,2024
+RMK-2066,45644,M.Samir,Pass,Ehab Sadar,Passed,Dec,2024
+RMK-2129,45644,Hatem,Pass,Ehab Sadar,Passed,Dec,2024
+RMK-2137,45644,Hatem,Pass,Ehab Sadar,Passed,Dec,2024
+RMK-2138,45644,Hatem,Pass,Ehab Sadar,Passed,Dec,2024
+RMK-2139,45644,Hossam,Pass,Ehab Sadar,Passed,Dec,2024
+RMK-2141,45644,M.Samir,Pass,Ehab Sadar,Passed,Dec,2024
+RMK-2143,45644,Hatem,Pass,Ehab Sadar,Passed,Dec,2024
+RMK-2144,45644,A.Lotfy,Pass,Ehab Sadar,Passed,Dec,2024
+RMK-2145,45644,A.Lotfy,Pass,Ehab Sadar,Passed,Dec,2024
+RMK-2146,45644,M.Samir,Pass,Ehab Sadar,Passed,Dec,2024
+RMK-2147,45644,M.Samir,Pass,Ehab Sadar,Passed,Dec,2024
+RMK-2148,45644,Hossam,Pass,Ehab Sadar,Passed,Dec,2024
+RMK-2149,45644,M.Samir,Pass,Ehab Sadar,Passed,Dec,2024
+RMK-2156,45645,M.Samir,Pass,M.Basiuony,Passed,Dec,2024
+RMK-2157,45645,M.Samir,Pass,M.Basiuony,Passed,Dec,2024
+RMK-2161,45645,M.Samir,Pass,M.Basiuony,Passed,Dec,2024
+RMK-2151,45645,Fady,Reject,M.Basiuony,Camera Issue,Dec,2024
+RMK-2140,45645,Fady,Pass,Ehab Sadar,Passed,Dec,2024
+RMK-2142,45645,Fady,Pass,Ehab Sadar,Passed,Dec,2024
+RMK-2134,45645,Hatem,Pass,Ehab Sadar,Passed,Dec,2024
+RMK-2152,45645,M.Samir,Pass,Ehab Sadar,Passed,Dec,2024
+RMK-2153,45645,Hatem,Pass,Ehab Sadar,Passed,Dec,2024
+RMK-2154,45645,Hatem,Pass,Ehab Sadar,Passed,Dec,2024
+RMK-2160,45645,M.Samir,Pass,Ehab Sadar,Passed,Dec,2024
+RMK-2158,45645,M.Samir,Pass,Ehab Sadar,Passed,Dec,2024
+RMK-2159,45648,Hatem,Pass,M.Basiuony,Passed,Dec,2024
+RMK-2136,45648,Hossam,Pass,M.Basiuony,Passed,Dec,2024
+ORC-3,45648,Hossam,Pass,M.Basiuony,Passed,Dec,2024
+RMK-2119,45648,Hossam,Pass,M.Basiuony,Passed,Dec,2024
+RMK-2124,45648,Hatem,Pass,M.Basiuony,Passed,Dec,2024
+RMK-2164,45649,Fady,Pass,Ehab Sadar,Passed,Dec,2024
+RMK-2133,45649,A.Lotfy,Pass,Ehab Sadar,Passed,Dec,2024
+UHO-9,45649,Hossam,Pass,M.Basiuony,Passed,Dec,2024
+RMK-2168,45649,Fady,Pass,M.Basiuony,Passed,Dec,2024
+RMK-2163,45649,Fady,Pass,Ehab Sadar,Passed,Dec,2024
+RMK-2103,45650,A.Lotfy,Pass,M.Basiuony,Passed,Dec,2024
+RMK-2167,45650,A.Lotfy,Pass,M.Basiuony,Passed,Dec,2024
+OHL-8,45650,Fady,Pass,M.Basiuony,Passed,Dec,2024
+RMK-2112,45650,Hatem,Pass,M.Basiuony,Passed,Dec,2024
+RMK-2095,45650,Hossam,Pass,M.Basiuony,Passed,Dec,2024
+RMK-1253,45650,Hossam,Pass,Ehab Sadar,Passed,Dec,2024
+RMK-2096,45650,Hatem,Pass,Ehab Sadar,Passed,Dec,2024
+RMK-2165,45650,A.Lotfy,Pass,Ehab Sadar,Passed,Dec,2024
+RMK-2166,45650,Hossam,Pass,Ehab Sadar,Passed,Dec,2024
+RMK-2169,45650,Fady,Pass,Ehab Sadar,Passed,Dec,2024
+RMK-2173,45651,Hatem,Pass,Ehab Sadar,Passed,Dec,2024
+RMK-2182,45651,Hossam,Pass,Ehab Sadar,Passed,Dec,2024
+RMK-2184,45651,Hatem,Pass,Ehab Sadar,Passed,Dec,2024
+RMK-2186,45651,Fady,Pass,M.Basiuony,Passed,Dec,2024
+RMK-2187,45651,A.Lotfy,Pass,M.Basiuony,Passed,Dec,2024
+RMK-2196,45651,Fady,Pass,Ehab Sadar,Passed,Dec,2024
+RMK-2195,45651,A.Lotfy,Pass,Ehab Sadar,Passed,Dec,2024
+RMK-2193,45651,Hatem,Pass,Ehab Sadar,Passed,Dec,2024
+RMK-2192,45651,Fady,Pass,Ehab Sadar,Passed,Dec,2024
+RMK-2191,45651,Fady,Pass,Ehab Sadar,Passed,Dec,2024
+RMK-2181,45651,A.Lotfy,Pass,Ehab Sadar,Passed,Dec,2024
+RMK-2194,45651,M.Samir,Pass,Ehab Sadar,Passed,Dec,2024
+RMK-2190,45651,Hossam,Pass,Ehab Sadar,Passed,Dec,2024
+RMK-2189,45651,M.Samir,Pass,Ehab Sadar,Passed,Dec,2024
+RMK-2176,45651,Hossam,Pass,Ehab Sadar,Passed,Dec,2024
+RMK-2183,45651,Hossam,Pass,Ehab Sadar,Passed,Dec,2024
+RMK-2174,45651,Hossam,Pass,Ehab Sadar,Passed,Dec,2024
+RMK-2177,45651,M.Samir,Pass,Ehab Sadar,Passed,Dec,2024
+RMK-2185,45651,Hatem,Pass,Ehab Sadar,Passed,Dec,2024
+RMK-2180,45651,Hatem,Pass,Ehab Sadar,Passed,Dec,2024
+RMK-2171,45652,A.Lotfy,Pass,Ehab Sadar,Passed,Dec,2024
+RMK-2102,45652,Hossam,Pass,Ehab Sadar,Passed,Dec,2024
+RMK-2175,45652,M.Samir,Pass,Ehab Sadar,Passed,Dec,2024
+RMK-2179,45652,Hossam,Pass,Ehab Sadar,Passed,Dec,2024
+UHO-15,45652,Hatem,Pass,Ehab Sadar,Passed,Dec,2024
+RMK-2087,45652,A.Lotfy,Pass,Ehab Sadar,Passed,Dec,2024
+RMK-2135,45652,Hatem,Pass,Ehab Sadar,Passed,Dec,2024
+RMK-2105,45652,A.Lotfy,Pass,Ehab Sadar,Passed,Dec,2024
+RMK-2172,45652,M.Samir,Pass,Ehab Sadar,Passed,Dec,2024
+RMK-2178,45652,M.Samir,Pass,Ehab Sadar,Passed,Dec,2024
+RMK-2150,45652,M.Samir,Pass,Ehab Sadar,Passed,Dec,2024
+RMK-2197,45652,Hatem,Pass,Ehab Sadar,Passed,Dec,2024
+UHO-12,45652,Hatem,Pass,Ehab Sadar,Passed,Dec,2024
+RMK-2201,45654,Hatem,Pass,M.Basiuony,Passed,Dec,2024
+UHO-14,45654,Hatem,Pass,M.Basiuony,Passed,Dec,2024
+RMK-2200,45654,Hossam,Reject,Ehab Sadar,Wrong Action,Dec,2024
+RMK-2170,45654,Fady,Pass,Ehab Sadar,Passed,Dec,2024
+CTS-3,45655,Fady,Pass,M.Basiuony,Passed,Dec,2024
+RMK-2113,45655,Fady,Reject,Ehab Sadar,Camera Issue,Dec,2024
+RMK-2120,45655,Fady,Pass,M.Basiuony,Passed,Dec,2024
+RMK-2199,45655,Fady,Pass,Ehab Sadar,Passed,Dec,2024
+RMK-2155,45655,Fady,Pass,Ehab Sadar,Passed,Dec,2024
+RMK-2188,45655,Fady,Pass,Ehab Sadar,Passed,Dec,2024
+RMK-2203,45655,Fady,Pass,Ehab Sadar,Passed,Dec,2024
+RMK-2204,45656,M.Samir,Pass,Ehab Sadar,Passed,Dec,2024
+RMK-2206,45666,Hossam,Pass,Ehab Sadar,Passed,Jan,2025
+UHO-16,45669,Hossam,Pass,M.Basiuony,Passed,Jan,2025
+RMK-2208,45673,Hatem,Pass,Ehab Sadar,Passed,Jan,2025
+RMK-2215,45673,Fady,Pass,Ehab Sadar,Passed,Jan,2025
+RMK-2217,45673,Fady,Pass,Ehab Sadar,Passed,Jan,2025
+RMK-2213,45673,Hatem,Pass,M.Basiuony,Passed,Jan,2025
+RMK-2218,45675,Hossam,Pass,M.Basiuony,Passed,Jan,2025
+RMK-2219,45677,Fady,Pass,Ehab Sadar,Passed,Jan,2025
+RMK-2210,45677,A.Lotfy,Pass,Ehab Sadar,Passed,Jan,2025
+RMK-2220,45677,A.Lotfy,Pass,Ehab Sadar,Passed,Jan,2025
+RMK-2225,45677,A.Lotfy,Pass,M.Basiuony,Passed,Jan,2025
+RMK-2227,45677,Hatem,Pass,M.Basiuony,Passed,Jan,2025
+CTS-6,45679,A.Lotfy,Pass,M.Basiuony,Passed,Jan,2025
+UHO-19,45679,Fady,Reject,M.Basiuony,Screws Issue,Jan,2025
+CTS-5,45680,Fady,Pass,M.Basiuony,Passed,Jan,2025
+RMK-2229,45680,A.Lotfy,Pass,Ehab Sadar,Passed,Jan,2025
+RMK-2224,45683,Fady,Pass,Ehab Sadar,Passed,Jan,2025
+RMK-2209,45683,Hossam,Pass,Ehab Sadar,Passed,Jan,2025
+RMK-2230,45683,Fady,Pass,M.Basiuony,Passed,Jan,2025
+RMK-2222,45684,Fady,Pass,M.Basiuony,Passed,Jan,2025
+RMK-2233,45684,Hossam,Pass,Ehab Sadar,Passed,Jan,2025
+RMK-2223,45685,Fady,Pass,M.Basiuony,Passed,Jan,2025
+RMK-2221,45685,A.Lotfy,Pass,M.Basiuony,Passed,Jan,2025
+RMK-2207,45685,Hossam,Pass,M.Basiuony,Passed,Jan,2025
+RMK-2244,45685,M.Samir,Pass,M.Basiuony,Passed,Jan,2025
+RMK-2235,45685,Hatem,Pass,Ehab Sadar,Passed,Jan,2025
+UHO-18,45685,Hossam,Reject,Ehab Sadar,Uncompleted QC Comment,Jan,2025
+RMK-2245,45686,Fady,Pass,M.Basiuony,Passed,Jan,2025
+RMK-2238,45686,Fady,Reject,M.Basiuony,Cleaning Issue,Jan,2025
+RMK-2212,45686,Fady,Reject,M.Basiuony,QC SIM Found,Jan,2025
+RMK-2240,45686,Fady,Reject,M.Basiuony,Grade Upgrade,Jan,2025
+RMK-2241,45686,M.Samir,Reject,M.Basiuony,QC SIM Found,Jan,2025
+RMK-2226,45686,Hatem,Reject,M.Basiuony,Received devices Issue,Jan,2025
+RMK-2239,45687,Fady,Pass,M.Basiuony,Passed,Jan,2025
+RMK-2248,45687,Fady,Pass,M.Basiuony,Passed,Jan,2025
+UHO-17,45687,Fady,Pass,M.Basiuony,Passed,Jan,2025
+RMK-2242,45689,A.Lotfy,Pass,M.Basiuony,Passed,Feb,2025
+RMK-2237,45689,Hossam,Pass,M.Basiuony,Passed,Feb,2025
+RMK-2234,45690,A.Lotfy,Pass,Ehab Sadar,Passed,Feb,2025
+RMK-2232,45691,A.Lotfy,Pass,Ehab Sadar,Passed,Feb,2025
+RMK-2246,45691,Fady,Pass,Ehab Sadar,Passed,Feb,2025
+RMK-2211,45691,Fady,Pass,Ehab Sadar,Passed,Feb,2025
+UHO-21,45691,Hossam,Pass,Ehab Sadar,Passed,Feb,2025
+CTS-7,45691,Hossam,Pass,Ehab Sadar,Passed,Feb,2025
+RMK-2202,45692,Hossam,Pass,Ehab Sadar,Passed,Feb,2025
+RMK-2253,45692,Hossam,Pass,Ehab Sadar,Passed,Feb,2025
+RMK-2254,45692,M.Samir,Pass,Ehab Sadar,Passed,Feb,2025
+RMK-2216,45692,Fady,Pass,Ehab Sadar,Passed,Feb,2025
+RMK-2252,45692,Hossam,Pass,M.Basiuony,Passed,Feb,2025
+RMK-2260,45692,M.Samir,Pass,Ehab Sadar,Passed,Feb,2025
+RMK-2262,45692,Hatem,Pass,M.Basiuony,Passed,Feb,2025
+RMK-2251,45692,A.Lotfy,Pass,Ehab Sadar,Passed,Feb,2025
+RMK-2257,45692,A.Lotfy,Reject,M.Basiuony,Screen Issue,Feb,2025
+RMK-2236,45693,Hatem,Pass,Ehab Sadar,Passed,Feb,2025
+RMK-2265,45693,Hossam,Pass,Ehab Sadar,Passed,Feb,2025
+RMK-2263,45693,A.Lotfy,Pass,Ehab Sadar,Passed,Feb,2025
+RMK-2231,45693,Fady,Pass,Ehab Sadar,Passed,Feb,2025
+RMK-2267,45693,Fady,Pass,Ehab Sadar,Passed,Feb,2025
+RMK-2258,45693,Hossam,Pass,Ehab Sadar,Passed,Feb,2025
+RMK-2259,45693,Hossam,Pass,M.Basiuony,Passed,Feb,2025
+RMK-2274,45698,A.Lotfy,Pass,M.Basiuony,Passed,Feb,2025
+RMK-2243,45699,A.Lotfy,Pass,Ehab Sadar,Passed,Feb,2025
+RMK-2277,45699,A.Lotfy,Pass,Ehab Sadar,Passed,Feb,2025
+RMK-2276,45699,Hossam,Pass,M.Basiuony,Passed,Feb,2025
+CTS-8,45699,Fady,Reject,M.Basiuony,Data error,Feb,2025
+CTS-11,45700,Fady,Pass,M.Basiuony,Passed,Feb,2025
+RMK-2250,45700,A.Lotfy,Pass,M.Basiuony,Passed,Feb,2025
+RMK-2278,45700,Hossam,Pass,M.Basiuony,Passed,Feb,2025
+RMK-2279,45700,Hatem,Reject,M.Basiuony,Accessory Found,Feb,2025
+RMK-2255,45701,Fady,Pass,M.Basiuony,Passed,Feb,2025
+RMK-2271,45701,Fady,Pass,M.Basiuony,Passed,Feb,2025
+RMK-2282,45704,Hatem,Pass,Ehab Sadar,Passed,Feb,2025
+RMK-2286,45704,Hatem,Pass,Ehab Sadar,Passed,Feb,2025
+RMK-2300,45704,A.Lotfy,Pass,Ehab Sadar,Passed,Feb,2025
+RMK-2288,45704,A.Lotfy,Pass,Ehab Sadar,Passed,Feb,2025
+RMK-2281,45704,A.Lotfy,Pass,Ehab Sadar,Passed,Feb,2025
+RMK-2292,45704,Fady,Pass,Ehab Sadar,Passed,Feb,2025
+RMK-2294,45704,Fady,Pass,M.Basiuony,Passed,Feb,2025
+RMK-2302,45704,Hatem,Pass,Ehab Sadar,Passed,Feb,2025
+RMK-2303,45704,Fady,Pass,M.Basiuony,Passed,Feb,2025
+RMK-2305,45704,Fady,Pass,Ehab Sadar,Passed,Feb,2025
+RMK-2307,45704,Hossam,Pass,Ehab Sadar,Passed,Feb,2025
+RMK-2291,45704,Hatem,Pass,M.Basiuony,Passed,Feb,2025
+RMK-2296,45704,Hossam,Pass,Ehab Sadar,Passed,Feb,2025
+RMK-2304,45704,A.Lotfy,Pass,Ehab Sadar,Passed,Feb,2025
+RMK-2306,45704,Hossam,Pass,M.Basiuony,Passed,Feb,2025
+RMK-2309,45704,M.Samir,Pass,M.Basiuony,Passed,Feb,2025
+RMK-2310,45704,Hatem,Pass,M.Basiuony,Passed,Feb,2025
+RMK-2299,45704,Hatem,Reject,Ehab Sadar,Label printing Issue,Feb,2025
+RMK-2284,45705,Hossam,Pass,M.Basiuony,Passed,Feb,2025
+RMK-2287,45705,Hossam,Pass,M.Basiuony,Passed,Feb,2025
+CTS-12,45705,Hossam,Pass,Ehab Sadar,Passed,Feb,2025
+RMK-2289,45705,M.Samir,Pass,Ehab Sadar,Passed,Feb,2025
+RMK-2297,45705,M.Samir,Pass,Ehab Sadar,Passed,Feb,2025
+RMK-2301,45705,M.Samir,Pass,Ehab Sadar,Passed,Feb,2025
+RMK-2311,45705,Hatem,Pass,M.Basiuony,Passed,Feb,2025
+RMK-2313,45705,A.Lotfy,Pass,M.Basiuony,Passed,Feb,2025
+CTS-10,45705,Hossam,Pass,Ehab Sadar,Passed,Feb,2025
+RMK-2298,45705,Hatem,Pass,M.Basiuony,Passed,Feb,2025
+RMK-2308,45705,Fady,Pass,M.Basiuony,Passed,Feb,2025
+RMK-2312,45705,Fady,Pass,Ehab Sadar,Passed,Feb,2025
+UHO-22,45705,A.Lotfy,Pass,M.Basiuony,Passed,Feb,2025
+RMK-2290,45705,Hossam,Pass,M.Basiuony,Passed,Feb,2025
+RMK-2293,45705,A.Lotfy,Pass,Ehab Sadar,Passed,Feb,2025
+RMK-2295,45705,M.Samir,Pass,M.Basiuony,Passed,Feb,2025
+CTS-4,45705,Hossam,Pass,M.Basiuony,Passed,Feb,2025
+RMK-2273,45705,A.Lotfy,Pass,Ehab Sadar,Passed,Feb,2025
+RMK-2316,45706,Fady,Pass,Ehab Sadar,Passed,Feb,2025
+RMK-2317,45706,A.Lotfy,Pass,Ehab Sadar,Passed,Feb,2025
+RMK-2268,45706,Hatem,Pass,Ehab Sadar,Passed,Feb,2025
+RMK-2280,45706,Hossam,Reject,Ehab Sadar,Camera Issue,Feb,2025
+CTS-15,45707,Fady,Pass,Ehab Sadar,Passed,Feb,2025
+RMK-2256,45707,Hossam,Pass,Ehab Sadar,Passed,Feb,2025
+CTS-9,45707,Hatem,Reject,Ehab Sadar,Screws Issue,Feb,2025
+CTS-14,45708,M.Samir,Pass,Ehab Sadar,Passed,Feb,2025
+CTS-16,45708,Hatem,Pass,Ehab Sadar,Passed,Feb,2025
+RMK-2275,45708,Fady,Pass,Ehab Sadar,Passed,Feb,2025
+RMK-2285,45708,Hatem,Pass,M.Basiuony,Passed,Feb,2025
+RMK-2323,45708,Hatem,Pass,Ehab Sadar,Passed,Feb,2025
+RMK-2320,45708,M.Samir,Pass,M.Basiuony,Passed,Feb,2025
+RMK-2326,45708,Hatem,Pass,Ehab Sadar,Passed,Feb,2025
+RMK-2327,45708,Hatem,Pass,Ehab Sadar,Passed,Feb,2025
+RMK-2322,45710,Fady,Pass,Ehab Sadar,Passed,Feb,2025
+RMK-2319,45710,Hossam,Pass,Ehab Sadar,Passed,Feb,2025
+RMK-2261,45710,Fady,Pass,Ehab Sadar,Passed,Feb,2025
+RMK-2333,45711,A.Lotfy,Pass,M.Basiuony,Passed,Feb,2025
+RMK-2337,45711,A.Lotfy,Pass,M.Basiuony,Passed,Feb,2025
+RMK-2331,45711,Hossam,Pass,M.Basiuony,Passed,Feb,2025
+UHO-20,45711,A.Lotfy,Reject,M.Basiuony,Battery drain Issue,Feb,2025
+RMK-2325,45712,A.Lotfy,Pass,M.Basiuony,Passed,Feb,2025
+RMK-2334,45712,A.Lotfy,Pass,M.Basiuony,Passed,Feb,2025
+RMK-2338,45712,Hatem,Pass,M.Basiuony,Passed,Feb,2025
+UHO-23,45712,A.Lotfy,Pass,M.Basiuony,Passed,Feb,2025
+RMK-2330,45712,Hossam,Pass,Ehab Sadar,Passed,Feb,2025
+RMK-2339,45712,Hossam,Pass,Ehab Sadar,Passed,Feb,2025
+RMK-2346,45712,A.Lotfy,Pass,M.Basiuony,Passed,Feb,2025
+RMK-2332,45712,M.Samir,Pass,M.Basiuony,Passed,Feb,2025
+RMK-2340,45712,M.Samir,Pass,M.Basiuony,Passed,Feb,2025
+RMK-2336,45712,M.Samir,Pass,M.Basiuony,Passed,Feb,2025
+RMK-2335,45712,Hossam,Reject,Ehab Sadar,Cleaning Issue,Feb,2025
+RMK-2315,45712,Fady,Reject,M.Basiuony,Grade Upgrade,Feb,2025
+RMK-2341,45713,M.Samir,Pass,Ehab Sadar,Passed,Feb,2025
+RMK-2347,45713,Hossam,Reject,M.Basiuony,Mismatch simtray,Feb,2025
+RMK-2343,45714,A.Lotfy,Pass,M.Basiuony,Passed,Feb,2025
+RMK-2354,45714,Hatem,Pass,Ehab Sadar,Passed,Feb,2025
+RMK-2344,45714,Hossam,Reject,M.Basiuony,Grade Upgrade,Feb,2025
+RMK-2352,45715,Hatem,Pass,M.Basiuony,Passed,Feb,2025
+RMK-2353,45715,A.Lotfy,Pass,M.Basiuony,Passed,Feb,2025
+RMK-2247,45715,A.Lotfy,Pass,M.Basiuony,Passed,Feb,2025
+RMK-2328,45715,Hatem,Pass,M.Basiuony,Passed,Feb,2025
+RMK-2345,45715,Hossam,Reject,M.Basiuony,Data error,Feb,2025
+RMK-2198,45719,A.Lotfy,Pass,M.Basiuony,Passed,Mar,2025
+RMK-2269,45719,Hossam,Pass,M.Basiuony,Passed,Mar,2025
+RMK-2357,45720,Hossam,Pass,M.Basiuony,Passed,Mar,2025
+RMK-2358,45720,A.Lotfy,Pass,M.Basiuony,Passed,Mar,2025
+UHO-24,45721,A.Lotfy,Pass,M.Basiuony,Passed,Mar,2025
+RMK-2249,45721,Hossam,Pass,M.Basiuony,Passed,Mar,2025
+RMK-2362,45722,Hatem,Pass,M.Basiuony,Passed,Mar,2025
+RMK-2363,45722,Fady,Pass,M.Basiuony,Passed,Mar,2025
+RMK-2283,45722,Hossam,Pass,Ehab Sadar,Passed,Mar,2025
+RMK-2324,45722,Hossam,Pass,Ehab Sadar,Passed,Mar,2025
+RMK-2342,45722,A.Lotfy,Pass,Ehab Sadar,Passed,Mar,2025
+RMK-2361,45725,Fady,Pass,M.Basiuony,Passed,Mar,2025
+RMK-2359,45725,A.Lotfy,Pass,Ehab Sadar,Passed,Mar,2025
+RMK-2270,45725,Hossam,Pass,Ehab Sadar,Passed,Mar,2025
+RMK-2365,45725,Hatem,Pass,M.Basiuony,Passed,Mar,2025
+RMK-2368,45727,A.Lotfy,Pass,Ehab Sadar,Passed,Mar,2025
+UHO-27,45727,Hossam,Pass,M.Basiuony,Passed,Mar,2025
+CTS-13,45727,M.Samir,Pass,Ehab Sadar,Passed,Mar,2025
+RMK-2367,45727,Fady,Pass,M.Basiuony,Passed,Mar,2025
+RMK-2321,45728,M.Samir,Pass,M.Basiuony,Passed,Mar,2025
+RMK-2264,45728,A.Lotfy,Pass,M.Basiuony,Passed,Mar,2025
+RMK-2266,45732,Hossam,Pass,Ehab Sadar,Passed,Mar,2025
+RMK-2356,45732,Fady,Pass,Ehab Sadar,Passed,Mar,2025
+RMK-2370,45732,A.Lotfy,Pass,Ehab Sadar,Passed,Mar,2025
+RSD-67,45732,A.Lotfy,Pass,Ehab Sadar,Passed,Mar,2025
+RSZ-54,45732,Fady,Pass,M.Basiuony,Passed,Mar,2025
+RSZ-52,45732,Hossam,Pass,M.Basiuony,Passed,Mar,2025
+RMK-2162,45732,Fady,Pass,Ehab Sadar,Passed,Mar,2025
+RMK-2372,45732,Hossam,Pass,Ehab Sadar,Passed,Mar,2025
+RSZ-51,45732,Hatem,Reject,M.Basiuony,Received devices Issue,Mar,2025
+UHO-25,45733,Hatem,Pass,Ehab Sadar,Passed,Mar,2025
+RSZ-53,45733,A.Lotfy,Pass,Ehab Sadar,Passed,Mar,2025
+CTS-19,45734,M.Samir,Pass,Ehab Sadar,Passed,Mar,2025
+RMK-2314,45734,A.Lotfy,Pass,M.Basiuony,Passed,Mar,2025
+RMK-2374,45735,Hatem,Pass,M.Basiuony,Passed,Mar,2025
+RMK-2378,45735,Fady,Pass,M.Basiuony,Passed,Mar,2025
+RMK-2375,45735,A.Lotfy,Pass,Ehab Sadar,Passed,Mar,2025
+RMK-2376,45735,Hossam,Pass,M.Basiuony,Passed,Mar,2025
+RMK-2381,45735,Hossam,Pass,M.Basiuony,Passed,Mar,2025
+RMK-2373,45735,Fady,Reject,M.Basiuony,Cleaning Issue,Mar,2025
+RMK-2377,45735,Fady,Reject,M.Basiuony,Not erased,Mar,2025
+RMK-2318,45738,Fady,Pass,M.Basiuony,Passed,Mar,2025
+CTS-18,45739,Hossam,Pass,M.Basiuony,Passed,Mar,2025
+RMK-2382,45739,Fady,Pass,M.Basiuony,Passed,Mar,2025
+UHO-28,45739,Hatem,Pass,Ehab Sadar,Passed,Mar,2025
+RMK-2366,45740,Fady,Pass,Ehab Sadar,Passed,Mar,2025
+ORC-6,45740,Fady,Pass,M.Basiuony,Passed,Mar,2025
+RMK-2380,45740,A.Lotfy,Pass,M.Basiuony,Passed,Mar,2025
+RMK-2379,45740,Hossam,Pass,Ehab Sadar,Passed,Mar,2025
+RMK-2360,45741,A.Lotfy,Pass,M.Basiuony,Passed,Mar,2025
+UHO-26,45741,Hossam,Pass,M.Basiuony,Passed,Mar,2025
+RMK-2385,45742,Fady,Pass,M.Basiuony,Passed,Mar,2025
+CTS-22,45742,Hatem,Pass,M.Basiuony,Passed,Mar,2025
+RSZ-55,45742,A.Lotfy,Pass,M.Basiuony,Passed,Mar,2025
+CTS-23,45742,Hossam,Reject,M.Basiuony,Label printing Issue,Mar,2025
+RMK-2390,45746,M.Samir,Pass,Ehab Sadar,Passed,Mar,2025
+ORC-8,45753,Fady,Pass,Ehab Sadar,Passed,Apr,2025
+ORC-9,45753,A.Lotfy,Pass,Ehab Sadar,Passed,Apr,2025
+RMK-2387,45753,Fady,Pass,Ehab Sadar,Passed,Apr,2025
+RMK-2388,45753,Hossam,Pass,Ehab Sadar,Passed,Apr,2025
+RMK-2389,45753,A.Lotfy,Pass,Ehab Sadar,Passed,Apr,2025
+RMK-2383,45754,Hatem,Reject,M.Basiuony,Label printing Issue,Apr,2025
+RSZ-61,45756,Hatem,Pass,Ehab Sadar,Passed,Apr,2025
+RSZ-62,45756,Fady,Pass,Ehab Sadar,Passed,Apr,2025
+RMK-2395,45757,Fady,Pass,M.Basiuony,Passed,Apr,2025
+RMK-2396,45757,Hatem,Pass,M.Basiuony,Passed,Apr,2025
+CTS-25,45759,Hossam,Pass,M.Basiuony,Passed,Apr,2025
+RSZ-60,45759,A.Lotfy,Pass,M.Basiuony,Passed,Apr,2025
+RMK-2393,45760,A.Lotfy,Pass,M.Basiuony,Passed,Apr,2025
+RMK-2394,45760,Hossam,Pass,Ehab Sadar,Passed,Apr,2025
+RMK-2397,45760,Fady,Pass,M.Basiuony,Passed,Apr,2025
+ORC-11,45762,Fady,Pass,M.Basiuony,Passed,Apr,2025
+ORC-7,45762,A.Lotfy,Pass,M.Basiuony,Passed,Apr,2025
+RMK-2355,45762,Hatem,Reject,M.Basiuony,Grade Downgrade,Apr,2025
+CTS-26,45763,Hatem,Pass,M.Basiuony,Passed,Apr,2025
+ORC-10,45763,Fady,Pass,M.Basiuony,Passed,Apr,2025
+RMK-2401,45763,Fady,Pass,M.Basiuony,Passed,Apr,2025
+RSD-68,45763,A.Lotfy,Pass,M.Basiuony,Passed,Apr,2025
+RMK-2400,45764,M.Samir,Pass,Ehab Sadar,Passed,Apr,2025
+RMK-2402,45766,A.Lotfy,Pass,Ehab Sadar,Passed,Apr,2025
+RSZ-65,45767,Fady,Pass,M.Basiuony,Passed,Apr,2025
+RSD-69,45767,Fady,Reject,M.Basiuony,Uncompleted QC Comment,Apr,2025
+RMK-2408,45769,A.Lotfy,Pass,M.Basiuony,Passed,Apr,2025
+RSZ-66,45769,Hossam,Pass,M.Basiuony,Passed,Apr,2025
+RMK-2403,45769,Hossam,Pass,M.Basiuony,Passed,Apr,2025
+CTS-20,45770,A.Lotfy,Pass,M.Basiuony,Passed,Apr,2025
+RMK-2407,45770,A.Lotfy,Pass,M.Basiuony,Passed,Apr,2025
+RMK-2409,45770,A.Lotfy,Pass,M.Basiuony,Passed,Apr,2025
+CTS-27,45770,A.Lotfy,Reject,M.Basiuony,Data error,Apr,2025
+RMK-2413,45774,Hossam,Reject,M.Basiuony,QC SIM Found,Apr,2025
+RMK-2419,45775,Fady,Pass,Ehab Sadar,Passed,Apr,2025
+RMK-2420,45775,Hossam,Pass,Ehab Sadar,Passed,Apr,2025
+RMK-2418,45775,A.Lotfy,Pass,Ehab Sadar,Passed,Apr,2025
+RMK-2412,45775,Fady,Pass,Ehab Sadar,Passed,Apr,2025
+RMK-2414,45775,Fady,Pass,M.Basiuony,Passed,Apr,2025
+ORC-13,45776,Fady,Pass,M.Basiuony,Passed,Apr,2025
+RMK-2391,45776,Hossam,Pass,Ehab Sadar,Passed,Apr,2025
+RMK-2392,45776,Fady,Pass,M.Basiuony,Passed,Apr,2025
+RMK-2411,45776,Hossam,Pass,Ehab Sadar,Passed,Apr,2025
+RMK-2415,45776,Hossam,Pass,Ehab Sadar,Passed,Apr,2025
+RMK-2404,45776,A.Lotfy,Pass,M.Basiuony,Passed,Apr,2025
+RSZ-68,45776,Hossam,Pass,M.Basiuony,Passed,Apr,2025
+RSZ-69,45776,Fady,Reject,M.Basiuony,Data error,Apr,2025
+RMK-2422,45777,Fady,Pass,Ehab Sadar,Passed,Apr,2025
+RMK-2421,45777,Hossam,Pass,Ehab Sadar,Passed,Apr,2025
+UHO-32,45777,A.Lotfy,Pass,Ehab Sadar,Passed,Apr,2025
+ORC-12,45778,Hossam,Pass,Ehab Sadar,Passed,May,2025
+RMK-2430,45778,Fady,Pass,Ehab Sadar,Passed,May,2025
+RMK-2429,45778,Hossam,Reject,M.Basiuony,Grade Downgrade,May,2025
+RMK-2423,45780,A.Lotfy,Pass,M.Basiuony,Passed,May,2025
+RMK-2364,45781,A.Lotfy,Pass,M.Basiuony,Passed,May,2025
+FSL-171,45782,Hossam,Pass,M.Basiuony,Passed,May,2025
+UHO-34,45783,Fady,Pass,M.Basiuony,Passed,May,2025
+ORC-14,45783,Fady,Pass,Ehab Sadar,Passed,May,2025
+RMK-2424,45783,Fady,Pass,M.Basiuony,Passed,May,2025
+RMK-2399,45783,A.Lotfy,Pass,Ehab Sadar,Passed,May,2025
+RMK-2431,45783,Hossam,Pass,M.Basiuony,Passed,May,2025
+RMK-2433,45784,A.Lotfy,Pass,M.Basiuony,Passed,May,2025
+RMK-2405,45784,A.Lotfy,Reject,M.Basiuony,Screws Issue,May,2025
+RMK-2435,45785,Fady,Pass,M.Basiuony,Passed,May,2025
+UHO-36,45785,Fady,Pass,M.Basiuony,Passed,May,2025
+ORC-17,45785,A.Lotfy,Pass,M.Basiuony,Passed,May,2025
+RMK-2425,45787,Hossam,Pass,M.Basiuony,Passed,May,2025
+RMK-2436,45787,A.Lotfy,Pass,M.Basiuony,Passed,May,2025
+RMK-2439,45787,A.Lotfy,Pass,M.Basiuony,Passed,May,2025
+RMK-2432,45788,Fady,Pass,Ehab Sadar,Passed,May,2025
+RMK-2214,45788,A.Lotfy,Pass,M.Basiuony,Passed,May,2025
+RMK-2447,45788,Fady,Pass,Ehab Sadar,Passed,May,2025
+RMK-2453,45788,Fady,Pass,Ehab Sadar,Passed,May,2025
+RMK-2456,45788,Hatem,Pass,Ehab Sadar,Passed,May,2025
+RMK-2460,45788,Fady,Pass,M.Basiuony,Passed,May,2025
+RMK-2462,45788,Fady,Pass,Ehab Sadar,Passed,May,2025
+RMK-2369,45788,Hossam,Pass,Ehab Sadar,Passed,May,2025
+RMK-2458,45788,A.Lotfy,Pass,M.Basiuony,Passed,May,2025
+ORC-15,45788,Hatem,Pass,M.Basiuony,Passed,May,2025
+RMK-2459,45788,Hatem,Pass,Ehab Sadar,Passed,May,2025
+RMK-2461,45788,A.Lotfy,Pass,Ehab Sadar,Passed,May,2025
+RSZ-63,45788,Hossam,Reject,Ehab Sadar,Screen Issue,May,2025
+RMK-2448,45788,Hatem,Reject,Ehab Sadar,Label printing Issue,May,2025
+RMK-2455,45789,Fady,Pass,Ehab Sadar,Passed,May,2025
+RMK-2457,45789,Hatem,Pass,Ehab Sadar,Passed,May,2025
+RMK-2398,45789,Hossam,Pass,Ehab Sadar,Passed,May,2025
+RMK-2449,45789,A.Lotfy,Pass,Ehab Sadar,Passed,May,2025
+RMK-2443,45789,Hossam,Pass,M.Basiuony,Passed,May,2025
+RMK-2444,45789,Fady,Pass,M.Basiuony,Passed,May,2025
+RMK-2445,45789,Fady,Pass,M.Basiuony,Passed,May,2025
+RMK-2446,45789,Hossam,Pass,M.Basiuony,Passed,May,2025
+RMK-2450,45789,A.Lotfy,Pass,Ehab Sadar,Passed,May,2025
+RMK-2451,45789,Fady,Pass,Ehab Sadar,Passed,May,2025
+RMK-2452,45789,Hossam,Pass,M.Basiuony,Passed,May,2025
+RMK-2454,45790,Hatem,Reject,M.Basiuony,Uncompleted QC Comment,May,2025
+RMK-2471,45791,Hatem,Pass,Ehab Sadar,Passed,May,2025
+RMK-2272,45791,Hatem,Reject,M.Basiuony,Received devices Issue,May,2025
+RMK-2472,45792,Fady,Pass,M.Basiuony,Passed,May,2025
+CTS-29,45792,Hatem,Pass,M.Basiuony,Passed,May,2025
+UHO-29,45792,Hossam,Pass,Ehab Sadar,Passed,May,2025
+RMK-2463,45792,Hatem,Pass,M.Basiuony,Passed,May,2025
+RMK-2466,45792,Fady,Pass,Ehab Sadar,Passed,May,2025
+RSZ-57,45792,Hatem,Reject,Ehab Sadar,Received devices Issue,May,2025
+RSZ-64,45792,Fady,Reject,M.Basiuony,Shipping Issue,May,2025
+CTS-17,45794,A.Lotfy,Pass,Ehab Sadar,Passed,May,2025
+RMK-2474,45794,Hatem,Reject,Ehab Sadar,Uncompleted QC Comment,May,2025
+UHO-35,45795,A.Lotfy,Pass,Ehab Sadar,Passed,May,2025
+FSL-173,45795,Hossam,Pass,M.Basiuony,Passed,May,2025
+RMK-2410,45795,Fady,Pass,M.Basiuony,Passed,May,2025
+RMK-2475,45796,Fady,Pass,M.Basiuony,Passed,May,2025
+RMK-2477,45796,A.Lotfy,Pass,M.Basiuony,Passed,May,2025
+RMK-2440,45797,A.Lotfy,Pass,M.Basiuony,Passed,May,2025
+RMK-2476,45797,Hossam,Pass,Ehab Sadar,Passed,May,2025
+RMK-2406,45797,Hatem,Pass,M.Basiuony,Passed,May,2025
+RMK-2473,45797,Hossam,Pass,Ehab Sadar,Passed,May,2025
+RMK-2469,45797,Hossam,Pass,Ehab Sadar,Passed,May,2025
+RMK-2480,45797,A.Lotfy,Reject,M.Basiuony,Received devices Issue,May,2025
+RMK-2479,45798,Fady,Pass,Ehab Sadar,Passed,May,2025
+RMK-2442,45798,Hossam,Reject,M.Basiuony,Uncompleted QC Comment,May,2025
+RMK-2483,45799,Fady,Pass,Ehab Sadar,Passed,May,2025
+RMK-2485,45799,A.Lotfy,Pass,M.Basiuony,Passed,May,2025
+RMK-2484,45799,A.Lotfy,Pass,M.Basiuony,Passed,May,2025
+RMK-2487,45799,Hatem,Reject,M.Basiuony,Uncompleted QC Comment,May,2025
+RMK-2478,45802,A.Lotfy,Pass,M.Basiuony,Passed,May,2025
+CTS-31,45802,A.Lotfy,Pass,Ehab Sadar,Passed,May,2025
+RMK-2486,45802,Hossam,Pass,Ehab Sadar,Passed,May,2025
+RMK-2489,45803,Hossam,Pass,Ehab Sadar,Passed,May,2025
+RMK-2482,45803,A.Lotfy,Pass,Ehab Sadar,Passed,May,2025
+RMK-2438,45803,A.Lotfy,Pass,M.Basiuony,Passed,May,2025
+UHO-37,45803,Hossam,Pass,M.Basiuony,Passed,May,2025
+RMK-2490,45804,A.Lotfy,Pass,M.Basiuony,Passed,May,2025
+RMK-2488,45804,Hatem,Reject,M.Basiuony,Uncompleted QC Comment,May,2025
+ORC-18,45804,Hossam,Reject,M.Basiuony,Cleaning Issue,May,2025
+ORC-16,45804,Hatem,Reject,M.Basiuony,Uncompleted QC Comment,May,2025
+RMK-2437,45805,Hossam,Pass,Ehab Sadar,Passed,May,2025
+CTS-32,45806,Hossam,Pass,Ehab Sadar,Passed,May,2025
+FSL-172,45808,A.Lotfy,Pass,M.Basiuony,Passed,May,2025
+RMK-2494,45808,Hatem,Pass,M.Basiuony,Passed,May,2025
+ORC-20,45809,Hatem,Pass,M.Basiuony,Passed,Jun,2025
+ORC-21,45809,A.Lotfy,Pass,M.Basiuony,Passed,Jun,2025
+RSZ-72,45809,Hossam,Pass,M.Basiuony,Passed,Jun,2025
+RMK-2492,45811,Hossam,Pass,M.Basiuony,Passed,Jun,2025
+RSZ-71,45811,Hossam,Pass,M.Basiuony,Passed,Jun,2025
+RMK-2467,45811,Hossam,Reject,M.Basiuony,Touch unstable,Jun,2025
+RMK-2465,45812,Hatem,Pass,M.Basiuony,Passed,Jun,2025
+RSZ-70,45812,A.Lotfy,Pass,M.Basiuony,Passed,Jun,2025
+OMH-6,45823,Hossam,Pass,Ehab Sadar,Passed,Jun,2025
+CTS-2,45826,A.Lotfy,Reject,Ehab Sadar,Camera Issue,Jun,2025
+RMK-2468,45827,A.Lotfy,Reject,M.Basiuony,Uncompleted QC Comment,Jun,2025
+RMK-2504,45830,Hossam,Pass,M.Basiuony,Passed,Jun,2025
+RMK-2499,45830,Hatem,Pass,Ehab Sadar,Passed,Jun,2025
+RMK-2501,45830,Hatem,Pass,Ehab Sadar,Passed,Jun,2025
+RMK-2502,45831,Hossam,Pass,M.Basiuony,Passed,Jun,2025
+RMK-2428,45837,Hatem,Reject,Ehab Sadar,Uncompleted QC Comment,Jun,2025
+RMK-2513,45838,Hossam,Pass,M.Basiuony,Passed,Jun,2025
+RMK-2416,45838,Hatem,Reject,M.Basiuony,Uncompleted QC Comment,Jun,2025
+CTS-34,45838,Hossam,Pass,M.Basiuony,Passed,Jun,2025
+RMK-2329,45838,Hossam,Pass,M.Basiuony,Passed,Jun,2025
+RMK-2427,45838,A.Lotfy,Pass,M.Basiuony,Passed,Jun,2025
+RMK-2441,45839,Hossam,Pass,M.Basiuony,Passed,Jul,2025
+RMK-2498,45839,Hatem,Pass,Ehab Sadar,Passed,Jul,2025
+RMK-2516,45839,Hatem,Pass,Ehab Sadar,Passed,Jul,2025
+RMK-2506,45839,A.Lotfy,Reject,M.Basiuony,Uncompleted QC Comment,Jul,2025
+RMK-2497,45840,Hatem,Pass,Ehab Sadar,Passed,Jul,2025
+RMK-2514,45846,A.Lotfy,Pass,Ehab Sadar,Passed,Jul,2025
+RMK-2509,45846,Hatem,Pass,Ehab Sadar,Passed,Jul,2025
+RMK-2496,45846,Hossam,Pass,Ehab Sadar,Passed,Jul,2025
+RMK-2520,45847,Hossam,Pass,Ehab Sadar,Passed,Jul,2025
+RMK-2521,45847,A.Lotfy,Pass,Ehab Sadar,Passed,Jul,2025
+CTS-33,45848,A.Lotfy,Pass,Ehab Sadar,Passed,Jul,2025
+RMK-2495,45848,A.Lotfy,Pass,Ehab Sadar,Passed,Jul,2025
+RSZ-73,45848,Hossam,Pass,Ehab Sadar,Passed,Jul,2025
+RMK-2470,45851,Hossam,Reject,M.Basiuony,Uncompleted QC Comment,Jul,2025
+RMK-2522,45851,Hossam,Pass,M.Basiuony,Passed,Jul,2025
+ORC-22,45852,Hossam,Pass,Ehab Sadar,Passed,Jul,2025
+ORC-23,45852,Hatem,Pass,Ehab Sadar,Passed,Jul,2025
+RMK-2500,45853,Hatem,Pass,M.Basiuony,Passed,Jul,2025
+CTS-30,45854,Hossam,Pass,Ehab Sadar,Passed,Jul,2025
+UHO-39,45855,Hossam,Reject,M.Basiuony,Battery drain Issue,Jul,2025
+RMK-2508,45855,Hatem,Pass,M.Basiuony,Passed,Jul,2025
+UHO-40,45855,Hatem,Pass,Ehab Sadar,Passed,Jul,2025
+RMK-2510,45859,Hossam,Pass,M.Basiuony,Passed,Jul,2025
+RMK-2541,45860,Hossam,Pass,Ehab Sadar,Passed,Jul,2025
+RMK-2542,45860,Hossam,Pass,Ehab Sadar,Passed,Jul,2025
+ORC-26,45861,Hossam,Pass,Ehab Sadar,Passed,Jul,2025
+RMK-2512,45861,Hossam,Pass,Ehab Sadar,Passed,Jul,2025
+RSD-71,45861,A.Lotfy,Pass,M.Basiuony,Passed,Jul,2025
+RMK-2536,45861,Hossam,Reject,M.Basiuony,Screws Issue,Jul,2025
+ORC-27,45861,Hossam,Pass,Ehab Sadar,Passed,Jul,2025
+ORC-25,45861,A.Lotfy,Pass,Ehab Sadar,Passed,Jul,2025
+RMK-2539,45861,Hossam,Pass,Ehab Sadar,Passed,Jul,2025
+RMK-2505,45861,Hossam,Pass,Ehab Sadar,Passed,Jul,2025
+RMK-2507,45861,A.Lotfy,Pass,Ehab Sadar,Passed,Jul,2025
+RMK-2371,45861,A.Lotfy,Pass,Ehab Sadar,Passed,Jul,2025
+RMK-2534,45862,Hossam,Pass,M.Basiuony,Passed,Jul,2025
+RMK-2544,45862,Hossam,Pass,M.Basiuony,Passed,Jul,2025
+RMK-2535,45865,Hossam,Pass,Ehab Sadar,Passed,Jul,2025
+RMK-2532,45865,Hossam,Pass,Ehab Sadar,Passed,Jul,2025
+RMK-2546,45866,Hossam,Pass,M.Basiuony,Passed,Jul,2025
+RMK-2547,45866,Hossam,Reject,M.Basiuony,Label printing Issue,Jul,2025
+RSZ-74,45866,A.Lotfy,Pass,Ehab Sadar,Passed,Jul,2025
+RMK-2426,45866,A.Lotfy,Pass,Ehab Sadar,Passed,Jul,2025
+RMK-2545,45866,A.Lotfy,Pass,Ehab Sadar,Passed,Jul,2025
+RMK-2548,45866,Hossam,Pass,Ehab Sadar,Passed,Jul,2025
+RSZ-75,45866,A.Lotfy,Pass,Ehab Sadar,Passed,Jul,2025
+UHO-38,45867,A.Lotfy,Pass,M.Basiuony,Passed,Jul,2025
+UHO-43,45867,Hossam,Pass,M.Basiuony,Passed,Jul,2025
+RMK-2417,45867,Hossam,Pass,M.Basiuony,Passed,Jul,2025
+RMK-2517,45871,A.Lotfy,Pass,Ehab Sadar,Passed,Aug,2025
+RMK-2554,45871,M.Samir,Pass,M.Basiuony,Passed,Aug,2025
+RSZ-81,45871,M.Samir,Pass,M.Basiuony,Passed,Aug,2025
+RSZ-82,45871,M.Samir,Pass,M.Basiuony,Passed,Aug,2025
+RMK-2552,45872,A.Lotfy,Reject,M.Basiuony,Uncompleted QC Comment,Aug,2025
+RMK-2553,45872,A.Lotfy,Pass,Ehab Sadar,Passed,Aug,2025
+RMK-2555,45872,A.Lotfy,Pass,M.Basiuony,Passed,Aug,2025
+RMK-2533,45872,Hossam,Pass,Ehab Sadar,Passed,Aug,2025
+ORC-24,45872,Hatem,Reject,Ehab Sadar,QC SIM Found,Aug,2025
+RMK-2523,45872,Hatem,Reject,M.Basiuony,Battery drain Issue,Aug,2025
+RMK-2511,45872,A.Lotfy,Reject,M.Basiuony,Uncompleted QC Comment,Aug,2025
+RSZ-77,45872,Hossam,Pass,M.Basiuony,Passed,Aug,2025
+RSZ-80,45872,A.Lotfy,Pass,Ehab Sadar,Passed,Aug,2025
+RSZ-83,45872,A.Lotfy,Pass,M.Basiuony,Passed,Aug,2025
+RSZ-85,45872,A.Lotfy,Pass,M.Basiuony,Passed,Aug,2025
+RSZ-88,45872,A.Lotfy,Pass,Ehab Sadar,Passed,Aug,2025
+RMK-2556,45872,Hossam,Pass,Ehab Sadar,Passed,Aug,2025
+RSZ-76,45872,M.Samir,Pass,M.Basiuony,Passed,Aug,2025
+RSZ-78,45872,Hossam,Pass,Ehab Sadar,Passed,Aug,2025
+RSZ-84,45872,M.Samir,Pass,Ehab Sadar,Passed,Aug,2025
+RSZ-86,45872,Hossam,Pass,Ehab Sadar,Passed,Aug,2025
+RSZ-87,45872,Hossam,Pass,Ehab Sadar,Passed,Aug,2025
+RSZ-89,45872,Hossam,Pass,Ehab Sadar,Passed,Aug,2025
+RSZ-79,45872,Hossam,Pass,Ehab Sadar,Passed,Aug,2025
+RMK-2594,45875,A.Lotfy,Pass,M.Basiuony,Passed,Aug,2025
+RMK-2603,45875,Hossam,Reject,M.Basiuony,Uncompleted QC Comment,Aug,2025
+RMK-2561,45875,Hossam,Pass,M.Basiuony,Passed,Aug,2025
+RMK-2590,45875,A.Lotfy,Pass,M.Basiuony,Passed,Aug,2025
+RMK-2610,45875,Hatem,Pass,Ehab Sadar,Passed,Aug,2025
+ORC-29,45875,Hatem,Pass,Ehab Sadar,Passed,Aug,2025
+RMK-2573,45875,A.Lotfy,Reject,Ehab Sadar,Uncompleted QC Comment,Aug,2025
+RMK-2615,45875,M.Samir,Pass,Ehab Sadar,Passed,Aug,2025
+RMK-2601,45875,Hossam,Pass,Ehab Sadar,Passed,Aug,2025
+RMK-2604,45875,Hatem,Pass,Ehab Sadar,Passed,Aug,2025
+RMK-2611,45875,Hatem,Reject,M.Basiuony,Wrong Action,Aug,2025
+RMK-2605,45875,A.Lotfy,Pass,M.Basiuony,Passed,Aug,2025
+RSZ-90,45875,M.Samir,Pass,M.Basiuony,Passed,Aug,2025
+RSZ-97,45876,A.Lotfy,Pass,Ehab Sadar,Passed,Aug,2025
+RSZ-98,45876,Hatem,Pass,Ehab Sadar,Passed,Aug,2025
+RMK-2551,45876,M.Samir,Pass,Ehab Sadar,Passed,Aug,2025
+RMK-2565,45876,M.Samir,Pass,Ehab Sadar,Passed,Aug,2025
+RMK-2569,45876,M.Samir,Pass,Ehab Sadar,Passed,Aug,2025
+RMK-2581,45876,Hossam,Pass,Ehab Sadar,Passed,Aug,2025
+RMK-2562,45876,A.Lotfy,Pass,M.Basiuony,Passed,Aug,2025
+RMK-2571,45878,A.Lotfy,Pass,Ehab Sadar,Passed,Aug,2025
+RMK-2568,45879,M.Samir,Pass,Ehab Sadar,Passed,Aug,2025
+ORC-35,45879,Hossam,Pass,Ehab Sadar,Passed,Aug,2025
+RMK-2591,45879,A.Lotfy,Pass,M.Basiuony,Passed,Aug,2025
+RMK-2550,45880,M.Samir,Pass,M.Basiuony,Passed,Aug,2025
+RMK-2570,45880,A.Lotfy,Pass,M.Basiuony,Passed,Aug,2025
+RMK-2578,45880,Hossam,Pass,Ehab Sadar,Passed,Aug,2025
+RMK-2612,45880,Hossam,Pass,Ehab Sadar,Passed,Aug,2025
+ORC-32,45880,M.Samir,Pass,M.Basiuony,Passed,Aug,2025
+RMK-2588,45880,A.Lotfy,Reject,M.Basiuony,Battery drain Issue,Aug,2025
+ORC-34,45880,A.Lotfy,Pass,M.Basiuony,Passed,Aug,2025
+RMK-2563,45880,Hossam,Pass,M.Basiuony,Passed,Aug,2025
+RMK-2566,45880,A.Lotfy,Reject,M.Basiuony,Data error,Aug,2025
+RMK-2575,45880,A.Lotfy,Pass,Ehab Sadar,Passed,Aug,2025
+RMK-2576,45880,Hossam,Pass,Ehab Sadar,Passed,Aug,2025
+RMK-2577,45880,Hossam,Pass,Ehab Sadar,Passed,Aug,2025
+RMK-2587,45880,A.Lotfy,Pass,Ehab Sadar,Passed,Aug,2025
+RMK-2592,45880,Hossam,Pass,Ehab Sadar,Passed,Aug,2025
+RMK-2606,45880,A.Lotfy,Pass,Ehab Sadar,Passed,Aug,2025
+RSZ-93,45880,Hossam,Pass,Ehab Sadar,Passed,Aug,2025
+RSZ-94,45880,Hossam,Pass,M.Basiuony,Passed,Aug,2025
+RSZ-95,45880,Hossam,Pass,M.Basiuony,Passed,Aug,2025
+ORC-31,45881,Hatem,Pass,Ehab Sadar,Passed,Aug,2025
+RMK-2572,45881,Hatem,Reject,M.Basiuony,Uncompleted QC Comment,Aug,2025
+RMK-2580,45881,Hatem,Pass,Ehab Sadar,Passed,Aug,2025
+RMK-2586,45881,M.Samir,Pass,Ehab Sadar,Passed,Aug,2025
+RMK-2597,45881,M.Samir,Pass,Ehab Sadar,Passed,Aug,2025
+RMK-2608,45881,Hatem,Pass,Ehab Sadar,Passed,Aug,2025
+RMK-2609,45881,Hatem,Pass,Ehab Sadar,Passed,Aug,2025
+RMK-2614,45881,Hossam,Pass,Ehab Sadar,Passed,Aug,2025
+RMK-2579,45881,Hatem,Pass,Ehab Sadar,Passed,Aug,2025
+RMK-2616,45881,Hossam,Pass,M.Basiuony,Passed,Aug,2025
+RMK-2574,45881,Hatem,Pass,Ehab Sadar,Passed,Aug,2025
+RMK-2626,45881,A.Lotfy,Pass,Ehab Sadar,Passed,Aug,2025
+RMK-2582,45882,M.Samir,Pass,Ehab Sadar,Passed,Aug,2025
+RMK-2583,45882,M.Samir,Reject,Ehab Sadar,Data error,Aug,2025
+RMK-2584,45882,M.Samir,Pass,Ehab Sadar,Passed,Aug,2025
+RMK-2628,45882,Hossam,Pass,M.Basiuony,Passed,Aug,2025
+RMK-2543,45882,Hossam,Pass,Ehab Sadar,Passed,Aug,2025
+RMK-2585,45882,M.Samir,Pass,Ehab Sadar,Passed,Aug,2025
+RMK-2596,45882,M.Samir,Pass,Ehab Sadar,Passed,Aug,2025
+RMK-2598,45882,M.Samir,Pass,Ehab Sadar,Passed,Aug,2025
+RSZ-91,45882,M.Samir,Reject,Ehab Sadar,Data error,Aug,2025
+RSZ-92,45882,M.Samir,Pass,Ehab Sadar,Passed,Aug,2025
+RMK-2618,45882,Hatem,Pass,Ehab Sadar,Passed,Aug,2025
+UHO-45,45882,A.Lotfy,Pass,Ehab Sadar,Passed,Aug,2025
+RSZ-96,45882,Hossam,Pass,Ehab Sadar,Passed,Aug,2025
+RMK-2558,45883,Hatem,Pass,Ehab Sadar,Passed,Aug,2025
+ORC-30,45883,Hossam,Pass,Ehab Sadar,Passed,Aug,2025
+RMK-2593,45883,M.Samir,Pass,Ehab Sadar,Passed,Aug,2025
+RMK-2617,45883,Hossam,Pass,Ehab Sadar,Passed,Aug,2025
+RMK-2623,45883,Hossam,Pass,M.Basiuony,Passed,Aug,2025
+UHO-44,45883,Hossam,Pass,M.Basiuony,Passed,Aug,2025
+RMK-2620,45883,Hatem,Pass,Ehab Sadar,Passed,Aug,2025
+RMK-2621,45883,Hatem,Pass,Ehab Sadar,Passed,Aug,2025
+RMK-2622,45883,Hossam,Pass,Ehab Sadar,Passed,Aug,2025
+RMK-2624,45883,Hatem,Pass,Ehab Sadar,Passed,Aug,2025
+RMK-2625,45887,Hossam,Pass,M.Basiuony,Passed,Aug,2025
+RMK-2632,45893,Hatem,Pass,M.Basiuony,Passed,Aug,2025
+RSD-74,45896,A.Lotfy,Reject,M.Basiuony,Uncompleted QC Comment,Aug,2025
+UHO-46,45900,A.Lotfy,Reject,M.Basiuony,Label printing Issue,Aug,2025
+RSD-75,45901,Hossam,Pass,Ehab Sadar,Passed,Sep,2025
+RMK-2635,45902,A.Lotfy,Pass,Ehab Sadar,Passed,Sep,2025
+RMK-2640,45902,A.Lotfy,Pass,Ehab Sadar,Passed,Sep,2025
+RMK-2637,45902,Hossam,Pass,Ehab Sadar,Passed,Sep,2025
+RMK-2638,45902,Hatem,Pass,Ehab Sadar,Passed,Sep,2025
+RMK-2639,45902,A.Lotfy,Pass,Ehab Sadar,Passed,Sep,2025
+RMK-2641,45902,Hossam,Pass,Ehab Sadar,Passed,Sep,2025
+RMK-2643,45902,A.Lotfy,Pass,Ehab Sadar,Passed,Sep,2025
+RMK-2646,45902,Hatem,Pass,Ehab Sadar,Passed,Sep,2025
+RMK-2648,45902,Hossam,Pass,Ehab Sadar,Passed,Sep,2025
+RMK-2644,45902,Hossam,Pass,Ehab Sadar,Passed,Sep,2025
+RMK-2652,45903,Hossam,Pass,Ehab Sadar,Passed,Sep,2025
+RMK-2645,45903,Hatem,Pass,Ehab Sadar,Passed,Sep,2025
+RMK-2636,45903,Hossam,Pass,Ehab Sadar,Passed,Sep,2025
+RMK-2647,45903,A.Lotfy,Pass,Ehab Sadar,Passed,Sep,2025
+RMK-2653,45904,Hatem,Pass,Ehab Sadar,Passed,Sep,2025
+RMK-2654,45904,Hatem,Pass,Ehab Sadar,Passed,Sep,2025
+RMK-2656,45904,Hatem,Pass,Ehab Sadar,Passed,Sep,2025
+RMK-2657,45904,Hatem,Pass,Ehab Sadar,Passed,Sep,2025
+RMK-2658,45904,Hatem,Pass,Ehab Sadar,Passed,Sep,2025
+RMK-2660,45904,Hatem,Pass,Ehab Sadar,Passed,Sep,2025
+RMK-2661,45904,Hatem,Pass,Ehab Sadar,Passed,Sep,2025
+RMK-2662,45904,Hatem,Pass,Ehab Sadar,Passed,Sep,2025
+RMK-2663,45904,Hatem,Pass,Ehab Sadar,Passed,Sep,2025
+RMK-2664,45904,Hatem,Pass,Ehab Sadar,Passed,Sep,2025
+RMK-2655,45907,A.Lotfy,Pass,Ehab Sadar,Passed,Sep,2025
+RMK-2650,45907,Hatem,Pass,M.Basiuony,Passed,Sep,2025
+RMK-2651,45907,Hossam,Pass,M.Basiuony,Passed,Sep,2025
+RMK-2666,45907,A.Lotfy,Pass,M.Basiuony,Passed,Sep,2025
+RMK-2667,45907,A.Lotfy,Pass,Ehab Sadar,Passed,Sep,2025
+RMK-2671,45907,Hossam,Pass,M.elsayed,Passed,Sep,2025
+RMK-2674,45909,Hossam,Pass,M.Basiuony,Passed,Sep,2025
+RMK-2677,45909,A.Lotfy,Reject,M.elsayed,Mismatch simtray,Sep,2025
+RMK-2679,45909,A.Lotfy,Pass,M.Basiuony,Passed,Sep,2025
+OMH-7,45909,A.Lotfy,Pass,M.elsayed,Passed,Sep,2025
+ORC-36,45909,Hossam,Pass,M.elsayed,Passed,Sep,2025
+RMK-2673,45909,Hossam,Pass,M.elsayed,Passed,Sep,2025
+RMK-2675,45909,Hossam,Pass,M.elsayed,Passed,Sep,2025
+RMK-2676,45909,Hatem,Pass,M.Basiuony,Passed,Sep,2025
+RMK-2678,45909,A.Lotfy,Pass,M.elsayed,Passed,Sep,2025
+RMK-2681,45909,Hossam,Reject,M.Basiuony,Received devices Issue,Sep,2025
+RMK-2682,45909,A.Lotfy,Pass,M.Basiuony,Passed,Sep,2025
+RMK-2659,45909,A.Lotfy,Pass,M.elsayed,Passed,Sep,2025
+ORC-37,45909,Hossam,Pass,M.Basiuony,Passed,Sep,2025
+ORC-38,45910,Hatem,Reject,M.elsayed,Uncompleted QC Comment,Sep,2025
+RMK-2669,45910,Hatem,Reject,M.Basiuony,Uncompleted QC Comment,Sep,2025
+RMK-2670,45910,Hatem,Pass,M.Basiuony,Passed,Sep,2025
+RMK-2683,45910,Hossam,Pass,M.elsayed,Passed,Sep,2025
+RMK-2684,45910,Hossam,Pass,M.Basiuony,Passed,Sep,2025
+RMK-2685,45910,A.Lotfy,Reject,M.Basiuony,Accessory Found,Sep,2025
+RMK-2686,45910,Hossam,Pass,M.elsayed,Passed,Sep,2025
+RMK-2687,45910,A.Lotfy,Pass,M.Basiuony,Passed,Sep,2025
+RSD-77,45910,Hatem,Reject,M.Basiuony,Accessory Found,Sep,2025
+RMK-2642,45911,Hatem,Reject,M.Basiuony,Uncompleted QC Comment,Sep,2025
+RMK-2688,45911,A.Lotfy,Pass,M.Basiuony,Passed,Sep,2025
+RMK-2649,45911,Hatem,Pass,M.Basiuony,Passed,Sep,2025
+UHO-47,45913,Hossam,Pass,M.Basiuony,Passed,Sep,2025
+RSZ-99,45915,A.Lotfy,Pass,M.Basiuony,Passed,Sep,2025
+RMK-2694,45915,Hatem,Pass,M.Basiuony,Passed,Sep,2025
+RMK-2695,45915,A.Lotfy,Pass,M.Basiuony,Passed,Sep,2025
+RMK-2692,45915,Hossam,Pass,M.Basiuony,Passed,Sep,2025
+RMK-2693,45915,Hatem,Pass,M.Basiuony,Passed,Sep,2025
+RMK-2700,45915,Hatem,Pass,M.Basiuony,Passed,Sep,2025
+RMK-2690,45916,Hossam,Pass,M.Basiuony,Passed,Sep,2025
+RMK-2696,45916,A.Lotfy,Pass,M.Basiuony,Passed,Sep,2025
+RMK-2697,45916,A.Lotfy,Pass,M.Basiuony,Passed,Sep,2025
+RMK-2699,45916,Hossam,Pass,M.Basiuony,Passed,Sep,2025
+RMK-2703,45916,Hatem,Pass,Ehab Sadar,Passed,Sep,2025
+RMK-2704,45916,A.Lotfy,Pass,Ehab Sadar,Passed,Sep,2025
+RMK-2705,45916,Hatem,Pass,Ehab Sadar,Passed,Sep,2025
+UHO-49,45916,Hatem,Pass,M.Basiuony,Passed,Sep,2025
+ORC-39,45916,Hossam,Pass,M.Basiuony,Passed,Sep,2025
+RMK-2691,45916,A.Lotfy,Reject,Ehab Sadar,Uncompleted QC Comment,Sep,2025
+RMK-2706,45917,Hatem,Pass,M.Basiuony,Passed,Sep,2025
+RMK-2672,45917,Hatem,Pass,M.Basiuony,Passed,Sep,2025
+ORC-40,45917,Hossam,Pass,Ehab Sadar,Passed,Sep,2025
+ORC-41,45917,Hossam,Pass,Ehab Sadar,Passed,Sep,2025
+RMK-2707,45918,A.Lotfy,Pass,Ehab Sadar,Passed,Sep,2025
+ORC-43,45918,Hatem,Pass,Ehab Sadar,Passed,Sep,2025
+UHO-50,45920,A.Lotfy,Pass,Ehab Sadar,Passed,Sep,2025
+RMK-2627,45920,Hatem,Reject,Ehab Sadar,Press Issue,Sep,2025
+RMK-2701,45921,A.Lotfy,Pass,Ehab Sadar,Passed,Sep,2025
+ORC-42,45921,A.Lotfy,Pass,Ehab Sadar,Passed,Sep,2025
+ORC-46,45921,Hossam,Pass,M.Basiuony,Passed,Sep,2025
+ORC-45,45921,A.Lotfy,Pass,M.Basiuony,Passed,Sep,2025
+ORC-47,45921,Hossam,Pass,Ehab Sadar,Passed,Sep,2025
+ORC-44,45921,A.Lotfy,Pass,M.Basiuony,Passed,Sep,2025
+RMK-2715,45922,Hatem,Reject,M.Basiuony,SIM/Battery Drain (R2),Sep,2025
+RMK-2713,45922,Hatem,Pass,M.Basiuony,Passed,Sep,2025
+RMK-2717,45922,Hossam,Reject,M.Basiuony,Grade Upgrade,Sep,2025
+RMK-2711,45923,Hossam,Pass,M.Basiuony,Passed,Sep,2025
+RMK-2710,45923,A.Lotfy,Pass,Ehab Sadar,Passed,Sep,2025
+UHO-51,45923,A.Lotfy,Pass,Ehab Sadar,Passed,Sep,2025
+RMK-2714,45923,Hossam,Pass,M.Basiuony,Passed,Sep,2025
+RMK-2689,45923,Hatem,Pass,Ehab Sadar,Passed,Sep,2025
+RMK-2719,45923,Hatem,Reject,Ehab Sadar,Label printing Issue,Sep,2025
+RMK-2720,45923,Hossam,Pass,Ehab Sadar,Passed,Sep,2025
+UHO-53,45923,Hatem,Reject,M.Basiuony,Uncompleted QC Comment,Sep,2025
+RMK-2708,45924,A.Lotfy,Pass,Ehab Sadar,Passed,Sep,2025
+ORC-48,45924,A.Lotfy,Pass,Ehab Sadar,Passed,Sep,2025
+ORC-51,45925,A.Lotfy,Pass,M.Basiuony,Passed,Sep,2025
+RMK-2709,45925,A.Lotfy,Pass,M.Basiuony,Passed,Sep,2025
+UHO-52,45925,A.Lotfy,Pass,M.Basiuony,Passed,Sep,2025
+ORC-49,45927,Hossam,Pass,M.Basiuony,Passed,Sep,2025
+RMK-2712,45928,A.Lotfy,Pass,Ehab Sadar,Passed,Sep,2025
+UHO-54,45928,Hossam,Pass,Ehab Sadar,Passed,Sep,2025
+UHO-56,45928,Hatem,Pass,Ehab Sadar,Passed,Sep,2025
+ORC-55,45929,A.Lotfy,Pass,Ehab Sadar,Passed,Sep,2025
+RSD-78,45929,Hatem,Pass,M.Basiuony,Passed,Sep,2025
+UHO-55,45929,A.Lotfy,Reject,M.Basiuony,Label printing Issue,Sep,2025
+RSZ-102,45929,Hossam,Pass,M.Basiuony,Passed,Sep,2025
+ORC-52,45929,A.Lotfy,Pass,Ehab Sadar,Passed,Sep,2025
+ORC-53,45929,Hossam,Pass,Ehab Sadar,Passed,Sep,2025
+ORC-54,45929,Hatem,Pass,Ehab Sadar,Passed,Sep,2025
+RSZ-103,45929,Hossam,Pass,Ehab Sadar,Passed,Sep,2025
+RSZ-105,45930,A.Lotfy,Pass,Ehab Sadar,Passed,Sep,2025
+ORC-50,45930,Hossam,Pass,Ehab Sadar,Passed,Sep,2025
+RSZ-108,45930,Hatem,Pass,Ehab Sadar,Passed,Sep,2025
+FSL-174,45930,Hatem,Pass,Ehab Sadar,Passed,Sep,2025
+FSL-175,45930,Hossam,Pass,Ehab Sadar,Passed,Sep,2025
+RMK-2723,45930,Hossam,Pass,Ehab Sadar,Passed,Sep,2025
+RMK-2724,45930,A.Lotfy,Pass,Ehab Sadar,Passed,Sep,2025
+ORC-56,45931,Hossam,Pass,Ehab Sadar,Passed,Oct,2025
+UHO-58,45931,A.Lotfy,Pass,Ehab Sadar,Passed,Oct,2025
+FSL-176,45931,Hatem,Pass,Ehab Sadar,Passed,Oct,2025
+RMK-2726,45931,Hatem,Pass,Ehab Sadar,Passed,Oct,2025
+RSZ-106,45931,A.Lotfy,Pass,Ehab Sadar,Passed,Oct,2025
+RMK-2728,45932,Hossam,Pass,Ehab Sadar,Passed,Oct,2025
+RMK-2729,45932,Hossam,Pass,Ehab Sadar,Passed,Oct,2025
+RMK-2732,45932,Hatem,Pass,Ehab Sadar,Passed,Oct,2025
+RSZ-107,45932,Hatem,Pass,Ehab Sadar,Passed,Oct,2025
+UHO-57,45932,Hatem,Pass,Ehab Sadar,Passed,Oct,2025
+ORC-57,45932,Hatem,Pass,M.Basiuony,Passed,Oct,2025
+RSZ-109,45932,Hatem,Pass,M.Basiuony,Passed,Oct,2025
+RMK-2731,45934,A.Lotfy,Pass,Ehab Sadar,Passed,Oct,2025
+ORC-58,45934,Hossam,Pass,M.Basiuony,Passed,Oct,2025
+OMH-8,45934,A.Lotfy,Pass,M.Basiuony,Passed,Oct,2025
+RSZ-101,45935,Hossam,Pass,M.Basiuony,Passed,Oct,2025
+RMK-2730,45935,Hossam,Pass,Ehab Sadar,Passed,Oct,2025
+ORC-59,45935,A.Lotfy,Pass,Ehab Sadar,Passed,Oct,2025
+RMK-2740,45935,Hossam,Pass,Ehab Sadar,Passed,Oct,2025
+RMK-2743,45936,Hossam,Pass,Ehab Sadar,Passed,Oct,2025
+OMH-11,45936,A.Lotfy,Pass,Ehab Sadar,Passed,Oct,2025
+RMK-2746,45936,Hossam,Pass,M.Basiuony,Passed,Oct,2025
+RSD-76,45936,A.Lotfy,Reject,M.Basiuony,Label printing Issue,Oct,2025
+RMK-2733,45936,Hossam,Pass,Ehab Sadar,Passed,Oct,2025
+RMK-2738,45936,Hossam,Pass,Ehab Sadar,Passed,Oct,2025
+RMK-2736,45936,A.Lotfy,Pass,Ehab Sadar,Passed,Oct,2025
+FSL-178,45936,Hossam,Pass,Ehab Sadar,Passed,Oct,2025
+RMK-2735,45936,A.Lotfy,Pass,Ehab Sadar,Passed,Oct,2025
+ORC-60,45936,Hossam,Pass,Ehab Sadar,Passed,Oct,2025
+RMK-2741,45936,A.Lotfy,Pass,Ehab Sadar,Passed,Oct,2025
+OMH-10,45936,A.Lotfy,Pass,Ehab Sadar,Passed,Oct,2025
+RMK-2744,45936,Hossam,Pass,Ehab Sadar,Passed,Oct,2025
+RMK-2745,45936,Hossam,Pass,Ehab Sadar,Passed,Oct,2025
+RMK-2734,45937,Hossam,Pass,M.Basiuony,Passed,Oct,2025
+RMK-2737,45937,A.Lotfy,Pass,M.Basiuony,Passed,Oct,2025
+RMK-2742,45937,A.Lotfy,Pass,M.Basiuony,Passed,Oct,2025
+RMK-2748,45937,A.Lotfy,Reject,M.Basiuony,Label printing Issue,Oct,2025
+FSL-177,45937,A.Lotfy,Pass,M.Basiuony,Passed,Oct,2025
+RMK-2747,45937,Hossam,Pass,M.Basiuony,Passed,Oct,2025
+OMH-13,45938,A.Lotfy,Pass,M.Basiuony,Passed,Oct,2025
+OMH-9,45938,A.Lotfy,Pass,M.Basiuony,Passed,Oct,2025
+RMK-2739,45938,A.Lotfy,Pass,M.Basiuony,Passed,Oct,2025
+RMK-2752,45938,A.Lotfy,Pass,M.Basiuony,Passed,Oct,2025
+RSD-79,45938,Hossam,Pass,M.Basiuony,Passed,Oct,2025
+RSZ-110,45938,Hossam,Pass,M.Basiuony,Passed,Oct,2025
+RMK-2751,45938,Hossam,Pass,M.Basiuony,Passed,Oct,2025
+RSZ-112,45941,A.Lotfy,Pass,M.Basiuony,Passed,Oct,2025
+RMK-2757,45941,Hatem,Pass,Ehab Sadar,Passed,Oct,2025
+ORC-62,45941,Hatem,Pass,M.Basiuony,Passed,Oct,2025
+ORC-65,45941,Hatem,Pass,Ehab Sadar,Passed,Oct,2025
+ORC-66,45941,A.Lotfy,Pass,Ehab Sadar,Passed,Oct,2025
+RMK-2755,45941,A.Lotfy,Pass,Ehab Sadar,Passed,Oct,2025
+RMK-2756,45941,Hatem,Pass,Ehab Sadar,Passed,Oct,2025
+VSO-1,45941,A.Lotfy,Pass,Ehab Sadar,Passed,Oct,2025
+OMH-14,45941,Hatem,Pass,M.Basiuony,Passed,Oct,2025
+RMK-2753,45941,Hatem,Pass,M.Basiuony,Passed,Oct,2025
+ORC-64,45942,Hatem,Pass,M.Basiuony,Passed,Oct,2025
+FSL-179,45942,Hossam,Pass,Ehab Sadar,Passed,Oct,2025
+VSO-2,45942,Hossam,Pass,Ehab Sadar,Passed,Oct,2025
+RMK-2763,45943,Hatem,Pass,M.Basiuony,Passed,Oct,2025
+OMH-12,45943,Hatem,Pass,Ehab Sadar,Passed,Oct,2025
+RMK-2727,45943,A.Lotfy,Pass,Ehab Sadar,Passed,Oct,2025
+ORC-61,45944,Hatem,Pass,M.Basiuony,Passed,Oct,2025
+ORC-67,45944,A.Lotfy,Pass,M.Basiuony,Passed,Oct,2025
+RMK-2759,45944,A.Lotfy,Pass,Ehab Sadar,Passed,Oct,2025
+RSZ-111,45944,Hatem,Pass,Ehab Sadar,Passed,Oct,2025
+RMK-2764,45945,Hatem,Reject,Ehab Sadar,Mismatch simtray,Oct,2025
+RSZ-113,45945,A.Lotfy,Pass,Ehab Sadar,Passed,Oct,2025
+UHO-59,45945,Hatem,Pass,Ehab Sadar,Passed,Oct,2025
+UHO-60,45945,Hossam,Reject,Ehab Sadar,Water proof Issue,Oct,2025
+OMH-17,45945,A.Lotfy,Reject,M.Basiuony,Cleaning Issue,Oct,2025
+RMK-2754,45945,A.Lotfy,Pass,Ehab Sadar,Passed,Oct,2025
+RMK-2761,45945,A.Lotfy,Reject,Ehab Sadar,Press Issue,Oct,2025
+RSZ-114,45945,Hossam,Pass,Ehab Sadar,Passed,Oct,2025
+RSZ-115,45945,Hossam,Pass,Ehab Sadar,Passed,Oct,2025
+RMK-2768,45946,Hatem,Pass,M.Basiuony,Passed,Oct,2025
+RMK-2769,45946,Hatem,Pass,Ehab Sadar,Passed,Oct,2025
+RMK-2771,45946,A.Lotfy,Pass,Ehab Sadar,Passed,Oct,2025
+RMK-2774,45946,A.Lotfy,Pass,M.Basiuony,Passed,Oct,2025
+RMK-2770,45946,A.Lotfy,Pass,M.Basiuony,Passed,Oct,2025
+RMK-2767,45946,A.Lotfy,Pass,Ehab Sadar,Passed,Oct,2025
+RMK-2758,45946,Hatem,Pass,Ehab Sadar,Passed,Oct,2025
+RSZ-122,45948,Hossam,Pass,Ehab Sadar,Passed,Oct,2025
+RSZ-124,45948,Hatem,Pass,Ehab Sadar,Passed,Oct,2025
+RMK-2765,45948,Hossam,Pass,Ehab Sadar,Passed,Oct,2025
+RMK-2772,45948,Hossam,Pass,Ehab Sadar,Passed,Oct,2025
+RMK-2773,45948,Hossam,Pass,Ehab Sadar,Passed,Oct,2025
+RSZ-121,45948,Hossam,Pass,Ehab Sadar,Passed,Oct,2025
+RSZ-118,45948,Hossam,Pass,Ehab Sadar,Passed,Oct,2025
+OMH-16,45949,Hatem,Reject,M.Basiuony,Battery drain Issue,Oct,2025
+RMK-2775,45949,Hatem,Reject,M.Basiuony,Mismatch simtray,Oct,2025
+ORC-63,45949,Hatem,Reject,M.Basiuony,Not erased,Oct,2025
+RMK-2780,45949,Hatem,Pass,Ehab Sadar,Passed,Oct,2025
+RSZ-125,45949,Hossam,Pass,Ehab Sadar,Passed,Oct,2025
+RMK-2779,45949,A.Lotfy,Pass,Ehab Sadar,Passed,Oct,2025
+RMK-2781,45949,Hossam,Pass,Ehab Sadar,Passed,Oct,2025
+RSZ-123,45950,Hatem,Reject,Ehab Sadar,Uncompleted QC Comment,Oct,2025
+OMH-15,45950,A.Lotfy,Pass,Ehab Sadar,Passed,Oct,2025
+RMK-2722,45950,A.Lotfy,Pass,Ehab Sadar,Passed,Oct,2025
+RMK-2760,45950,Hatem,Pass,M.Basiuony,Passed,Oct,2025
+RMK-2778,45951,Hossam,Pass,M.Basiuony,Passed,Oct,2025
+RSD-80,45951,A.Lotfy,Pass,M.Basiuony,Passed,Oct,2025
+RMK-2782,45951,Hatem,Pass,M.Basiuony,Passed,Oct,2025
+RMK-2783,45952,Hossam,Pass,Ehab Sadar,Passed,Oct,2025
+RSZ-119,45952,Hossam,Pass,Ehab Sadar,Passed,Oct,2025
+RMK-2766,45952,Hatem,Pass,Ehab Sadar,Passed,Oct,2025
+RSD-82,45952,Hossam,Pass,Ehab Sadar,Passed,Oct,2025
+VSO-4,45952,Hatem,Pass,Ehab Sadar,Passed,Oct,2025
+RMK-2784,45952,Hossam,Pass,Ehab Sadar,Passed,Oct,2025
+RMK-2787,45953,A.Lotfy,Pass,M.Basiuony,Passed,Oct,2025
+RMK-2788,45953,Hatem,Reject,M.Basiuony,Uncompleted QC Comment,Oct,2025
+RSD-81,45956,A.Lotfy,Pass,Ehab Sadar,Passed,Oct,2025
+RMK-2789,45956,A.Lotfy,Pass,M.Basiuony,Passed,Oct,2025
+RMK-2790,45956,Hatem,Pass,Ehab Sadar,Passed,Oct,2025
+RMK-2792,45956,Hossam,Pass,M.Basiuony,Passed,Oct,2025
+RSZ-127,45956,Hossam,Reject,M.Basiuony,Press Issue,Oct,2025
+ORC-69,45957,A.Lotfy,Pass,M.Basiuony,Passed,Oct,2025
+RMK-2791,45957,Hatem,Pass,M.Basiuony,Passed,Oct,2025
+RSZ-126,45957,Hossam,Pass,M.Basiuony,Passed,Oct,2025
+RMK-2776,45957,A.Lotfy,Pass,M.Basiuony,Passed,Oct,2025
+RSZ-120,45957,Hossam,Pass,M.Basiuony,Passed,Oct,2025
+RMK-2786,45957,A.Lotfy,Pass,M.Basiuony,Passed,Oct,2025
+RSD-83,45957,A.Lotfy,Pass,M.Basiuony,Passed,Oct,2025
+OMH-18,45958,Hatem,Pass,Ehab Sadar,Passed,Oct,2025
+ORC-70,45958,Hossam,Reject,M.Basiuony,Battery drain Issue,Oct,2025
+ORC-71,45958,A.Lotfy,Pass,M.Basiuony,Passed,Oct,2025
+UHO-61,45959,A.Lotfy,Pass,M.Basiuony,Passed,Oct,2025
+UHO-62,45959,A.Lotfy,Pass,Ehab Sadar,Passed,Oct,2025
+ORC-68,45960,Hatem,Reject,Ehab Sadar,Uncompleted QC Comment,Oct,2025
+RMK-2802,45960,A.Lotfy,Pass,Ehab Sadar,Passed,Oct,2025
+ORC-72,45960,Hossam,Pass,M.Basiuony,Passed,Oct,2025
+ORC-73,45960,Hossam,Pass,Ehab Sadar,Passed,Oct,2025
+ORC-75,45960,Hatem,Pass,Ehab Sadar,Passed,Oct,2025
+RMK-2803,45960,A.Lotfy,Pass,Ehab Sadar,Passed,Oct,2025
+RMK-2806,45960,Hatem,Pass,M.Basiuony,Passed,Oct,2025
+RSZ-128,45960,Hossam,Pass,Ehab Sadar,Passed,Oct,2025
+RMK-2799,45960,A.Lotfy,Pass,Ehab Sadar,Passed,Oct,2025
+UHO-63,45960,A.Lotfy,Pass,M.Basiuony,Passed,Oct,2025
+RSD-84,45960,Hatem,Pass,M.Basiuony,Passed,Oct,2025
+ORC-74,45960,A.Lotfy,Pass,M.Basiuony,Passed,Oct,2025
+ORC-76,45960,Hatem,Pass,M.Basiuony,Passed,Oct,2025
+RMK-2808,45960,Hatem,Pass,M.Basiuony,Passed,Oct,2025
+RMK-2810,45960,A.Lotfy,Pass,M.Basiuony,Passed,Oct,2025
+RMK-2804,45960,A.Lotfy,Pass,M.Basiuony,Passed,Oct,2025
+RMK-2809,45960,A.Lotfy,Pass,M.Basiuony,Passed,Oct,2025
+RMK-2801,45960,A.Lotfy,Pass,M.Basiuony,Passed,Oct,2025
+RMK-2805,45963,Hatem,Pass,M.Basiuony,Passed,Nov,2025
+RSD-85,45963,A.Lotfy,Pass,Ehab Sadar,Passed,Nov,2025
+RMK-2793,45963,Hatem,Pass,Ehab Sadar,Passed,Nov,2025
+OMH-19,45964,Hatem,Pass,M.Basiuony,Passed,Nov,2025
+OMH-20,45964,A.Lotfy,Pass,M.Basiuony,Passed,Nov,2025
+RMK-2796,45964,Hatem,Pass,M.Basiuony,Passed,Nov,2025
+RMK-2798,45964,Hossam,Pass,Ehab Sadar,Passed,Nov,2025
+RMK-2811,45966,Hossam,Pass,Ehab Sadar,Passed,Nov,2025
+RMK-2814,45966,A.Lotfy,Pass,Ehab Sadar,Passed,Nov,2025
+RMK-2817,45967,Hatem,Pass,M.Basiuony,Passed,Nov,2025
+RSZ-129,45970,Hatem,Pass,M.Basiuony,Passed,Nov,2025
+VSO-5,45971,A.Lotfy,Pass,M.Basiuony,Passed,Nov,2025
+RMK-2820,45971,Hatem,Pass,M.Basiuony,Passed,Nov,2025
+RMK-2819,45971,Hatem,Reject,M.Basiuony,Battery drain Issue,Nov,2025
+RMK-2821,45971,A.Lotfy,Pass,M.Basiuony,Passed,Nov,2025
+RMK-2822,45971,Hatem,Pass,M.Basiuony,Passed,Nov,2025
+ORC-82,45972,Hatem,Pass,M.Basiuony,Passed,Nov,2025
+RMK-2813,45973,A.Lotfy,Pass,M.Basiuony,Passed,Nov,2025
+UHO-64,45973,Hatem,Reject,M.Basiuony,Battery drain Issue,Nov,2025
+VSO-3,45973,Hossam,Pass,M.Basiuony,Passed,Nov,2025
+ORC-78,45973,A.Lotfy,Pass,M.Basiuony,Passed,Nov,2025
+RMK-2807,45973,A.Lotfy,Pass,M.Basiuony,Passed,Nov,2025
+RMK-2794,45973,Hatem,Pass,M.Basiuony,Passed,Nov,2025
+RMK-2795,45973,Hatem,Pass,Ehab Sadar,Passed,Nov,2025
+UHO-70,45974,A.Lotfy,Pass,M.Basiuony,Passed,Nov,2025
+RMK-2812,45974,Hossam,Pass,M.Basiuony,Passed,Nov,2025
+RSZ-117,45974,Hossam,Pass,M.Basiuony,Passed,Nov,2025
+RMK-2823,45974,Hatem,Pass,M.Basiuony,Passed,Nov,2025
+ORC-87,45974,Hatem,Pass,M.Basiuony,Passed,Nov,2025
+RMK-2698,45974,Hatem,Reject,M.Basiuony,Battery drain Issue,Nov,2025
+RMK-2824,45974,A.Lotfy,Pass,M.Basiuony,Passed,Nov,2025
+VSO-8,45974,A.Lotfy,Pass,M.Basiuony,Passed,Nov,2025
+ORC-83,45976,A.Lotfy,Pass,M.Basiuony,Passed,Nov,2025
+UHO-69,45977,Hatem,Pass,Ehab Sadar,Passed,Nov,2025
+UHO-74,45978,Hatem,Pass,Ehab Sadar,Passed,Nov,2025
+RSZ-130,45978,Hossam,Pass,Ehab Sadar,Passed,Nov,2025
+ORC-88,45978,Hossam,Pass,M.Basiuony,Passed,Nov,2025
+RMK-2829,45978,Hatem,Reject,M.Basiuony,Label printing Issue,Nov,2025
+UHO-72,45978,Hatem,Pass,M.Basiuony,Passed,Nov,2025
+ORC-89,45978,A.Lotfy,Reject,M.Basiuony,Mismatch simtray,Nov,2025
+RMK-2831,45979,A.Lotfy,Pass,Ehab Sadar,Passed,Nov,2025
+UHO-77,45979,Hatem,Pass,Ehab Sadar,Passed,Nov,2025
+ORC-86,45979,Hossam,Reject,M.Basiuony,Battery drain Issue,Nov,2025
+ORC-85,45979,A.Lotfy,Pass,M.Basiuony,Passed,Nov,2025
+RSD-86,45979,Hossam,Reject,M.Basiuony,Uncompleted QC Comment,Nov,2025
+UHO-80,45979,Hossam,Pass,M.Basiuony,Passed,Nov,2025
+UHO-79,45980,Hatem,Pass,M.Basiuony,Passed,Nov,2025
+ORC-90,45980,A.Lotfy,Pass,Ehab Sadar,Passed,Nov,2025
+ORC-91,45985,A.Lotfy,Pass,M.Basiuony,Passed,Nov,2025
+RMK-2833,45986,A.Lotfy,Pass,M.Basiuony,Passed,Nov,2025
+UHO-84,45986,Hatem,Reject,M.Basiuony,Screws Issue,Nov,2025
+RMK-2834,45987,Hossam,Pass,Ehab Sadar,Passed,Nov,2025
+UHO-65,45987,Hossam,Reject,M.Basiuony,Cleaning Issue,Nov,2025
+UHO-71,45987,Hatem,Pass,M.Basiuony,Passed,Nov,2025
+UHO-76,45987,Hatem,Pass,M.Basiuony,Passed,Nov,2025
+RMK-2800,45987,A.Lotfy,Pass,M.Basiuony,Passed,Nov,2025
+RMK-2825,45987,Hossam,Pass,Ehab Sadar,Passed,Nov,2025
+RMK-2826,45987,A.Lotfy,Pass,Ehab Sadar,Passed,Nov,2025
+UHO-83,45987,A.Lotfy,Pass,Ehab Sadar,Passed,Nov,2025
+VSO-6,45987,A.Lotfy,Pass,Ehab Sadar,Passed,Nov,2025
+UHO-75,45987,Hossam,Pass,Ehab Sadar,Passed,Nov,2025
+ORC-81,45988,Hatem,Pass,Ehab Sadar,Passed,Nov,2025
+ORC-95,45988,Hatem,Pass,Ehab Sadar,Passed,Nov,2025
+RSD-87,45988,A.Lotfy,Pass,Ehab Sadar,Passed,Nov,2025
+VSO-7,45988,A.Lotfy,Pass,Ehab Sadar,Passed,Nov,2025
+ORC-94,45990,A.Lotfy,Pass,Ehab Sadar,Passed,Nov,2025
+RMK-2839,45990,Hossam,Pass,Ehab Sadar,Passed,Nov,2025
+RMK-2838,45991,Hossam,Pass,Ehab Sadar,Passed,Nov,2025
+RMK-2837,45991,Hossam,Pass,Ehab Sadar,Passed,Nov,2025
+UHO-86,45991,Hossam,Pass,M.Basiuony,Passed,Nov,2025
+ORC-84,45991,A.Lotfy,Pass,M.Basiuony,Passed,Nov,2025
+RMK-2835,45991,A.Lotfy,Pass,Ehab Sadar,Passed,Nov,2025
+UHO-78,45991,Hossam,Pass,Ehab Sadar,Passed,Nov,2025
+UHO-67,45991,Hossam,Pass,Ehab Sadar,Passed,Nov,2025
+UHO-81,45991,A.Lotfy,Pass,Ehab Sadar,Passed,Nov,2025
+RSZ-131,45992,A.Lotfy,Pass,Ehab Sadar,Passed,Dec,2025
+RMK-2828,45992,Hatem,Pass,Ehab Sadar,Passed,Dec,2025
+RMK-2836,45992,Hossam,Pass,M.Basiuony,Passed,Dec,2025
+ORC-92,45993,A.Lotfy,Pass,M.Basiuony,Passed,Dec,2025
+RMK-2815,45993,Hossam,Pass,M.Basiuony,Passed,Dec,2025
+RMK-2842,45993,Hatem,Reject,M.Basiuony,Label printing Issue,Dec,2025
+UHO-89,45993,A.Lotfy,Pass,M.Basiuony,Passed,Dec,2025
+VSO-10,45993,Hossam,Pass,M.Basiuony,Passed,Dec,2025
+RMK-2844,45993,A.Lotfy,Pass,M.Basiuony,Passed,Dec,2025
+UHO-90,45993,Hossam,Pass,Ehab Sadar,Passed,Dec,2025
+RMK-2841,45994,Hossam,Pass,M.Basiuony,Passed,Dec,2025
+RMK-2843,45994,A.Lotfy,Pass,M.Basiuony,Passed,Dec,2025
+RMK-2854,45995,Hatem,Pass,Ehab Sadar,Passed,Dec,2025
+RMK-2851,45995,A.Lotfy,Pass,M.Basiuony,Passed,Dec,2025
+RMK-2859,45995,Hossam,Pass,Ehab Sadar,Passed,Dec,2025
+RMK-2861,45995,Hossam,Pass,Ehab Sadar,Passed,Dec,2025
+UHO-82,45995,A.Lotfy,Pass,Ehab Sadar,Passed,Dec,2025
+RMK-2847,45997,Hossam,Pass,M.Basiuony,Passed,Dec,2025
+RMK-2848,45997,Hossam,Pass,Ehab Sadar,Passed,Dec,2025
+RMK-2853,45997,A.Lotfy,Pass,Ehab Sadar,Passed,Dec,2025
+RMK-2865,45997,Hatem,Pass,M.Basiuony,Passed,Dec,2025
+RMK-2867,45997,Hatem,Pass,Ehab Sadar,Passed,Dec,2025
+RMK-2852,45997,A.Lotfy,Pass,M.Basiuony,Passed,Dec,2025
+RMK-2855,45997,Hatem,Pass,M.Basiuony,Passed,Dec,2025
+RMK-2856,45997,Hatem,Pass,M.Basiuony,Passed,Dec,2025
+RMK-2863,45997,Hossam,Pass,M.Basiuony,Passed,Dec,2025
+RMK-2869,45997,A.Lotfy,Pass,Ehab Sadar,Passed,Dec,2025
+RMK-2849,45997,Hatem,Pass,M.Basiuony,Passed,Dec,2025
+RMK-2877,45998,Hossam,Pass,Ehab Sadar,Passed,Dec,2025
+RMK-2875,45998,Hossam,Pass,Ehab Sadar,Passed,Dec,2025
+RMK-2872,45998,A.Lotfy,Pass,Ehab Sadar,Passed,Dec,2025
+RMK-2860,45998,A.Lotfy,Pass,Ehab Sadar,Passed,Dec,2025
+RMK-2864,45998,A.Lotfy,Pass,Ehab Sadar,Passed,Dec,2025
+RMK-2882,45999,Hossam,Pass,Ehab Sadar,Passed,Dec,2025
+RMK-2857,45999,Hossam,Pass,Ehab Sadar,Passed,Dec,2025
+RMK-2876,45999,Hossam,Pass,Ehab Sadar,Passed,Dec,2025
+RMK-2881,45999,A.Lotfy,Pass,Ehab Sadar,Passed,Dec,2025
+ORC-99,45999,A.Lotfy,Pass,M.Basiuony,Passed,Dec,2025
+RMK-2889,45999,Hossam,Pass,M.Basiuony,Passed,Dec,2025
+RMK-2858,45999,A.Lotfy,Pass,Ehab Sadar,Passed,Dec,2025
+RMK-2816,45999,A.Lotfy,Pass,Ehab Sadar,Passed,Dec,2025
+RMK-2874,45999,Hossam,Pass,Ehab Sadar,Passed,Dec,2025
+RMK-2880,45999,A.Lotfy,Pass,Ehab Sadar,Passed,Dec,2025
+RMK-2873,46000,A.Lotfy,Reject,Ehab Sadar,Uncompleted QC Comment,Dec,2025
+RMK-2862,46000,Hossam,Pass,Ehab Sadar,Passed,Dec,2025
+UHO-73,46000,Hossam,Pass,M.Basiuony,Passed,Dec,2025
+VSO-13,46000,Hatem,Pass,Ehab Sadar,Passed,Dec,2025
+ORC-93,46000,Hatem,Pass,Ehab Sadar,Passed,Dec,2025
+RMK-2868,46000,Hatem,Pass,Ehab Sadar,Passed,Dec,2025
+ORC-79,46000,Hossam,Pass,Ehab Sadar,Passed,Dec,2025
+RMK-2850,46000,Hossam,Pass,Ehab Sadar,Passed,Dec,2025
+UHO-88,46000,A.Lotfy,Pass,Ehab Sadar,Passed,Dec,2025
+UHO-66,46000,Hossam,Pass,Ehab Sadar,Passed,Dec,2025
+UHO-85,46001,Hossam,Pass,Ehab Sadar,Passed,Dec,2025
+UHO-95,46001,Hatem,Reject,Ehab Sadar,Network Issue,Dec,2025
+RMK-2840,46001,Hossam,Pass,Ehab Sadar,Passed,Dec,2025
+UHO-94,46001,A.Lotfy,Pass,Ehab Sadar,Passed,Dec,2025
+OMH-23,46001,Hossam,Pass,Ehab Sadar,Passed,Dec,2025
+RMK-2898,46002,Hossam,Pass,M.Basiuony,Passed,Dec,2025
+RSZ-135,46002,Hatem,Pass,Ehab Sadar,Passed,Dec,2025
+RMK-2892,46002,Hossam,Pass,Ehab Sadar,Passed,Dec,2025
+RMK-2904,46002,Hatem,Pass,M.Basiuony,Passed,Dec,2025
+RSZ-133,46002,Hossam,Pass,M.Basiuony,Passed,Dec,2025
+RMK-2905,46002,Hatem,Pass,Ehab Sadar,Passed,Dec,2025
+RMK-2895,46002,A.Lotfy,Pass,M.Basiuony,Passed,Dec,2025
+RMK-2896,46002,Hossam,Pass,Ehab Sadar,Passed,Dec,2025
+RMK-2897,46002,A.Lotfy,Pass,Ehab Sadar,Passed,Dec,2025
+RMK-2899,46002,A.Lotfy,Pass,M.Basiuony,Passed,Dec,2025
+RMK-2900,46002,Hossam,Pass,Ehab Sadar,Passed,Dec,2025
+RMK-2902,46002,Hatem,Reject,Ehab Sadar,Uncompleted QC Comment,Dec,2025
+RMK-2903,46002,Hatem,Pass,Ehab Sadar,Passed,Dec,2025
+RMK-2906,46002,Hossam,Pass,Ehab Sadar,Passed,Dec,2025
+RMK-2908,46002,Hatem,Reject,M.Basiuony,Accessory Found,Dec,2025
+OMH-24,46002,Hatem,Pass,M.Basiuony,Passed,Dec,2025
+RMK-2901,46004,A.Lotfy,Pass,M.Basiuony,Passed,Dec,2025
+OMH-25,46004,Hatem,Pass,M.Basiuony,Passed,Dec,2025
+RSZ-139,46004,A.Lotfy,Pass,M.Basiuony,Passed,Dec,2025
+OMH-27,46005,A.Lotfy,Pass,Ehab Sadar,Passed,Dec,2025
+RMK-2916,46005,A.Lotfy,Pass,Ehab Sadar,Passed,Dec,2025
+RSZ-132,46005,Hossam,Pass,Ehab Sadar,Passed,Dec,2025
+RSZ-136,46005,A.Lotfy,Pass,Ehab Sadar,Passed,Dec,2025
+UHO-92,46005,Hossam,Pass,Ehab Sadar,Passed,Dec,2025
+RMK-2907,46005,A.Lotfy,Pass,Ehab Sadar,Passed,Dec,2025
+ORC-100,46005,Hossam,Reject,Ehab Sadar,Touch unstable,Dec,2025
+UHO-91,46005,A.Lotfy,Pass,Ehab Sadar,Passed,Dec,2025
+RMK-2893,46005,Hossam,Pass,Ehab Sadar,Passed,Dec,2025
+ORC-97,46006,Hossam,Pass,Ehab Sadar,Passed,Dec,2025
+RSD-88,46006,Hatem,Pass,Ehab Sadar,Passed,Dec,2025
+OMH-22,46006,A.Lotfy,Pass,Ehab Sadar,Passed,Dec,2025
+RMK-2866,46006,Hossam,Pass,Ehab Sadar,Passed,Dec,2025
+RMK-2871,46006,A.Lotfy,Pass,Ehab Sadar,Passed,Dec,2025
+RMK-2911,46006,Hatem,Pass,M.Basiuony,Passed,Dec,2025
+RMK-2918,46006,A.Lotfy,Pass,M.Basiuony,Passed,Dec,2025
+RMK-2915,46007,Hossam,Pass,Ehab Sadar,Passed,Dec,2025
+RSZ-134,46007,Hatem,Pass,Ehab Sadar,Passed,Dec,2025
+VSO-15,46007,Hatem,Reject,Ehab Sadar,Camera Issue,Dec,2025
+RMK-2917,46007,Hossam,Pass,M.Basiuony,Passed,Dec,2025
+OMH-28,46007,Hossam,Pass,M.Basiuony,Passed,Dec,2025
+ORC-96,46007,Hatem,Pass,M.Basiuony,Passed,Dec,2025
+RMK-2883,46007,Hossam,Pass,M.Basiuony,Passed,Dec,2025
+ORC-103,46008,A.Lotfy,Pass,Ehab Sadar,Passed,Dec,2025
+ORC-104,46008,A.Lotfy,Pass,Ehab Sadar,Passed,Dec,2025
+ORC-106,46008,Hatem,Pass,Ehab Sadar,Passed,Dec,2025
+RMK-2884,46008,A.Lotfy,Pass,Ehab Sadar,Passed,Dec,2025
+VSO-9,46008,A.Lotfy,Pass,Ehab Sadar,Passed,Dec,2025
+RMK-2830,46008,Hatem,Pass,M.Basiuony,Passed,Dec,2025
+RMK-2888,46008,A.Lotfy,Pass,M.Basiuony,Passed,Dec,2025
+RMK-2922,46008,Hatem,Pass,M.Basiuony,Passed,Dec,2025
+VSO-11,46008,Hatem,Pass,M.Basiuony,Passed,Dec,2025
+RMK-2886,46008,Hatem,Pass,M.Basiuony,Passed,Dec,2025
+RMK-2913,46008,A.Lotfy,Pass,M.Basiuony,Passed,Dec,2025
+UHO-100,46008,Hatem,Pass,M.Basiuony,Passed,Dec,2025
+RMK-2925,46009,A.Lotfy,Reject,Ehab Sadar,Camera Issue,Dec,2025
+RMK-2924,46009,Hatem,Pass,Ehab Sadar,Passed,Dec,2025
+RMK-2926,46009,Hatem,Pass,Ehab Sadar,Passed,Dec,2025
+RMK-2914,46009,A.Lotfy,Pass,Ehab Sadar,Passed,Dec,2025
+RMK-2920,46009,Hatem,Pass,Ehab Sadar,Passed,Dec,2025
+VSO-14,46009,Hatem,Pass,Ehab Sadar,Passed,Dec,2025
+OMH-26,46011,Hossam,Pass,Ehab Sadar,Passed,Dec,2025
+RMK-2919,46011,Hossam,Pass,Ehab Sadar,Passed,Dec,2025
+RSZ-138,46011,Hossam,Pass,Ehab Sadar,Passed,Dec,2025
+VSO-12,46011,Hossam,Pass,Ehab Sadar,Passed,Dec,2025
+RMK-2927,46012,A.Lotfy,Pass,M.Basiuony,Passed,Dec,2025
+ORC-108,46012,Hatem,Reject,M.Basiuony,Received devices Issue,Dec,2025
+ORC-98,46012,Hossam,Pass,M.Basiuony,Passed,Dec,2025
+RMK-2933,46012,Hatem,Pass,M.Basiuony,Passed,Dec,2025
+ORC-109,46012,A.Lotfy,Reject,M.Basiuony,Screws Issue,Dec,2025
+ORC-111,46013,Hossam,Reject,M.Basiuony,Accessory Found,Dec,2025
+RMK-2845,46013,A.Lotfy,Pass,Ehab Sadar,Passed,Dec,2025
+RMK-2932,46013,A.Lotfy,Pass,Ehab Sadar,Passed,Dec,2025
+UHO-102,46013,A.Lotfy,Pass,Ehab Sadar,Passed,Dec,2025
+UHO-103,46013,Hossam,Pass,Ehab Sadar,Passed,Dec,2025
+RMK-2935,46013,Hatem,Pass,M.Basiuony,Passed,Dec,2025
+RMK-2936,46013,Hatem,Pass,M.Basiuony,Passed,Dec,2025
+RMK-2937,46013,A.Lotfy,Pass,M.Basiuony,Passed,Dec,2025
+RMK-2938,46013,Hossam,Pass,M.Basiuony,Passed,Dec,2025
+RMK-2939,46013,Hatem,Pass,Ehab Sadar,Passed,Dec,2025
+RMK-2944,46013,Hatem,Pass,Ehab Sadar,Passed,Dec,2025
+RMK-2943,46014,A.Lotfy,Pass,Ehab Sadar,Passed,Dec,2025
+OMH-21,46014,Hatem,Reject,M.Basiuony,SIM/Battery Drain (R2),Dec,2025
+OMH-30,46014,Hossam,Pass,M.Basiuony,Passed,Dec,2025
+RMK-2887,46014,Hossam,Reject,Ehab Sadar,Uncompleted QC Comment,Dec,2025
+RMK-2890,46014,Hatem,Pass,Ehab Sadar,Passed,Dec,2025
+RMK-2931,46014,Hatem,Pass,Ehab Sadar,Passed,Dec,2025
+RMK-2934,46014,Hossam,Pass,Ehab Sadar,Passed,Dec,2025
+RMK-2942,46014,Hossam,Pass,Ehab Sadar,Passed,Dec,2025
+UHO-106,46014,A.Lotfy,Pass,Ehab Sadar,Passed,Dec,2025
+UHO-93,46014,A.Lotfy,Pass,M.Basiuony,Passed,Dec,2025
+ORC-110,46015,A.Lotfy,Pass,M.Basiuony,Passed,Dec,2025
+RMK-2940,46015,Hossam,Pass,M.Basiuony,Passed,Dec,2025
+UHO-105,46015,A.Lotfy,Pass,M.Basiuony,Passed,Dec,2025
+RMK-2929,46018,A.Lotfy,Pass,M.Basiuony,Passed,Dec,2025
+RMK-2941,46019,Hatem,Pass,Ehab Sadar,Passed,Dec,2025
+RMK-2946,46019,Hossam,Pass,Ehab Sadar,Passed,Dec,2025
+RSZ-137,46019,Hossam,Pass,Ehab Sadar,Passed,Dec,2025
+RMK-2909,46020,Hossam,Pass,Ehab Sadar,Passed,Dec,2025
+RMK-2912,46020,Hossam,Pass,Ehab Sadar,Passed,Dec,2025
+ORC-112,46020,Hatem,Pass,Ehab Sadar,Passed,Dec,2025
+UHO-96,46020,Hossam,Pass,Ehab Sadar,Passed,Dec,2025
+OMH-29,46020,Hatem,Pass,M.Basiuony,Passed,Dec,2025
+RMK-2930,46020,Hossam,Pass,M.Basiuony,Passed,Dec,2025
+ORC-107,46020,Hatem,Pass,M.Basiuony,Passed,Dec,2025
+RMK-2894,46020,Hossam,Pass,M.Basiuony,Passed,Dec,2025
+UHO-104,46021,A.Lotfy,Pass,M.Basiuony,Passed,Dec,2025
+RMK-2928,46021,A.Lotfy,Pass,M.Basiuony,Passed,Dec,2025
+UHO-101,46021,A.Lotfy,Reject,M.Basiuony,Screws Issue,Dec,2025
+ORC-105,46021,A.Lotfy,Pass,M.Basiuony,Passed,Dec,2025
+ORC-101,46021,A.Lotfy,Pass,M.Basiuony,Passed,Dec,2025
+RMK-2921,46021,A.Lotfy,Pass,M.Basiuony,Passed,Dec,2025
+RMK-2832,46021,A.Lotfy,Pass,M.Basiuony,Passed,Dec,2025
+RMK-2948,46030,A.Lotfy,Pass,M.Basiuony,Passed,Jan,2026
+RMK-2951,46032,Hossam,Pass,Ehab Sadar,Passed,Jan,2026
+RMK-2949,46033,Hossam,Pass,M.Basiuony,Passed,Jan,2026
+RMK-2952,46033,Hossam,Pass,M.Basiuony,Passed,Jan,2026
+RMK-2954,46033,Hossam,Pass,Ehab Sadar,Passed,Jan,2026
+RMK-2955,46033,Hossam,Pass,Ehab Sadar,Passed,Jan,2026
+ORC-113,46034,A.Lotfy,Pass,M.Basiuony,Passed,Jan,2026
+RMK-2950,46034,A.Lotfy,Pass,Ehab Sadar,Passed,Jan,2026
+RMK-2953,46034,Hossam,Pass,M.Basiuony,Passed,Jan,2026
+RMK-2958,46034,Hatem,Pass,Ehab Sadar,Passed,Jan,2026
+RMK-2957,46035,Hatem,Pass,Ehab Sadar,Passed,Jan,2026
+RMK-2945,46036,A.Lotfy,Pass,Ehab Sadar,Passed,Jan,2026
+UHO-87,46043,A.Lotfy,Pass,M.Basiuony,Passed,Jan,2026
+RMK-2947,46043,Hossam,Pass,Ehab Sadar,Passed,Jan,2026
+RMK-2956,46044,A.Lotfy,Pass,Ehab Sadar,Passed,Jan,2026
+UHO-98,46044,Hatem,Pass,Ehab Sadar,Passed,Jan,2026
+RMK-2910,46044,Hatem,Pass,Ehab Sadar,Passed,Jan,2026
+UHO-97,46044,A.Lotfy,Pass,M.Basiuony,Passed,Jan,2026
+VSO-16,46047,A.Lotfy,Pass,M.Basiuony,Passed,Jan,2026
+RMK-2963,46053,A.Lotfy,Reject,M.Basiuony,Grade Downgrade,Jan,2026
+RMK-2959,46058,A.Lotfy,Pass,M.Basiuony,Passed,Feb,2026
+RMK-2965,46058,A.Lotfy,Pass,M.Basiuony,Passed,Feb,2026
+RMK-2923,46061,Hossam,Pass,Ehab Sadar,Passed,Feb,2026
+VSO-17,46062,A.Lotfy,Pass,M.Basiuony,Passed,Feb,2026
+VSO-18,46062,Hossam,Pass,M.Basiuony,Passed,Feb,2026
+RMK-2966,46063,Hossam,Pass,Ehab Sadar,Passed,Feb,2026
+VSO-20,46071,Hossam,Pass,M.Basiuony,Passed,Feb,2026
+RMK-2797,46072,Hossam,Pass,Ehab Sadar,Passed,Feb,2026
+RMK-2978,46078,A.Lotfy,Pass,Ehab Sadar,Passed,Feb,2026
+RMK-2979,46078,Hatem,Pass,M.Basiuony,Passed,Feb,2026
+RMK-2969,46079,A.Lotfy,Pass,Ehab Sadar,Passed,Feb,2026
+RMK-2974,46079,A.Lotfy,Pass,Ehab Sadar,Passed,Feb,2026
+RMK-2971,46079,A.Lotfy,Pass,Ehab Sadar,Passed,Feb,2026
+RMK-2967,46079,A.Lotfy,Pass,M.Basiuony,Passed,Feb,2026
+RMK-2972,46079,Hossam,Pass,M.Basiuony,Passed,Feb,2026
+RMK-2977,46079,Hossam,Pass,M.Basiuony,Passed,Feb,2026
+RMK-2968,46079,Hossam,Pass,Ehab Sadar,Passed,Feb,2026
+RMK-2973,46079,Hatem,Reject,M.Basiuony,Grade Downgrade,Feb,2026
+RMK-2981,46079,Hossam,Pass,Ehab Sadar,Passed,Feb,2026
+RMK-2980,46079,Hatem,Pass,Ehab Sadar,Passed,Feb,2026
+RMK-2975,46079,Hossam,Pass,M.Basiuony,Passed,Feb,2026
+RMK-2976,46079,Hatem,Pass,M.Basiuony,Passed,Feb,2026
+RMK-2970,46079,Hatem,Pass,M.Basiuony,Passed,Feb,2026
+RMK-2988,46084,A.Lotfy,Pass,M.Basiuony,Passed,Mar,2026
+RMK-2987,46084,Hossam,Pass,Ehab Sadar,Passed,Mar,2026
+RMK-2986,46085,A.Lotfy,Pass,Ehab Sadar,Passed,Mar,2026
+RMK-2992,46085,A.Lotfy,Pass,Ehab Sadar,Passed,Mar,2026
+VSO-23,46086,Hossam,Pass,Ehab Sadar,Passed,Mar,2026
+RMK-2993,46086,A.Lotfy,Pass,Ehab Sadar,Passed,Mar,2026
+RMK-2994,46086,Hossam,Pass,Ehab Sadar,Passed,Mar,2026
+RMK-2995,46086,A.Lotfy,Pass,Ehab Sadar,Passed,Mar,2026
+RMK-2996,46086,Hossam,Pass,Ehab Sadar,Passed,Mar,2026
+RMK-2997,46086,Hossam,Pass,Ehab Sadar,Passed,Mar,2026
+RSZ-140,46086,A.Lotfy,Pass,Ehab Sadar,Passed,Mar,2026
+RMK-2989,46088,Hatem,Pass,M.Basiuony,Passed,Mar,2026
+RMK-2999,46091,A.Lotfy,Pass,M.Basiuony,Passed,Mar,2026
+RMK-2998,46091,A.Lotfy,Pass,M.Basiuony,Passed,Mar,2026
+RMK-3001,46092,Hossam,Reject,M.Basiuony,Uncompleted QC Comment,Mar,2026
+RMK-3000,46092,A.Lotfy,Pass,Ehab Sadar,Passed,Mar,2026
+RMK-2982,46092,Hatem,Pass,M.Basiuony,Passed,Mar,2026
+VSO-21,46092,Hossam,Reject,M.Basiuony,Not erased,Mar,2026
+RMK-3002,46093,Hatem,Pass,M.Basiuony,Passed,Mar,2026
+UHO-108,46093,Hossam,Pass,M.Basiuony,Passed,Mar,2026
+RMK-3004,46096,Hossam,Pass,M.Basiuony,Passed,Mar,2026
+RMK-3005,46096,A.Lotfy,Pass,M.Basiuony,Passed,Mar,2026
+RMK-3003,46097,A.Lotfy,Pass,M.Basiuony,Passed,Mar,2026
+RMK-3007,46097,Hossam,Reject,M.Basiuony,Label printing Issue,Mar,2026
+RMK-3009,46097,A.Lotfy,Pass,M.Basiuony,Passed,Mar,2026
+RMK-3008,46097,Hatem,Reject,M.Basiuony,Not erased,Mar,2026
+RMK-2984,46098,A.Lotfy,Pass,M.Basiuony,Passed,Mar,2026
+UHO-109,46099,Hatem,Pass,Ehab Sadar,Passed,Mar,2026
+RMK-3013,46099,Hossam,Pass,M.Basiuony,Passed,Mar,2026
+RMK-3015,46099,A.Lotfy,Pass,M.Basiuony,Passed,Mar,2026
+RMK-2991,46099,Hatem,Pass,M.Basiuony,Passed,Mar,2026
+RMK-3018,46107,Hatem,Pass,Ehab Sadar,Passed,Mar,2026
+RMK-3016,46107,Hatem,Pass,Ehab Sadar,Passed,Mar,2026
+RMK-3017,46107,Hatem,Pass,Ehab Sadar,Passed,Mar,2026
+RMK-3019,46107,Hatem,Pass,Ehab Sadar,Passed,Mar,2026
+RMK-3011,46107,Hatem,Pass,Ehab Sadar,Passed,Mar,2026
+RMK-3020,46107,Hatem,Pass,Ehab Sadar,Passed,Mar,2026
+VSO-22,46114,Hossam,Pass,M.Basiuony,Passed,Apr,2026
+RMK-3021,46118,Hossam,Pass,Ehab Sadar,Passed,Apr,2026
+RMK-3022,46118,A.Lotfy,Pass,M.Basiuony,Passed,Apr,2026
+RMK-3023,46118,Hossam,Pass,Ehab Sadar,Passed,Apr,2026
+ORC-114,46118,A.Lotfy,Pass,M.Basiuony,Passed,Apr,2026
+RMK-3024,46118,Hossam,Pass,Ehab Sadar,Passed,Apr,2026
+RMK-3010,46121,A.Lotfy,Pass,Ehab Sadar,Passed,Apr,2026
+RMK-3027,46121,A.Lotfy,Pass,Ehab Sadar,Passed,Apr,2026
+ORC-115,46121,A.Lotfy,Pass,Ehab Sadar,Passed,Apr,2026
+RMK-3014,46121,A.Lotfy,Pass,Ehab Sadar,Passed,Apr,2026
+RMK-3025,46126,Hossam,Pass,M.Basiuony,Passed,Apr,2026
+RMK-3026,46128,A.Lotfy,Pass,M.Basiuony,Passed,Apr,2026
+RMK-3028,46130,A.Lotfy,Pass,M.Basiuony,Passed,Apr,2026
+RMK-3029,46130,A.Lotfy,Pass,M.Basiuony,Passed,Apr,2026
+OMH-32,46133,A.Lotfy,Pass,Ehab Sadar,Passed,Apr,2026
+OMH-33,46133,A.Lotfy,Pass,M.Basiuony,Passed,Apr,2026
+ORC-122,46137,Hossam,Pass,Ehab Sadar,Passed,Apr,2026
+ORC-121,46138,Hossam,Pass,Ehab Sadar,Passed,Apr,2026
+ORC-124,46139,A.Lotfy,Pass,M.Basiuony,Passed,Apr,2026
+ORC-116,46139,Hossam,Pass,Ehab Sadar,Passed,Apr,2026
+RSD-89,46139,Hossam,Pass,M.Basiuony,Passed,Apr,2026
+ORC-123,46140,A.Lotfy,Pass,M.Basiuony,Passed,Apr,2026
+OMH-31,46140,Hossam,Pass,M.Basiuony,Passed,Apr,2026
+RMK-3033,46140,A.Lotfy,Pass,Ehab Sadar,Passed,Apr,2026
+RSZ-143,46147,A.Lotfy,Pass,M.Basiuony,Passed,May,2026
+RSZ-144,46147,Hossam,Pass,Ehab Sadar,Passed,May,2026
+RMK-3032,46155,Hossam,Pass,Ehab Sadar,Passed,May,2026
+RMK-3039,46155,Hossam,Pass,Ehab Sadar,Passed,May,2026
