@@ -19,14 +19,25 @@ fetch("data.csv")
 
     const clean = (v) => v ? v.trim() : "";
 
-    allData.push({
-      job: clean(cols[0]),
-      date: clean(cols[1]),
-      qc: clean(cols[2]),
-      status: clean(cols[3]),
-      by: clean(cols[4]),
-      category: clean(cols[5])
-    });
+   allData.push({
+
+  job: clean(cols[0]),
+
+  date: clean(cols[1]),
+
+  qc: clean(cols[2]),
+
+  status: clean(cols[3]),
+
+  by: clean(cols[4]),
+
+  category: clean(cols[5]),
+
+  month: clean(cols[6]),
+
+  year: clean(cols[7])
+
+});
 
   });
 
@@ -66,13 +77,13 @@ function applyFilters() {
 
   // YEAR FILTER
   if (year !== "") {
-    filtered = filtered.filter(x => x.date.includes(year));
+    filtered = filtered.filter(x => x.year === year);
   }
 
 
   // MONTH FILTER
   if (month !== "") {
-    filtered = filtered.filter(x => x.date.includes(month));
+    filtered = filtered.filter(x => x.month === month);
   }
 
 
