@@ -117,7 +117,7 @@ function renderTable(data) {
 
   tbody.innerHTML = "";
 
-  data.forEach(r => {
+  data.slice(0, 10).forEach(r => {
 
     tbody.innerHTML += `
 
